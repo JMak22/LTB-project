@@ -1,0 +1,39 @@
+| metric_id                    | display_name                                                   | notes |
+| ---------------------------- | -------------------------------------------------------------- | ----- |
+| total_received               | Applications received                                          |       |
+| total_resolved               | Applications resolved                                          |       |
+| total_unresolved             | Unresolved applications                                        |       |
+| cost_filing                  | Cost of filing                                                 |       |
+| cost_filing_tenant           | Cost of filing for the tenant                                  |       |
+| budget_expenditures          | Budget expenditures                                            |       |
+| salaries_wages               | Salaries and wages                                             |       |
+| other_expenses               | Other direct operating expenses                                |       |
+| benefits                     | Benefits (paid to employees)                                   |       |
+| revenue                      | Revenue                                                        |       |
+| adjudicators_FT              | Full time adjudicators                                         |       |
+| adjudicators_PT              | Part time adjudicators                                         |       |
+| staff                        | Staff (assuming administrative and customer service)           |       |
+| adjudicators_FTE             | Full time equivalent number of adjudicators                    |       |
+| staff_FTE                    | Full time equivalent number of staff                           |       |
+| region_central               | Central region (see map)                                       |       |
+| region_eastern               | Eastern region (see map)                                       |       |
+| region_northern              | Northern region                                                |       |
+| region_southern              | Southern region                                                |       |
+| region_southwestern          | Southwestern region                                            |       |
+| region_torontoNorth          | Toronto North region                                           |       |
+| region_torontoEast           | Toronto East region                                            |       |
+| region_torontoSouth          | Toronto South region                                           |       |
+| landlord_received            | Applications received from landlords                           |       |
+| tenant_received              | Applications received from tenants                             |       |
+| resolved_abandoned           | Ordered by hearing abandoned                                   |       |
+| resolved_mediation           | Mediated; ordered by hearing mediated                          |       |
+| resolved_hearing             | Ordered by hearing contested or uncontested; ordered by review |       |
+| resolved_wo_hearing          | Ordered ex parte; ordered by section 206 agreement             |       |
+| review_submitted             | Case submitted for review                                      |       |
+| review_denied                | Case review denied                                             |       |
+| review_sentHearing           | Review sent to a hearing                                       |       |
+| resolved_withdrawn           | Case resolved through withdrawal                               |       |
+| resolved_other               | Discontinued; order voided; ordered amended; amendment denied  |       |
+| mediation_attempted          | Attempted mediation                                            |       |
+| mediation_rate               | Portion of cases resolved through mediation                    |       |
+| resolved_withdrawn_mediation | Number of cases withdrawn due to mediation                     |       |
