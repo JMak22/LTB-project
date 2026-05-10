@@ -1,0 +1,11 @@
+# Methodology notes
+- downloaded Annual Reports available on tribunalsontario.ca, printing to PDF the sections that pertain to the Landlord and Tenant board
+- found reports unavailable through the above website on archive.org by accessing archived pages of ltb.on.ca and downloading the reports
+
+- built a spreadsheet of data available in the reports by hand, copy-pasting information from the reports (yes.)
+	- took notes on the operational changes over time, organisations consulted, changes in metrics reported etc.
+
+- used `tesseract 5.3.4` and `ocrmypdf 15.2.0+dfsg1` to OCR the report contents, then `qpdf` to merge all reports into one document
+
+- started creating a metrics dictionary for the various data points found in the reports
+- used python to change the way the data is displayed in the "notes" spreadsheet into the more standard long format, with the metric_ids from the dictionary
