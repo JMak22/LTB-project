@@ -16,8 +16,30 @@ This project uses publicly available information for research and civic analysis
 - created one documents for Annual reports from 1998 to fiscal 2024-2025
 - currently engaged in cleaning up CanLII metadata and operational data from Annual Reports
 
+### Ongoing:
+- updating Metric_dict_mkdwn as new metric_ids are identified
+
+### Data clean up finished:
+- Operational metrics -- contains number of applications filed, resolved and unresolved for each report year. Some data is not available but can be calculated
+- Regional metrics -- contains number of applications filed, resolved and unresolved in each of the 8 regions for report years 1998-2014
+
+### To do:
+- create applic_type_dict which will contain application type codes and explanations of each type
+- create applic_type_metrics from Annual Report data
+- create resolution_metrics from Annual Report data
+- create institutional_changelog from Annual Report data
+- validate extracted data
+
+- compare metadata available from CanLII with data available from Annual Reports
+- decide if additional housing data should be collected from other sources (ex. Statistics Canada, CMHC, etc.)
+ 
+- decide on first story to tell from data
+  - create visualisations that best illustrate the story
+
+- share findings and conclusions with interested parties
+
 ## Limitations
 1. ORHT/LTB Annual Reports represent aggregate data about the function of the bodies. The way the data is selected, structured and reported has changed over the years so the data cannot be considered complete.
 2. OCR is not perfect, so documents may contain transcription errors, especially in charts, scanned images or tables. As a result, any kind of automated text analysis may contain errors.
 3. Published tribunal data does not contain the full context of a dispute, outcome or settlement and certainly does not contain the lived experiences of any of the people or organizations involved in the dispute.
-4. Care, wisdom and compassion should be applied to viewing and analyzing aggregate or longitudinal findings to unfairly profile, target, rank, or stigmatize individuals, tenants, landlords, neighbourhoods, or communities. The world is unequal and unfair, housing is a basic human need and no one is perfect. 
+4. Care, wisdom and compassion should be applied to viewing and analyzing aggregate or longitudinal findings to prevent the unfair profiling, targeting, ranking, or stigmatizing of individuals, tenants, landlords, neighbourhoods, or communities. The world is unequal and unfair, housing is a basic human need and no one is perfect. May our work serve to ease stress and discomfort. 
