@@ -9,3 +9,30 @@
 
 - started creating a metrics dictionary for the various data points found in the reports
 - used python to change the way the data is displayed in the "notes" spreadsheet into the more standard long format, with the metric_ids from the dictionary
+
+- built `operational_metrics.csv` with data extracted from reports - correctness of data is not validated
+- built `regional_metrics.csv` with data extracted from reports - correctness of data is not validated
+- built `financial_metrics.csv` with data extracted from reports - correctness of data is not validated, additional data may be available in other government Open Data repositories
+
+## Staffing metrics extraction method
+
+1998-2010 staffing data was extracted based on the biographies of members included at the end of the reports from those years.
+
+1. Sections of reports with biographies were extracted `pdftotext -f STARTPAGE -l ENDPAGE INPUT.pdf OUTPUT.txt`
+2. AI-assisted counting was attempted and proved unreliable when compared to hand counting
+3. Extracted probable biography headings with `extract_names.py` (898 candidate lines, "heuristic-based pattern matching")
+4. Deduped list with `dedupe_names.py`, built a list of canonical names and their variants by hand from the deduped list of names
+5. Counted the number of times canonical names appear in the report extracts from 1. and how many names appear with ("Part time") or some variant immediately after them with `count_members.py`, output is `member_counts_by_file.csv`
+6. Added the above to `staffing_metrics.csv` for the years where member biographies were included in the report.
+
+From 2020 onwards, adjudicator numbers were reported directly. The number of mediators or "Dispute Resolution Offcers" has not been reported to date.
+
+
+
+
+
+
+
+
+
+
