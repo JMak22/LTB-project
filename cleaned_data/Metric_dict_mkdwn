@@ -37,3 +37,6 @@
 | mediation_attempted          | Attempted mediation                                            |       |
 | mediation_rate               | Portion of cases resolved through mediation                    |       |
 | resolved_withdrawn_mediation | Number of cases withdrawn due to mediation                     |       |
+| additional_staff	           | Additional staff members 
+| canonical_names_found	       | Number of canonical adjudicator names found in report | Check Methodology_notes for process  |
+| part_time_names_found	       | Number of canonical adjudicator names followed by “(Part Time member)” or some variant | As above |
