@@ -25,12 +25,12 @@ This project uses publicly available information for research and civic analysis
 - Financial metrics -- contains the cost of filing for the years when it was reported in the Annual Reports; budget, expenditures, salaries, other expenses and revenue for report years 2006-07, 2007-08 and 2009-10. Operating budgets were not reported in other Annual Reports, the data may be available elsewhere.
 - Staffing metrics -- contains information about the number of adjudicators and, occasionally, other staff members. See [[Methodology_notes]] for how staffing metrics were extracted and counted for the years where adjudicator biographies were included in the reports (1998-2010)
 - Reports -- list of report years -- this may need editing to include notes on relevant legislature changes over the years
+- Application type dictionary - applic_type_dict 
+- Application type metrics - applic_type_metrics 
+- Resolution metrics - resolution_metrics 
 
 ### To do:
-- create applic_type_dict which will contain application type codes and explanations of each type
-- create applic_type_metrics from Annual Report data
-- create resolution_metrics from Annual Report data
-- create institutional_changelog from Annual Report data
+- create institutional_changelog from Annual Report prose 
 - validate extracted data
 
 - compare metadata available from CanLII with data available from Annual Reports
