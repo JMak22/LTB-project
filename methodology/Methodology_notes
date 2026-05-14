@@ -1,18 +1,23 @@
 # Methodology notes
-- downloaded Annual Reports available on tribunalsontario.ca, printing to PDF the sections that pertain to the Landlord and Tenant board
-- found reports unavailable through the above website on archive.org by accessing archived pages of ltb.on.ca and downloading the reports
+- downloaded Annual Reports available on tribunalsontario.ca, printed to PDF the sections that pertain to the Landlord and Tenant board for the reports that combine all of the Tribunals into one report
+- reports unavailable through the above website were found on archive.org by accessing archived pages of ltb.on.ca and downloading them in PDF form
 
 - built a spreadsheet of data available in the reports by hand, copy-pasting information from the reports (yes.)
 	- took notes on the operational changes over time, organisations consulted, changes in metrics reported etc.
+	- all this went into a messy Libre Office Calc document from which the cleaned data was derived, so there may have been errors in copying, pasting and otherwise transferring data from PDF to CSV. The original reports are provided for your convenience if you wish to verify the information.
 
 - used `tesseract 5.3.4` and `ocrmypdf 15.2.0+dfsg1` to OCR the report contents, then `qpdf` to merge all reports into one document
 
-- started creating a metrics dictionary for the various data points found in the reports
+- started creating a metrics dictionary for the various metrics found in the reports
 - used python to change the way the data is displayed in the "notes" spreadsheet into the more standard long format, with the metric_ids from the dictionary
 
-- built `operational_metrics.csv` with data extracted from reports - correctness of data is not validated
+- built `operational_metrics.csv` with data extracted from reports - correctness of data is not validated, some metric_ids were not reported in some years, it may be possible to calculate them
 - built `regional_metrics.csv` with data extracted from reports - correctness of data is not validated
 - built `financial_metrics.csv` with data extracted from reports - correctness of data is not validated, additional data may be available in other government Open Data repositories
+- built `regional_metrics.csv` for the years when received, resolved and unresolved applications were tracked by region (1998-2014)
+- built `app_type_dictionary.csv` from application type names, tracking first year application was reported, last year reported and any remarks from the reports. Note that application names may have changed slightly over the years, those changes may not be reflected in the names used for application types in the aggregated data offered here.
+- built `app_type_metrics.csv` with data extracted from reports. Note that application types were segmented into `cases/defaults/hearings` from 1998-2007, after which (report year 2007-2008) only `cases` were reported. In the table `-` means `no_data_reported` and the table has a column that allows for distinguishing the data status from year to year -- `reported` or `not_reported`
+- built `resolution_metrics.csv` from the years where resolution types were counted (2013-2018)
 
 ## Staffing metrics extraction method
 
@@ -21,7 +26,7 @@
 1. Sections of reports with biographies were extracted `pdftotext -f STARTPAGE -l ENDPAGE INPUT.pdf OUTPUT.txt`
 2. AI-assisted counting was attempted and proved unreliable when compared to hand counting
 3. Extracted probable biography headings with `extract_names.py` (898 candidate lines, "heuristic-based pattern matching")
-4. Deduped list with `dedupe_names.py`, built a list of canonical names and their variants by hand from the deduped list of names
+4. Deduped list with `dedupe_names.py`, built a list of canonical names and their variants by hand from the deduped list 
 5. Counted the number of times canonical names appear in the report extracts from 1. and how many names appear with ("Part time") or some variant immediately after them with `count_members.py`, output is `member_counts_by_file.csv`
 6. Added the above to `staffing_metrics.csv` for the years where member biographies were included in the report.
 
