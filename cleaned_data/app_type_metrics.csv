@@ -1,0 +1,1742 @@
+report_id,app_code,description,metric_id,value,data_status
+1999_2000,A1,Determine Whether Act Applies,cases,87,reported
+1999_2000,A1,Determine Whether Act Applies,defaults,0,reported
+1999_2000,A1,Determine Whether Act Applies,hearings,47,reported
+1999_2000,A2,Sublet or Assignment,cases,354,reported
+1999_2000,A2,Sublet or Assignment,defaults,91,reported
+1999_2000,A2,Sublet or Assignment,hearings,176,reported
+1999_2000,A3,Combined Application,cases,3209,reported
+1999_2000,A3,Combined Application,defaults,638,reported
+1999_2000,A3,Combined Application,hearings,2028,reported
+1999_2000,A4,Vary Rent Reduction Amount,cases,215,reported
+1999_2000,A4,Vary Rent Reduction Amount,defaults,0,reported
+1999_2000,A4,Vary Rent Reduction Amount,hearings,299,reported
+1999_2000,L1,Termination for Non-Payment of Rent,cases,47121,reported
+1999_2000,L1,Termination for Non-Payment of Rent,defaults,29903,reported
+1999_2000,L1,Termination for Non-Payment of Rent,hearings,14398,reported
+1999_2000,L2,Terminate Tenancy & Evict,cases,6347,reported
+1999_2000,L2,Terminate Tenancy & Evict,defaults,1488,reported
+1999_2000,L2,Terminate Tenancy & Evict,hearings,3557,reported
+1999_2000,L3,Termination: Tenant Gave Notice,cases,1461,reported
+1999_2000,L3,Termination: Tenant Gave Notice,defaults,1302,reported
+1999_2000,L3,Termination: Tenant Gave Notice,hearings,364,reported
+1999_2000,L4,Terminate Tenancy: Failed Settlement,cases,1016,reported
+1999_2000,L4,Terminate Tenancy: Failed Settlement,defaults,941,reported
+1999_2000,L4,Terminate Tenancy: Failed Settlement,hearings,287,reported
+1999_2000,L5,Rent Increase Above Guidelines,cases,399,reported
+1999_2000,L5,Rent Increase Above Guidelines,defaults,0,reported
+1999_2000,L5,Rent Increase Above Guidelines,hearings,420,reported
+1999_2000,L6,Review of Provincial Work Order,cases,26,reported
+1999_2000,L6,Review of Provincial Work Order,defaults,0,reported
+1999_2000,L6,Review of Provincial Work Order,hearings,21,reported
+1999_2000,L7,Transfer Tenant to Care Home,cases,-,reported
+1999_2000,L7,Transfer Tenant to Care Home,defaults,-,reported
+1999_2000,L7,Transfer Tenant to Care Home,hearings,-,reported
+1999_2000,L8,Tenant Changed Locks,cases,71,reported
+1999_2000,L8,Tenant Changed Locks,defaults,0,reported
+1999_2000,L8,Tenant Changed Locks,hearings,33,reported
+1999_2000,T1,Rent Rebate (eg. Illegal rent),cases,601,reported
+1999_2000,T1,Rent Rebate (eg. Illegal rent),defaults,47,reported
+1999_2000,T1,Rent Rebate (eg. Illegal rent),hearings,375,reported
+1999_2000,T2,Tenant Rights,cases,2627,reported
+1999_2000,T2,Tenant Rights,defaults,0,reported
+1999_2000,T2,Tenant Rights,hearings,1748,reported
+1999_2000,T3,Rent Reduction,cases,1258,reported
+1999_2000,T3,Rent Reduction,defaults,0,reported
+1999_2000,T3,Rent Reduction,hearings,821,reported
+1999_2000,T4,Failed Rent Increase Above Guidelines,cases,-,reported
+1999_2000,T4,Failed Rent Increase Above Guidelines,defaults,-,reported
+1999_2000,T4,Failed Rent Increase Above Guidelines,hearings,-,reported
+1999_2000,T5,Bad Faith Notice of Termination,cases,85,reported
+1999_2000,T5,Bad Faith Notice of Termination,defaults,0,reported
+1999_2000,T5,Bad Faith Notice of Termination,hearings,66,reported
+1999_2000,T6,Maintenance,cases,-,reported
+1999_2000,T6,Maintenance,defaults,-,reported
+1999_2000,T6,Maintenance,hearings,-,reported
+2000_2001,A1,Determine Whether Act Applies,cases,61,reported
+2000_2001,A1,Determine Whether Act Applies,defaults,0,reported
+2000_2001,A1,Determine Whether Act Applies,hearings,77,reported
+2000_2001,A2,Sublet or Assignment,cases,369,reported
+2000_2001,A2,Sublet or Assignment,defaults,116,reported
+2000_2001,A2,Sublet or Assignment,hearings,218,reported
+2000_2001,A3,Combined Application,cases,3646,reported
+2000_2001,A3,Combined Application,defaults,781,reported
+2000_2001,A3,Combined Application,hearings,2511,reported
+2000_2001,A4,Vary Rent Reduction Amount,cases,148,reported
+2000_2001,A4,Vary Rent Reduction Amount,defaults,0,reported
+2000_2001,A4,Vary Rent Reduction Amount,hearings,221,reported
+2000_2001,L1,Termination for Non-Payment of Rent,cases,48646,reported
+2000_2001,L1,Termination for Non-Payment of Rent,defaults,31117,reported
+2000_2001,L1,Termination for Non-Payment of Rent,hearings,15553,reported
+2000_2001,L2,Terminate Tenancy & Evict,cases,7052,reported
+2000_2001,L2,Terminate Tenancy & Evict,defaults,1969,reported
+2000_2001,L2,Terminate Tenancy & Evict,hearings,4000,reported
+2000_2001,L3,Termination: Tenant Gave Notice,cases,1447,reported
+2000_2001,L3,Termination: Tenant Gave Notice,defaults,1280,reported
+2000_2001,L3,Termination: Tenant Gave Notice,hearings,410,reported
+2000_2001,L4,Terminate Tenancy: Failed Settlement,cases,1288,reported
+2000_2001,L4,Terminate Tenancy: Failed Settlement,defaults,1173,reported
+2000_2001,L4,Terminate Tenancy: Failed Settlement,hearings,433,reported
+2000_2001,L5,Rent Increase Above Guidelines,cases,608,reported
+2000_2001,L5,Rent Increase Above Guidelines,defaults,2,reported
+2000_2001,L5,Rent Increase Above Guidelines,hearings,635,reported
+2000_2001,L6,Review of Provincial Work Order,cases,30,reported
+2000_2001,L6,Review of Provincial Work Order,defaults,0,reported
+2000_2001,L6,Review of Provincial Work Order,hearings,25,reported
+2000_2001,L7,Transfer Tenant to Care Home,cases,0,reported
+2000_2001,L7,Transfer Tenant to Care Home,defaults,0,reported
+2000_2001,L7,Transfer Tenant to Care Home,hearings,1,reported
+2000_2001,L8,Tenant Changed Locks,cases,87,reported
+2000_2001,L8,Tenant Changed Locks,defaults,2,reported
+2000_2001,L8,Tenant Changed Locks,hearings,57,reported
+2000_2001,T1,Rent Rebate (eg. Illegal rent),cases,616,reported
+2000_2001,T1,Rent Rebate (eg. Illegal rent),defaults,59,reported
+2000_2001,T1,Rent Rebate (eg. Illegal rent),hearings,431,reported
+2000_2001,T2,Tenant Rights,cases,2788,reported
+2000_2001,T2,Tenant Rights,defaults,1,reported
+2000_2001,T2,Tenant Rights,hearings,2068,reported
+2000_2001,T3,Rent Reduction,cases,269,reported
+2000_2001,T3,Rent Reduction,defaults,0,reported
+2000_2001,T3,Rent Reduction,hearings,315,reported
+2000_2001,T4,Failed Rent Increase Above Guidelines,cases,2,reported
+2000_2001,T4,Failed Rent Increase Above Guidelines,defaults,0,reported
+2000_2001,T4,Failed Rent Increase Above Guidelines,hearings,2,reported
+2000_2001,T5,Bad Faith Notice of Termination,cases,101,reported
+2000_2001,T5,Bad Faith Notice of Termination,defaults,0,reported
+2000_2001,T5,Bad Faith Notice of Termination,hearings,88,reported
+2000_2001,T6,Maintenance,cases,976,reported
+2000_2001,T6,Maintenance,defaults,0,reported
+2000_2001,T6,Maintenance,hearings,536,reported
+2001_2002,A1,Determine Whether Act Applies,cases,78,reported
+2001_2002,A1,Determine Whether Act Applies,defaults,0,reported
+2001_2002,A1,Determine Whether Act Applies,hearings,56,reported
+2001_2002,A2,Sublet or Assignment,cases,427,reported
+2001_2002,A2,Sublet or Assignment,defaults,99,reported
+2001_2002,A2,Sublet or Assignment,hearings,281,reported
+2001_2002,A3,Combined Application,cases,3740,reported
+2001_2002,A3,Combined Application,defaults,669,reported
+2001_2002,A3,Combined Application,hearings,2589,reported
+2001_2002,A4,Vary Rent Reduction Amount,cases,174,reported
+2001_2002,A4,Vary Rent Reduction Amount,defaults,0,reported
+2001_2002,A4,Vary Rent Reduction Amount,hearings,17,reported
+2001_2002,L1,Termination for Non-Payment of Rent,cases,49590,reported
+2001_2002,L1,Termination for Non-Payment of Rent,defaults,29358,reported
+2001_2002,L1,Termination for Non-Payment of Rent,hearings,16807,reported
+2001_2002,L2,Terminate Tenancy & Evict,cases,8006,reported
+2001_2002,L2,Terminate Tenancy & Evict,defaults,1811,reported
+2001_2002,L2,Terminate Tenancy & Evict,hearings,5023,reported
+2001_2002,L3,Termination: Tenant Gave Notice,cases,1447,reported
+2001_2002,L3,Termination: Tenant Gave Notice,defaults,1280,reported
+2001_2002,L3,Termination: Tenant Gave Notice,hearings,410,reported
+2001_2002,L4,Terminate Tenancy: Failed Settlement,cases,1482,reported
+2001_2002,L4,Terminate Tenancy: Failed Settlement,defaults,1281,reported
+2001_2002,L4,Terminate Tenancy: Failed Settlement,hearings,571,reported
+2001_2002,L5,Rent Increase Above Guidelines,cases,1599,reported
+2001_2002,L5,Rent Increase Above Guidelines,defaults,1,reported
+2001_2002,L5,Rent Increase Above Guidelines,hearings,907,reported
+2001_2002,L6,Review of Provincial Work Order,cases,22,reported
+2001_2002,L6,Review of Provincial Work Order,defaults,0,reported
+2001_2002,L6,Review of Provincial Work Order,hearings,23,reported
+2001_2002,L7,Transfer Tenant to Care Home,cases,120,reported
+2001_2002,L7,Transfer Tenant to Care Home,defaults,0,reported
+2001_2002,L7,Transfer Tenant to Care Home,hearings,1,reported
+2001_2002,L8,Tenant Changed Locks,cases,73,reported
+2001_2002,L8,Tenant Changed Locks,defaults,0,reported
+2001_2002,L8,Tenant Changed Locks,hearings,55,reported
+2001_2002,T1,Rent Rebate (eg. Illegal rent),cases,677,reported
+2001_2002,T1,Rent Rebate (eg. Illegal rent),defaults,57,reported
+2001_2002,T1,Rent Rebate (eg. Illegal rent),hearings,396,reported
+2001_2002,T2,Tenant Rights,cases,3017,reported
+2001_2002,T2,Tenant Rights,defaults,0,reported
+2001_2002,T2,Tenant Rights,hearings,2174,reported
+2001_2002,T3,Rent Reduction,cases,152,reported
+2001_2002,T3,Rent Reduction,defaults,0,reported
+2001_2002,T3,Rent Reduction,hearings,89,reported
+2001_2002,T4,Failed Rent Increase Above Guidelines,cases,-,reported
+2001_2002,T4,Failed Rent Increase Above Guidelines,defaults,-,reported
+2001_2002,T4,Failed Rent Increase Above Guidelines,hearings,-,reported
+2001_2002,T5,Bad Faith Notice of Termination,cases,147,reported
+2001_2002,T5,Bad Faith Notice of Termination,defaults,0,reported
+2001_2002,T5,Bad Faith Notice of Termination,hearings,104,reported
+2001_2002,T6,Maintenance,cases,1153,reported
+2001_2002,T6,Maintenance,defaults,0,reported
+2001_2002,T6,Maintenance,hearings,875,reported
+2002_2003,A1,Determine Whether Act Applies,cases,74,reported
+2002_2003,A1,Determine Whether Act Applies,defaults,0,reported
+2002_2003,A1,Determine Whether Act Applies,hearings,60,reported
+2002_2003,A2,Sublet or Assignment,cases,465,reported
+2002_2003,A2,Sublet or Assignment,defaults,62,reported
+2002_2003,A2,Sublet or Assignment,hearings,199,reported
+2002_2003,A3,Combined Application,cases,3558,reported
+2002_2003,A3,Combined Application,defaults,530,reported
+2002_2003,A3,Combined Application,hearings,2632,reported
+2002_2003,A4,Vary Rent Reduction Amount,cases,279,reported
+2002_2003,A4,Vary Rent Reduction Amount,defaults,8,reported
+2002_2003,A4,Vary Rent Reduction Amount,hearings,248,reported
+2002_2003,L1,Termination for Non-Payment of Rent,cases,48816,reported
+2002_2003,L1,Termination for Non-Payment of Rent,defaults,26766,reported
+2002_2003,L1,Termination for Non-Payment of Rent,hearings,19181,reported
+2002_2003,L2,Terminate Tenancy & Evict,cases,6412,reported
+2002_2003,L2,Terminate Tenancy & Evict,defaults,1257,reported
+2002_2003,L2,Terminate Tenancy & Evict,hearings,4107,reported
+2002_2003,L3,Termination: Tenant Gave Notice,cases,1062,reported
+2002_2003,L3,Termination: Tenant Gave Notice,defaults,839,reported
+2002_2003,L3,Termination: Tenant Gave Notice,hearings,383,reported
+2002_2003,L4,Terminate Tenancy: Failed Settlement,cases,1775,reported
+2002_2003,L4,Terminate Tenancy: Failed Settlement,defaults,1512,reported
+2002_2003,L4,Terminate Tenancy: Failed Settlement,hearings,617,reported
+2002_2003,L5,Rent Increase Above Guidelines,cases,471,reported
+2002_2003,L5,Rent Increase Above Guidelines,defaults,1,reported
+2002_2003,L5,Rent Increase Above Guidelines,hearings,1253,reported
+2002_2003,L6,Review of Provincial Work Order,cases,12,reported
+2002_2003,L6,Review of Provincial Work Order,defaults,0,reported
+2002_2003,L6,Review of Provincial Work Order,hearings,14,reported
+2002_2003,L7,Transfer Tenant to Care Home,cases,-,reported
+2002_2003,L7,Transfer Tenant to Care Home,defaults,-,reported
+2002_2003,L7,Transfer Tenant to Care Home,hearings,-,reported
+2002_2003,L8,Tenant Changed Locks,cases,23,reported
+2002_2003,L8,Tenant Changed Locks,defaults,0,reported
+2002_2003,L8,Tenant Changed Locks,hearings,18,reported
+2002_2003,T1,Rent Rebate (eg. Illegal rent),cases,661,reported
+2002_2003,T1,Rent Rebate (eg. Illegal rent),defaults,36,reported
+2002_2003,T1,Rent Rebate (eg. Illegal rent),hearings,514,reported
+2002_2003,T2,Tenant Rights,cases,3043,reported
+2002_2003,T2,Tenant Rights,defaults,5,reported
+2002_2003,T2,Tenant Rights,hearings,2138,reported
+2002_2003,T3,Rent Reduction,cases,110,reported
+2002_2003,T3,Rent Reduction,defaults,0,reported
+2002_2003,T3,Rent Reduction,hearings,70,reported
+2002_2003,T4,Failed Rent Increase Above Guidelines,cases,3,reported
+2002_2003,T4,Failed Rent Increase Above Guidelines,defaults,0,reported
+2002_2003,T4,Failed Rent Increase Above Guidelines,hearings,1,reported
+2002_2003,T5,Bad Faith Notice of Termination,cases,149,reported
+2002_2003,T5,Bad Faith Notice of Termination,defaults,0,reported
+2002_2003,T5,Bad Faith Notice of Termination,hearings,118,reported
+2002_2003,T6,Maintenance,cases,1205,reported
+2002_2003,T6,Maintenance,defaults,0,reported
+2002_2003,T6,Maintenance,hearings,861,reported
+2003_2004,A1,Determine Whether Act Applies,cases,79,reported
+2003_2004,A1,Determine Whether Act Applies,defaults,0,reported
+2003_2004,A1,Determine Whether Act Applies,hearings,66,reported
+2003_2004,A2,Sublet or Assignment,cases,244,reported
+2003_2004,A2,Sublet or Assignment,defaults,50,reported
+2003_2004,A2,Sublet or Assignment,hearings,151,reported
+2003_2004,A3,Combined Application,cases,3801,reported
+2003_2004,A3,Combined Application,defaults,555,reported
+2003_2004,A3,Combined Application,hearings,2767,reported
+2003_2004,A4,Vary Rent Reduction Amount,cases,213,reported
+2003_2004,A4,Vary Rent Reduction Amount,defaults,1,reported
+2003_2004,A4,Vary Rent Reduction Amount,hearings,276,reported
+2003_2004,L1,Termination for Non-Payment of Rent,cases,51207,reported
+2003_2004,L1,Termination for Non-Payment of Rent,defaults,31422,reported
+2003_2004,L1,Termination for Non-Payment of Rent,hearings,18583,reported
+2003_2004,L2,Terminate Tenancy & Evict,cases,5495,reported
+2003_2004,L2,Terminate Tenancy & Evict,defaults,1109,reported
+2003_2004,L2,Terminate Tenancy & Evict,hearings,3598,reported
+2003_2004,L3,Termination: Tenant Gave Notice,cases,1054,reported
+2003_2004,L3,Termination: Tenant Gave Notice,defaults,798,reported
+2003_2004,L3,Termination: Tenant Gave Notice,hearings,385,reported
+2003_2004,L4,Terminate Tenancy: Failed Settlement,cases,2311,reported
+2003_2004,L4,Terminate Tenancy: Failed Settlement,defaults,2039,reported
+2003_2004,L4,Terminate Tenancy: Failed Settlement,hearings,768,reported
+2003_2004,L5,Rent Increase Above Guidelines,cases,292,reported
+2003_2004,L5,Rent Increase Above Guidelines,defaults,2,reported
+2003_2004,L5,Rent Increase Above Guidelines,hearings,457,reported
+2003_2004,L6,Review of Provincial Work Order,cases,13,reported
+2003_2004,L6,Review of Provincial Work Order,defaults,0,reported
+2003_2004,L6,Review of Provincial Work Order,hearings,9,reported
+2003_2004,L7,Transfer Tenant to Care Home,cases,2,reported
+2003_2004,L7,Transfer Tenant to Care Home,defaults,0,reported
+2003_2004,L7,Transfer Tenant to Care Home,hearings,1,reported
+2003_2004,L8,Tenant Changed Locks,cases,15,reported
+2003_2004,L8,Tenant Changed Locks,defaults,0,reported
+2003_2004,L8,Tenant Changed Locks,hearings,9,reported
+2003_2004,T1,Rent Rebate (eg. Illegal rent),cases,589,reported
+2003_2004,T1,Rent Rebate (eg. Illegal rent),defaults,43,reported
+2003_2004,T1,Rent Rebate (eg. Illegal rent),hearings,411,reported
+2003_2004,T2,Tenant Rights,cases,3168,reported
+2003_2004,T2,Tenant Rights,defaults,0,reported
+2003_2004,T2,Tenant Rights,hearings,2250,reported
+2003_2004,T3,Rent Reduction,cases,69,reported
+2003_2004,T3,Rent Reduction,defaults,0,reported
+2003_2004,T3,Rent Reduction,hearings,58,reported
+2003_2004,T4,Failed Rent Increase Above Guidelines,cases,2,reported
+2003_2004,T4,Failed Rent Increase Above Guidelines,defaults,0,reported
+2003_2004,T4,Failed Rent Increase Above Guidelines,hearings,1,reported
+2003_2004,T5,Bad Faith Notice of Termination,cases,119,reported
+2003_2004,T5,Bad Faith Notice of Termination,defaults,0,reported
+2003_2004,T5,Bad Faith Notice of Termination,hearings,111,reported
+2003_2004,T6,Maintenance,cases,1331,reported
+2003_2004,T6,Maintenance,defaults,0,reported
+2003_2004,T6,Maintenance,hearings,932,reported
+2004_2005,A1,Determine Whether Act Applies,cases,60,reported
+2004_2005,A1,Determine Whether Act Applies,defaults,0,reported
+2004_2005,A1,Determine Whether Act Applies,hearings,46,reported
+2004_2005,A2,Sublet or Assignment,cases,237,reported
+2004_2005,A2,Sublet or Assignment,defaults,62,reported
+2004_2005,A2,Sublet or Assignment,hearings,134,reported
+2004_2005,A3,Combined Application,cases,3801,reported
+2004_2005,A3,Combined Application,defaults,551,reported
+2004_2005,A3,Combined Application,hearings,2630,reported
+2004_2005,A4,Vary Rent Reduction Amount,cases,144,reported
+2004_2005,A4,Vary Rent Reduction Amount,defaults,0,reported
+2004_2005,A4,Vary Rent Reduction Amount,hearings,181,reported
+2004_2005,L1,Termination for Non-Payment of Rent,cases,55877,reported
+2004_2005,L1,Termination for Non-Payment of Rent,defaults,31590,reported
+2004_2005,L1,Termination for Non-Payment of Rent,hearings,18024,reported
+2004_2005,L2,Terminate Tenancy & Evict,cases,5671,reported
+2004_2005,L2,Terminate Tenancy & Evict,defaults,1185,reported
+2004_2005,L2,Terminate Tenancy & Evict,hearings,3409,reported
+2004_2005,L3,Termination: Tenant Gave Notice,cases,1059,reported
+2004_2005,L3,Termination: Tenant Gave Notice,defaults,766,reported
+2004_2005,L3,Termination: Tenant Gave Notice,hearings,383,reported
+2004_2005,L4,Terminate Tenancy: Failed Settlement,cases,2648,reported
+2004_2005,L4,Terminate Tenancy: Failed Settlement,defaults,2236,reported
+2004_2005,L4,Terminate Tenancy: Failed Settlement,hearings,803,reported
+2004_2005,L5,Rent Increase Above Guidelines,cases,274,reported
+2004_2005,L5,Rent Increase Above Guidelines,defaults,0,reported
+2004_2005,L5,Rent Increase Above Guidelines,hearings,251,reported
+2004_2005,L6,Review of Provincial Work Order,cases,19,reported
+2004_2005,L6,Review of Provincial Work Order,defaults,0,reported
+2004_2005,L6,Review of Provincial Work Order,hearings,18,reported
+2004_2005,L7,Transfer Tenant to Care Home,cases,2,reported
+2004_2005,L7,Transfer Tenant to Care Home,defaults,0,reported
+2004_2005,L7,Transfer Tenant to Care Home,hearings,1,reported
+2004_2005,L8,Tenant Changed Locks,cases,23,reported
+2004_2005,L8,Tenant Changed Locks,defaults,0,reported
+2004_2005,L8,Tenant Changed Locks,hearings,16,reported
+2004_2005,T1,Rent Rebate (eg. Illegal rent),cases,545,reported
+2004_2005,T1,Rent Rebate (eg. Illegal rent),defaults,31,reported
+2004_2005,T1,Rent Rebate (eg. Illegal rent),hearings,369,reported
+2004_2005,T2,Tenant Rights,cases,3075,reported
+2004_2005,T2,Tenant Rights,defaults,0,reported
+2004_2005,T2,Tenant Rights,hearings,2226,reported
+2004_2005,T3,Rent Reduction,cases,71,reported
+2004_2005,T3,Rent Reduction,defaults,0,reported
+2004_2005,T3,Rent Reduction,hearings,48,reported
+2004_2005,T4,Failed Rent Increase Above Guidelines,cases,2,reported
+2004_2005,T4,Failed Rent Increase Above Guidelines,defaults,0,reported
+2004_2005,T4,Failed Rent Increase Above Guidelines,hearings,3,reported
+2004_2005,T5,Bad Faith Notice of Termination,cases,114,reported
+2004_2005,T5,Bad Faith Notice of Termination,defaults,0,reported
+2004_2005,T5,Bad Faith Notice of Termination,hearings,80,reported
+2004_2005,T6,Maintenance,cases,1245,reported
+2004_2005,T6,Maintenance,defaults,0,reported
+2004_2005,T6,Maintenance,hearings,874,reported
+2005_2006,A1,Determine Whether Act Applies,cases,67,reported
+2005_2006,A1,Determine Whether Act Applies,defaults,0,reported
+2005_2006,A1,Determine Whether Act Applies,hearings,45,reported
+2005_2006,A2,Sublet or Assignment,cases,245,reported
+2005_2006,A2,Sublet or Assignment,defaults,31,reported
+2005_2006,A2,Sublet or Assignment,hearings,174,reported
+2005_2006,A3,Combined Application,cases,4094,reported
+2005_2006,A3,Combined Application,defaults,402,reported
+2005_2006,A3,Combined Application,hearings,2977,reported
+2005_2006,A4,Vary Rent Reduction Amount,cases,9,reported
+2005_2006,A4,Vary Rent Reduction Amount,defaults,0,reported
+2005_2006,A4,Vary Rent Reduction Amount,hearings,75,reported
+2005_2006,L1,Termination for Non-Payment of Rent,cases,60446,reported
+2005_2006,L1,Termination for Non-Payment of Rent,defaults,29697,reported
+2005_2006,L1,Termination for Non-Payment of Rent,hearings,22170,reported
+2005_2006,L2,Terminate Tenancy & Evict,cases,5969,reported
+2005_2006,L2,Terminate Tenancy & Evict,defaults,852,reported
+2005_2006,L2,Terminate Tenancy & Evict,hearings,3678,reported
+2005_2006,L3,Termination: Tenant Gave Notice,cases,1077,reported
+2005_2006,L3,Termination: Tenant Gave Notice,defaults,733,reported
+2005_2006,L3,Termination: Tenant Gave Notice,hearings,394,reported
+2005_2006,L4,Terminate Tenancy: Failed Settlement,cases,3268,reported
+2005_2006,L4,Terminate Tenancy: Failed Settlement,defaults,2672,reported
+2005_2006,L4,Terminate Tenancy: Failed Settlement,hearings,1080,reported
+2005_2006,L5,Rent Increase Above Guidelines,cases,209,reported
+2005_2006,L5,Rent Increase Above Guidelines,defaults,0,reported
+2005_2006,L5,Rent Increase Above Guidelines,hearings,229,reported
+2005_2006,L6,Review of Provincial Work Order,cases,3,reported
+2005_2006,L6,Review of Provincial Work Order,defaults,0,reported
+2005_2006,L6,Review of Provincial Work Order,hearings,5,reported
+2005_2006,L7,Transfer Tenant to Care Home,cases,0,reported
+2005_2006,L7,Transfer Tenant to Care Home,defaults,0,reported
+2005_2006,L7,Transfer Tenant to Care Home,hearings,0,reported
+2005_2006,L8,Tenant Changed Locks,cases,38,reported
+2005_2006,L8,Tenant Changed Locks,defaults,0,reported
+2005_2006,L8,Tenant Changed Locks,hearings,29,reported
+2005_2006,T1,Rent Rebate (eg. Illegal rent),cases,620,reported
+2005_2006,T1,Rent Rebate (eg. Illegal rent),defaults,30,reported
+2005_2006,T1,Rent Rebate (eg. Illegal rent),hearings,399,reported
+2005_2006,T2,Tenant Rights,cases,3391,reported
+2005_2006,T2,Tenant Rights,defaults,1,reported
+2005_2006,T2,Tenant Rights,hearings,2442,reported
+2005_2006,T3,Rent Reduction,cases,68,reported
+2005_2006,T3,Rent Reduction,defaults,0,reported
+2005_2006,T3,Rent Reduction,hearings,46,reported
+2005_2006,T4,Failed Rent Increase Above Guidelines,cases,0,reported
+2005_2006,T4,Failed Rent Increase Above Guidelines,defaults,0,reported
+2005_2006,T4,Failed Rent Increase Above Guidelines,hearings,0,reported
+2005_2006,T5,Bad Faith Notice of Termination,cases,99,reported
+2005_2006,T5,Bad Faith Notice of Termination,defaults,0,reported
+2005_2006,T5,Bad Faith Notice of Termination,hearings,99,reported
+2005_2006,T6,Maintenance,cases,1397,reported
+2005_2006,T6,Maintenance,defaults,0,reported
+2005_2006,T6,Maintenance,hearings,948,reported
+2006_2007,A1,Determine Whether Act Applies,cases,58,reported
+2006_2007,A1,Determine Whether Act Applies,defaults,0,reported
+2006_2007,A1,Determine Whether Act Applies,hearings,52,reported
+2006_2007,A2,Sublet or Assignment,cases,216,reported
+2006_2007,A2,Sublet or Assignment,defaults,33,reported
+2006_2007,A2,Sublet or Assignment,hearings,167,reported
+2006_2007,A3,Combined Application,cases,3268,reported
+2006_2007,A3,Combined Application,defaults,267,reported
+2006_2007,A3,Combined Application,hearings,2669,reported
+2006_2007,A4,Vary Rent Reduction Amount,cases,125,reported
+2006_2007,A4,Vary Rent Reduction Amount,defaults,6,reported
+2006_2007,A4,Vary Rent Reduction Amount,hearings,87,reported
+2006_2007,L1,Termination for Non-Payment of Rent,cases,50683,reported
+2006_2007,L1,Termination for Non-Payment of Rent,defaults,24779,reported
+2006_2007,L1,Termination for Non-Payment of Rent,hearings,21661,reported
+2006_2007,L2,Terminate Tenancy & Evict,cases,5089,reported
+2006_2007,L2,Terminate Tenancy & Evict,defaults,661,reported
+2006_2007,L2,Terminate Tenancy & Evict,hearings,3677,reported
+2006_2007,L3,Termination: Tenant Gave Notice,cases,991,reported
+2006_2007,L3,Termination: Tenant Gave Notice,defaults,657,reported
+2006_2007,L3,Termination: Tenant Gave Notice,hearings,416,reported
+2006_2007,L4,Terminate Tenancy: Failed Settlement,cases,2683,reported
+2006_2007,L4,Terminate Tenancy: Failed Settlement,defaults,2186,reported
+2006_2007,L4,Terminate Tenancy: Failed Settlement,hearings,984,reported
+2006_2007,L5,Rent Increase Above Guidelines,cases,242,reported
+2006_2007,L5,Rent Increase Above Guidelines,defaults,0,reported
+2006_2007,L5,Rent Increase Above Guidelines,hearings,245,reported
+2006_2007,L6,Review of Provincial Work Order,cases,5,reported
+2006_2007,L6,Review of Provincial Work Order,defaults,0,reported
+2006_2007,L6,Review of Provincial Work Order,hearings,4,reported
+2006_2007,L7,Transfer Tenant to Care Home,cases,0,reported
+2006_2007,L7,Transfer Tenant to Care Home,defaults,0,reported
+2006_2007,L7,Transfer Tenant to Care Home,hearings,0,reported
+2006_2007,L8,Tenant Changed Locks,cases,16,reported
+2006_2007,L8,Tenant Changed Locks,defaults,0,reported
+2006_2007,L8,Tenant Changed Locks,hearings,12,reported
+2006_2007,T1,Rent Rebate (eg. Illegal rent),cases,498,reported
+2006_2007,T1,Rent Rebate (eg. Illegal rent),defaults,27,reported
+2006_2007,T1,Rent Rebate (eg. Illegal rent),hearings,396,reported
+2006_2007,T2,Tenant Rights,cases,2887,reported
+2006_2007,T2,Tenant Rights,defaults,0,reported
+2006_2007,T2,Tenant Rights,hearings,2330,reported
+2006_2007,T3,Rent Reduction,cases,57,reported
+2006_2007,T3,Rent Reduction,defaults,0,reported
+2006_2007,T3,Rent Reduction,hearings,46,reported
+2006_2007,T4,Failed Rent Increase Above Guidelines,cases,0,reported
+2006_2007,T4,Failed Rent Increase Above Guidelines,defaults,0,reported
+2006_2007,T4,Failed Rent Increase Above Guidelines,hearings,0,reported
+2006_2007,T5,Bad Faith Notice of Termination,cases,88,reported
+2006_2007,T5,Bad Faith Notice of Termination,defaults,0,reported
+2006_2007,T5,Bad Faith Notice of Termination,hearings,69,reported
+2006_2007,T6,Maintenance,cases,1217,reported
+2006_2007,T6,Maintenance,defaults,1,reported
+2006_2007,T6,Maintenance,hearings,966,reported
+2007_2008,A1,Determine Whether Act Applies,cases,75,reported
+2007_2008,A1,Determine Whether Act Applies,defaults,-,not_reported
+2007_2008,A1,Determine Whether Act Applies,hearings,-,not_reported
+2007_2008,A2,Sublet or Assignment,cases,285,reported
+2007_2008,A2,Sublet or Assignment,defaults,-,not_reported
+2007_2008,A2,Sublet or Assignment,hearings,-,not_reported
+2007_2008,A3,Combined Application,cases,4005,reported
+2007_2008,A3,Combined Application,defaults,-,not_reported
+2007_2008,A3,Combined Application,hearings,-,not_reported
+2007_2008,A4,Vary Rent Reduction Amount,cases,29,reported
+2007_2008,A4,Vary Rent Reduction Amount,defaults,-,not_reported
+2007_2008,A4,Vary Rent Reduction Amount,hearings,-,not_reported
+2007_2008,L1,Termination for Non-Payment of Rent,cases,55719,reported
+2007_2008,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2007_2008,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2007_2008,L2,Terminate Tenancy & Evict,cases,6441,reported
+2007_2008,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2007_2008,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2007_2008,L3,Termination: Tenant Gave Notice,cases,1225,reported
+2007_2008,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2007_2008,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2007_2008,L4,Terminate Tenancy: Failed Settlement,cases,5374,reported
+2007_2008,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2007_2008,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2007_2008,L5,Rent Increase Above Guidelines,cases,274,reported
+2007_2008,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2007_2008,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2007_2008,L6,Review of Provincial Work Order,cases,20,reported
+2007_2008,L6,Review of Provincial Work Order,defaults,-,not_reported
+2007_2008,L6,Review of Provincial Work Order,hearings,-,not_reported
+2007_2008,L7,Transfer Tenant to Care Home,cases,0,reported
+2007_2008,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2007_2008,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2007_2008,L8,Tenant Changed Locks,cases,24,reported
+2007_2008,L8,Tenant Changed Locks,defaults,-,not_reported
+2007_2008,L8,Tenant Changed Locks,hearings,-,not_reported
+2007_2008,L9,Application to Collect Rent (2007),cases,1790,reported
+2007_2008,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2007_2008,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2007_2008,T1,Rent Rebate (eg. Illegal rent),cases,574,reported
+2007_2008,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2007_2008,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2007_2008,T2,Tenant Rights,cases,3228,reported
+2007_2008,T2,Tenant Rights,defaults,-,not_reported
+2007_2008,T2,Tenant Rights,hearings,-,not_reported
+2007_2008,T3,Rent Reduction,cases,54,reported
+2007_2008,T3,Rent Reduction,defaults,-,not_reported
+2007_2008,T3,Rent Reduction,hearings,-,not_reported
+2007_2008,T4,Failed Rent Increase Above Guidelines,cases,0,reported
+2007_2008,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2007_2008,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2007_2008,T5,Bad Faith Notice of Termination,cases,133,reported
+2007_2008,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2007_2008,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2007_2008,T6,Maintenance,cases,1302,reported
+2007_2008,T6,Maintenance,defaults,-,not_reported
+2007_2008,T6,Maintenance,hearings,-,not_reported
+2008_2009,A1,Determine Whether Act Applies,cases,89,reported
+2008_2009,A1,Determine Whether Act Applies,defaults,-,not_reported
+2008_2009,A1,Determine Whether Act Applies,hearings,-,not_reported
+2008_2009,A2,Sublet or Assignment,cases,254,reported
+2008_2009,A2,Sublet or Assignment,defaults,-,not_reported
+2008_2009,A2,Sublet or Assignment,hearings,-,not_reported
+2008_2009,A3,Combined Application,cases,4255,reported
+2008_2009,A3,Combined Application,defaults,-,not_reported
+2008_2009,A3,Combined Application,hearings,-,not_reported
+2008_2009,A4,Vary Rent Reduction Amount,cases,5,reported
+2008_2009,A4,Vary Rent Reduction Amount,defaults,-,not_reported
+2008_2009,A4,Vary Rent Reduction Amount,hearings,-,not_reported
+2008_2009,L1,Termination for Non-Payment of Rent,cases,59053,reported
+2008_2009,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2008_2009,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2008_2009,L2,Terminate Tenancy & Evict,cases,6535,reported
+2008_2009,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2008_2009,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2008_2009,L3,Termination: Tenant Gave Notice,cases,1263,reported
+2008_2009,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2008_2009,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2008_2009,L4,Terminate Tenancy: Failed Settlement,cases,6510,reported
+2008_2009,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2008_2009,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2008_2009,L5,Rent Increase Above Guidelines,cases,228,reported
+2008_2009,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2008_2009,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2008_2009,L6,Review of Provincial Work Order,cases,10,reported
+2008_2009,L6,Review of Provincial Work Order,defaults,-,not_reported
+2008_2009,L6,Review of Provincial Work Order,hearings,-,not_reported
+2008_2009,L7,Transfer Tenant to Care Home,cases,1,reported
+2008_2009,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2008_2009,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2008_2009,L8,Tenant Changed Locks,cases,20,reported
+2008_2009,L8,Tenant Changed Locks,defaults,-,not_reported
+2008_2009,L8,Tenant Changed Locks,hearings,-,not_reported
+2008_2009,L9,Application to Collect Rent (2007),cases,1692,reported
+2008_2009,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2008_2009,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2008_2009,T1,Rent Rebate (eg. Illegal rent),cases,654,reported
+2008_2009,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2008_2009,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2008_2009,T2,Tenant Rights,cases,3632,reported
+2008_2009,T2,Tenant Rights,defaults,-,not_reported
+2008_2009,T2,Tenant Rights,hearings,-,not_reported
+2008_2009,T3,Rent Reduction,cases,47,reported
+2008_2009,T3,Rent Reduction,defaults,-,not_reported
+2008_2009,T3,Rent Reduction,hearings,-,not_reported
+2008_2009,T4,Failed Rent Increase Above Guidelines,cases,1,reported
+2008_2009,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2008_2009,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2008_2009,T5,Bad Faith Notice of Termination,cases,129,reported
+2008_2009,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2008_2009,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2008_2009,T6,Maintenance,cases,1462,reported
+2008_2009,T6,Maintenance,defaults,-,not_reported
+2008_2009,T6,Maintenance,hearings,-,not_reported
+2009_2010,A1L,Determine Whether Act Applies,cases,49,reported
+2009_2010,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2009_2010,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2009_2010,A1T,Determine Whether Act Applies,cases,33,reported
+2009_2010,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2009_2010,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2009_2010,A2L,Sublet or Assignment,cases,153,reported
+2009_2010,A2L,Sublet or Assignment,defaults,-,not_reported
+2009_2010,A2L,Sublet or Assignment,hearings,-,not_reported
+2009_2010,A2T,Sublet or Assignment,cases,43,reported
+2009_2010,A2T,Sublet or Assignment,defaults,-,not_reported
+2009_2010,A2T,Sublet or Assignment,hearings,-,not_reported
+2009_2010,A3L,Combined Application (usually includes L1),cases,2796,reported
+2009_2010,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2009_2010,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2009_2010,A3T,Combined Application,cases,1141,reported
+2009_2010,A3T,Combined Application,defaults,-,not_reported
+2009_2010,A3T,Combined Application,hearings,-,not_reported
+2009_2010,A4L,Vary Rent Reduction Amount,cases,275,reported
+2009_2010,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2009_2010,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2009_2010,A4T,Vary Rent Reduction Amount,cases,2,reported
+2009_2010,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2009_2010,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2009_2010,L1,Termination for Non-Payment of Rent,cases,54109,reported
+2009_2010,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2009_2010,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2009_2010,L2,Terminate Tenancy & Evict,cases,5628,reported
+2009_2010,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2009_2010,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2009_2010,L3,Termination: Tenant Gave Notice,cases,991,reported
+2009_2010,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2009_2010,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2009_2010,L4,Terminate Tenancy: Failed Settlement,cases,5301,reported
+2009_2010,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2009_2010,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2009_2010,L5,Rent Increase Above Guidelines,cases,294,reported
+2009_2010,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2009_2010,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2009_2010,L6,Review of Provincial Work Order,cases,12,reported
+2009_2010,L6,Review of Provincial Work Order,defaults,-,not_reported
+2009_2010,L6,Review of Provincial Work Order,hearings,-,not_reported
+2009_2010,L7,Transfer Tenant to Care Home,cases,3,reported
+2009_2010,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2009_2010,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2009_2010,L8,Tenant Changed Locks,cases,22,reported
+2009_2010,L8,Tenant Changed Locks,defaults,-,not_reported
+2009_2010,L8,Tenant Changed Locks,hearings,-,not_reported
+2009_2010,L9,Application to Collect Rent (2007),cases,1754,reported
+2009_2010,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2009_2010,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2009_2010,T1,Rent Rebate (eg. Illegal rent),cases,574,reported
+2009_2010,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2009_2010,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2009_2010,T2,Tenant Rights,cases,3517,reported
+2009_2010,T2,Tenant Rights,defaults,-,not_reported
+2009_2010,T2,Tenant Rights,hearings,-,not_reported
+2009_2010,T3,Rent Reduction,cases,43,reported
+2009_2010,T3,Rent Reduction,defaults,-,not_reported
+2009_2010,T3,Rent Reduction,hearings,-,not_reported
+2009_2010,T4,Failed Rent Increase Above Guidelines,cases,2,reported
+2009_2010,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2009_2010,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2009_2010,T5,Bad Faith Notice of Termination,cases,115,reported
+2009_2010,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2009_2010,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2009_2010,T6,Maintenance,cases,1215,reported
+2009_2010,T6,Maintenance,defaults,-,not_reported
+2009_2010,T6,Maintenance,hearings,-,not_reported
+2010_2011,A1L,Determine Whether Act Applies,cases,48,reported
+2010_2011,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2010_2011,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2010_2011,A1T,Determine Whether Act Applies,cases,30,reported
+2010_2011,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2010_2011,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2010_2011,A2L,Sublet or Assignment,cases,199,reported
+2010_2011,A2L,Sublet or Assignment,defaults,-,not_reported
+2010_2011,A2L,Sublet or Assignment,hearings,-,not_reported
+2010_2011,A2T,Sublet or Assignment,cases,49,reported
+2010_2011,A2T,Sublet or Assignment,defaults,-,not_reported
+2010_2011,A2T,Sublet or Assignment,hearings,-,not_reported
+2010_2011,A3L,Combined Application (usually includes L1),cases,3066,reported
+2010_2011,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2010_2011,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2010_2011,A3T,Combined Application,cases,1224,reported
+2010_2011,A3T,Combined Application,defaults,-,not_reported
+2010_2011,A3T,Combined Application,hearings,-,not_reported
+2010_2011,A4L,Vary Rent Reduction Amount,cases,182,reported
+2010_2011,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2010_2011,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2010_2011,A4T,Vary Rent Reduction Amount,cases,0,reported
+2010_2011,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2010_2011,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2010_2011,L1,Termination for Non-Payment of Rent,cases,53182,reported
+2010_2011,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2010_2011,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2010_2011,L2,Terminate Tenancy & Evict,cases,6158,reported
+2010_2011,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2010_2011,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2010_2011,L3,Termination: Tenant Gave Notice,cases,1075,reported
+2010_2011,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2010_2011,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2010_2011,L4,Terminate Tenancy: Failed Settlement,cases,4805,reported
+2010_2011,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2010_2011,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2010_2011,L5,Rent Increase Above Guidelines,cases,391,reported
+2010_2011,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2010_2011,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2010_2011,L6,Review of Provincial Work Order,cases,7,reported
+2010_2011,L6,Review of Provincial Work Order,defaults,-,not_reported
+2010_2011,L6,Review of Provincial Work Order,hearings,-,not_reported
+2010_2011,L7,Transfer Tenant to Care Home,cases,1,reported
+2010_2011,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2010_2011,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2010_2011,L8,Tenant Changed Locks,cases,26,reported
+2010_2011,L8,Tenant Changed Locks,defaults,-,not_reported
+2010_2011,L8,Tenant Changed Locks,hearings,-,not_reported
+2010_2011,L9,Application to Collect Rent (2007),cases,1499,reported
+2010_2011,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2010_2011,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2010_2011,T1,Rent Rebate (eg. Illegal rent),cases,520,reported
+2010_2011,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2010_2011,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2010_2011,T2,Tenant Rights,cases,3587,reported
+2010_2011,T2,Tenant Rights,defaults,-,not_reported
+2010_2011,T2,Tenant Rights,hearings,-,not_reported
+2010_2011,T3,Rent Reduction,cases,43,reported
+2010_2011,T3,Rent Reduction,defaults,-,not_reported
+2010_2011,T3,Rent Reduction,hearings,-,not_reported
+2010_2011,T4,Failed Rent Increase Above Guidelines,cases,1,reported
+2010_2011,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2010_2011,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2010_2011,T5,Bad Faith Notice of Termination,cases,128,reported
+2010_2011,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2010_2011,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2010_2011,T6,Maintenance,cases,1171,reported
+2010_2011,T6,Maintenance,defaults,-,not_reported
+2010_2011,T6,Maintenance,hearings,-,not_reported
+2010_2011,T7,Suite Meters (2010),cases,1,reported
+2010_2011,T7,Suite Meters (2010),defaults,-,not_reported
+2010_2011,T7,Suite Meters (2010),hearings,-,not_reported
+2011_2012,A1L,Determine Whether Act Applies,cases,50,reported
+2011_2012,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2011_2012,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2011_2012,A1T,Determine Whether Act Applies,cases,36,reported
+2011_2012,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2011_2012,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2011_2012,A2L,Sublet or Assignment,cases,234,reported
+2011_2012,A2L,Sublet or Assignment,defaults,-,not_reported
+2011_2012,A2L,Sublet or Assignment,hearings,-,not_reported
+2011_2012,A2T,Sublet or Assignment,cases,57,reported
+2011_2012,A2T,Sublet or Assignment,defaults,-,not_reported
+2011_2012,A2T,Sublet or Assignment,hearings,-,not_reported
+2011_2012,A3L,Combined Application (usually includes L1),cases,3736,reported
+2011_2012,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2011_2012,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2011_2012,A3T,Combined Application,cases,1435,reported
+2011_2012,A3T,Combined Application,defaults,-,not_reported
+2011_2012,A3T,Combined Application,hearings,-,not_reported
+2011_2012,A4L,Vary Rent Reduction Amount,cases,106,reported
+2011_2012,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2011_2012,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2011_2012,A4T,Vary Rent Reduction Amount,cases,1,reported
+2011_2012,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2011_2012,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2011_2012,L1,Termination for Non-Payment of Rent,cases,54847,reported
+2011_2012,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2011_2012,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2011_2012,L2,Terminate Tenancy & Evict,cases,6867,reported
+2011_2012,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2011_2012,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2011_2012,L3,Termination: Tenant Gave Notice,cases,1263,reported
+2011_2012,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2011_2012,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2011_2012,L4,Terminate Tenancy: Failed Settlement,cases,4905,reported
+2011_2012,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2011_2012,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2011_2012,L5,Rent Increase Above Guidelines,cases,252,reported
+2011_2012,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2011_2012,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2011_2012,L6,Review of Provincial Work Order,cases,13,reported
+2011_2012,L6,Review of Provincial Work Order,defaults,-,not_reported
+2011_2012,L6,Review of Provincial Work Order,hearings,-,not_reported
+2011_2012,L7,Transfer Tenant to Care Home,cases,1,reported
+2011_2012,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2011_2012,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2011_2012,L8,Tenant Changed Locks,cases,21,reported
+2011_2012,L8,Tenant Changed Locks,defaults,-,not_reported
+2011_2012,L8,Tenant Changed Locks,hearings,-,not_reported
+2011_2012,L9,Application to Collect Rent (2007),cases,1664,reported
+2011_2012,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2011_2012,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2011_2012,T1,Rent Rebate (eg. Illegal rent),cases,578,reported
+2011_2012,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2011_2012,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2011_2012,T2,Tenant Rights,cases,3548,reported
+2011_2012,T2,Tenant Rights,defaults,-,not_reported
+2011_2012,T2,Tenant Rights,hearings,-,not_reported
+2011_2012,T3,Rent Reduction,cases,65,reported
+2011_2012,T3,Rent Reduction,defaults,-,not_reported
+2011_2012,T3,Rent Reduction,hearings,-,not_reported
+2011_2012,T4,Failed Rent Increase Above Guidelines,cases,1,reported
+2011_2012,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2011_2012,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2011_2012,T5,Bad Faith Notice of Termination,cases,139,reported
+2011_2012,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2011_2012,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2011_2012,T6,Maintenance,cases,1264,reported
+2011_2012,T6,Maintenance,defaults,-,not_reported
+2011_2012,T6,Maintenance,hearings,-,not_reported
+2011_2012,T7,Suite Meters (2010),cases,1,reported
+2011_2012,T7,Suite Meters (2010),defaults,-,not_reported
+2011_2012,T7,Suite Meters (2010),hearings,-,not_reported
+2012_2013,A1L,Determine Whether Act Applies,cases,62,reported
+2012_2013,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2012_2013,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2012_2013,A1T,Determine Whether Act Applies,cases,30,reported
+2012_2013,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2012_2013,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2012_2013,A2L,Sublet or Assignment,cases,237,reported
+2012_2013,A2L,Sublet or Assignment,defaults,-,not_reported
+2012_2013,A2L,Sublet or Assignment,hearings,-,not_reported
+2012_2013,A2T,Sublet or Assignment,cases,45,reported
+2012_2013,A2T,Sublet or Assignment,defaults,-,not_reported
+2012_2013,A2T,Sublet or Assignment,hearings,-,not_reported
+2012_2013,A3L,Combined Application (usually includes L1),cases,3936,reported
+2012_2013,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2012_2013,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2012_2013,A3T,Combined Application,cases,1342,reported
+2012_2013,A3T,Combined Application,defaults,-,not_reported
+2012_2013,A3T,Combined Application,hearings,-,not_reported
+2012_2013,A4L,Vary Rent Reduction Amount,cases,209,reported
+2012_2013,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2012_2013,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2012_2013,A4T,Vary Rent Reduction Amount,cases,1,reported
+2012_2013,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2012_2013,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2012_2013,L1,Termination for Non-Payment of Rent,cases,54777,reported
+2012_2013,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2012_2013,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2012_2013,L2,Terminate Tenancy & Evict,cases,7102,reported
+2012_2013,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2012_2013,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2012_2013,L3,Termination: Tenant Gave Notice,cases,1225,reported
+2012_2013,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2012_2013,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2012_2013,L4,Terminate Tenancy: Failed Settlement,cases,5549,reported
+2012_2013,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2012_2013,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2012_2013,L5,Rent Increase Above Guidelines,cases,296,reported
+2012_2013,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2012_2013,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2012_2013,L6,Review of Provincial Work Order,cases,11,reported
+2012_2013,L6,Review of Provincial Work Order,defaults,-,not_reported
+2012_2013,L6,Review of Provincial Work Order,hearings,-,not_reported
+2012_2013,L7,Transfer Tenant to Care Home,cases,0,reported
+2012_2013,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2012_2013,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2012_2013,L8,Tenant Changed Locks,cases,45,reported
+2012_2013,L8,Tenant Changed Locks,defaults,-,not_reported
+2012_2013,L8,Tenant Changed Locks,hearings,-,not_reported
+2012_2013,L9,Application to Collect Rent (2007),cases,1620,reported
+2012_2013,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2012_2013,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2012_2013,T1,Rent Rebate (eg. Illegal rent),cases,618,reported
+2012_2013,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2012_2013,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2012_2013,T2,Tenant Rights,cases,3676,reported
+2012_2013,T2,Tenant Rights,defaults,-,not_reported
+2012_2013,T2,Tenant Rights,hearings,-,not_reported
+2012_2013,T3,Rent Reduction,cases,58,reported
+2012_2013,T3,Rent Reduction,defaults,-,not_reported
+2012_2013,T3,Rent Reduction,hearings,-,not_reported
+2012_2013,T4,Failed Rent Increase Above Guidelines,cases,1,reported
+2012_2013,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2012_2013,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2012_2013,T5,Bad Faith Notice of Termination,cases,152,reported
+2012_2013,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2012_2013,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2012_2013,T6,Maintenance,cases,1198,reported
+2012_2013,T6,Maintenance,defaults,-,not_reported
+2012_2013,T6,Maintenance,hearings,-,not_reported
+2012_2013,T7,Suite Meters (2010),cases,2,reported
+2012_2013,T7,Suite Meters (2010),defaults,-,not_reported
+2012_2013,T7,Suite Meters (2010),hearings,-,not_reported
+2013_2014,A1L,Determine Whether Act Applies,cases,69,reported
+2013_2014,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2013_2014,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2013_2014,A1T,Determine Whether Act Applies,cases,23,reported
+2013_2014,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2013_2014,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2013_2014,A2L,Sublet or Assignment,cases,241,reported
+2013_2014,A2L,Sublet or Assignment,defaults,-,not_reported
+2013_2014,A2L,Sublet or Assignment,hearings,-,not_reported
+2013_2014,A2T,Sublet or Assignment,cases,46,reported
+2013_2014,A2T,Sublet or Assignment,defaults,-,not_reported
+2013_2014,A2T,Sublet or Assignment,hearings,-,not_reported
+2013_2014,A3L,Combined Application (usually includes L1),cases,4209,reported
+2013_2014,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2013_2014,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2013_2014,A3T,Combined Application,cases,1680,reported
+2013_2014,A3T,Combined Application,defaults,-,not_reported
+2013_2014,A3T,Combined Application,hearings,-,not_reported
+2013_2014,A4L,Vary Rent Reduction Amount,cases,134,reported
+2013_2014,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2013_2014,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2013_2014,A4T,Vary Rent Reduction Amount,cases,1,reported
+2013_2014,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2013_2014,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2013_2014,L1,Termination for Non-Payment of Rent,cases,52832,reported
+2013_2014,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2013_2014,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2013_2014,L2,Terminate Tenancy & Evict,cases,7312,reported
+2013_2014,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2013_2014,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2013_2014,L3,Termination: Tenant Gave Notice,cases,1179,reported
+2013_2014,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2013_2014,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2013_2014,L4,Terminate Tenancy: Failed Settlement,cases,5955,reported
+2013_2014,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2013_2014,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2013_2014,L5,Rent Increase Above Guidelines,cases,438,reported
+2013_2014,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2013_2014,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2013_2014,L6,Review of Provincial Work Order,cases,3,reported
+2013_2014,L6,Review of Provincial Work Order,defaults,-,not_reported
+2013_2014,L6,Review of Provincial Work Order,hearings,-,not_reported
+2013_2014,L7,Transfer Tenant to Care Home,cases,4,reported
+2013_2014,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2013_2014,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2013_2014,L8,Tenant Changed Locks,cases,21,reported
+2013_2014,L8,Tenant Changed Locks,defaults,-,not_reported
+2013_2014,L8,Tenant Changed Locks,hearings,-,not_reported
+2013_2014,L9,Application to Collect Rent (2007),cases,1800,reported
+2013_2014,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2013_2014,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2013_2014,T1,Rent Rebate (eg. Illegal rent),cases,663,reported
+2013_2014,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2013_2014,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2013_2014,T2,Tenant Rights,cases,3600,reported
+2013_2014,T2,Tenant Rights,defaults,-,not_reported
+2013_2014,T2,Tenant Rights,hearings,-,not_reported
+2013_2014,T3,Rent Reduction,cases,51,reported
+2013_2014,T3,Rent Reduction,defaults,-,not_reported
+2013_2014,T3,Rent Reduction,hearings,-,not_reported
+2013_2014,T4,Failed Rent Increase Above Guidelines,cases,4,reported
+2013_2014,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2013_2014,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2013_2014,T5,Bad Faith Notice of Termination,cases,156,reported
+2013_2014,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2013_2014,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2013_2014,T6,Maintenance,cases,1318,reported
+2013_2014,T6,Maintenance,defaults,-,not_reported
+2013_2014,T6,Maintenance,hearings,-,not_reported
+2013_2014,T7,Suite Meters (2010),cases,9,reported
+2013_2014,T7,Suite Meters (2010),defaults,-,not_reported
+2013_2014,T7,Suite Meters (2010),hearings,-,not_reported
+2014_2015,A1L,Determine Whether Act Applies,cases,55,reported
+2014_2015,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2014_2015,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2014_2015,A1T,Determine Whether Act Applies,cases,59,reported
+2014_2015,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2014_2015,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2014_2015,A2L,Sublet or Assignment,cases,263,reported
+2014_2015,A2L,Sublet or Assignment,defaults,-,not_reported
+2014_2015,A2L,Sublet or Assignment,hearings,-,not_reported
+2014_2015,A2T,Sublet or Assignment,cases,55,reported
+2014_2015,A2T,Sublet or Assignment,defaults,-,not_reported
+2014_2015,A2T,Sublet or Assignment,hearings,-,not_reported
+2014_2015,A3L,Combined Application (usually includes L1),cases,3986,reported
+2014_2015,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2014_2015,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2014_2015,A3T,Combined Application,cases,1921,reported
+2014_2015,A3T,Combined Application,defaults,-,not_reported
+2014_2015,A3T,Combined Application,hearings,-,not_reported
+2014_2015,A4L,Vary Rent Reduction Amount,cases,135,reported
+2014_2015,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2014_2015,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2014_2015,A4T,Vary Rent Reduction Amount,cases,0,reported
+2014_2015,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2014_2015,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2014_2015,L1,Termination for Non-Payment of Rent,cases,49991,reported
+2014_2015,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2014_2015,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2014_2015,L2,Terminate Tenancy & Evict,cases,7983,reported
+2014_2015,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2014_2015,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2014_2015,L3,Termination: Tenant Gave Notice,cases,1208,reported
+2014_2015,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2014_2015,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2014_2015,L4,Terminate Tenancy: Failed Settlement,cases,5632,reported
+2014_2015,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2014_2015,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2014_2015,L5,Rent Increase Above Guidelines,cases,548,reported
+2014_2015,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2014_2015,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2014_2015,L6,Review of Provincial Work Order,cases,8,reported
+2014_2015,L6,Review of Provincial Work Order,defaults,-,not_reported
+2014_2015,L6,Review of Provincial Work Order,hearings,-,not_reported
+2014_2015,L7,Transfer Tenant to Care Home,cases,0,reported
+2014_2015,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2014_2015,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2014_2015,L8,Tenant Changed Locks,cases,31,reported
+2014_2015,L8,Tenant Changed Locks,defaults,-,not_reported
+2014_2015,L8,Tenant Changed Locks,hearings,-,not_reported
+2014_2015,L9,Application to Collect Rent (2007),cases,1735,reported
+2014_2015,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2014_2015,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2014_2015,T1,Rent Rebate (eg. Illegal rent),cases,716,reported
+2014_2015,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2014_2015,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2014_2015,T2,Tenant Rights,cases,3441,reported
+2014_2015,T2,Tenant Rights,defaults,-,not_reported
+2014_2015,T2,Tenant Rights,hearings,-,not_reported
+2014_2015,T3,Rent Reduction,cases,69,reported
+2014_2015,T3,Rent Reduction,defaults,-,not_reported
+2014_2015,T3,Rent Reduction,hearings,-,not_reported
+2014_2015,T4,Failed Rent Increase Above Guidelines,cases,1,reported
+2014_2015,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2014_2015,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2014_2015,T5,Bad Faith Notice of Termination,cases,170,reported
+2014_2015,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2014_2015,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2014_2015,T6,Maintenance,cases,1516,reported
+2014_2015,T6,Maintenance,defaults,-,not_reported
+2014_2015,T6,Maintenance,hearings,-,not_reported
+2014_2015,T7,Suite Meters (2010),cases,9,reported
+2014_2015,T7,Suite Meters (2010),defaults,-,not_reported
+2014_2015,T7,Suite Meters (2010),hearings,-,not_reported
+2015_2016,A1L,Determine Whether Act Applies,cases,67,reported
+2015_2016,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2015_2016,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2015_2016,A1T,Determine Whether Act Applies,cases,64,reported
+2015_2016,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2015_2016,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2015_2016,A2L,Sublet or Assignment,cases,234,reported
+2015_2016,A2L,Sublet or Assignment,defaults,-,not_reported
+2015_2016,A2L,Sublet or Assignment,hearings,-,not_reported
+2015_2016,A2T,Sublet or Assignment,cases,68,reported
+2015_2016,A2T,Sublet or Assignment,defaults,-,not_reported
+2015_2016,A2T,Sublet or Assignment,hearings,-,not_reported
+2015_2016,A3L,Combined Application (usually includes L1),cases,4050,reported
+2015_2016,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2015_2016,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2015_2016,A3T,Combined Application,cases,1586,reported
+2015_2016,A3T,Combined Application,defaults,-,not_reported
+2015_2016,A3T,Combined Application,hearings,-,not_reported
+2015_2016,A4L,Vary Rent Reduction Amount,cases,76,reported
+2015_2016,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2015_2016,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2015_2016,A4T,Vary Rent Reduction Amount,cases,0,reported
+2015_2016,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2015_2016,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2015_2016,L1,Termination for Non-Payment of Rent,cases,48940,reported
+2015_2016,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2015_2016,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2015_2016,L2,Terminate Tenancy & Evict,cases,8876,reported
+2015_2016,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2015_2016,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2015_2016,L3,Termination: Tenant Gave Notice,cases,1338,reported
+2015_2016,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2015_2016,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2015_2016,L4,Terminate Tenancy: Failed Settlement,cases,5559,reported
+2015_2016,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2015_2016,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2015_2016,L5,Rent Increase Above Guidelines,cases,433,reported
+2015_2016,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2015_2016,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2015_2016,L6,Review of Provincial Work Order,cases,15,reported
+2015_2016,L6,Review of Provincial Work Order,defaults,-,not_reported
+2015_2016,L6,Review of Provincial Work Order,hearings,-,not_reported
+2015_2016,L7,Transfer Tenant to Care Home,cases,6,reported
+2015_2016,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2015_2016,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2015_2016,L8,Tenant Changed Locks,cases,28,reported
+2015_2016,L8,Tenant Changed Locks,defaults,-,not_reported
+2015_2016,L8,Tenant Changed Locks,hearings,-,not_reported
+2015_2016,L9,Application to Collect Rent (2007),cases,1892,reported
+2015_2016,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2015_2016,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2015_2016,T1,Rent Rebate (eg. Illegal rent),cases,663,reported
+2015_2016,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2015_2016,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2015_2016,T2,Tenant Rights,cases,3922,reported
+2015_2016,T2,Tenant Rights,defaults,-,not_reported
+2015_2016,T2,Tenant Rights,hearings,-,not_reported
+2015_2016,T3,Rent Reduction,cases,67,reported
+2015_2016,T3,Rent Reduction,defaults,-,not_reported
+2015_2016,T3,Rent Reduction,hearings,-,not_reported
+2015_2016,T4,Failed Rent Increase Above Guidelines,cases,0,reported
+2015_2016,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2015_2016,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2015_2016,T5,Bad Faith Notice of Termination,cases,174,reported
+2015_2016,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2015_2016,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2015_2016,T6,Maintenance,cases,1661,reported
+2015_2016,T6,Maintenance,defaults,-,not_reported
+2015_2016,T6,Maintenance,hearings,-,not_reported
+2015_2016,T7,Suite Meters (2010),cases,23,reported
+2015_2016,T7,Suite Meters (2010),defaults,-,not_reported
+2015_2016,T7,Suite Meters (2010),hearings,-,not_reported
+2016_2017,A1L,Determine Whether Act Applies,cases,104,reported
+2016_2017,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2016_2017,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2016_2017,A1T,Determine Whether Act Applies,cases,49,reported
+2016_2017,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2016_2017,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2016_2017,A2L,Sublet or Assignment,cases,264,reported
+2016_2017,A2L,Sublet or Assignment,defaults,-,not_reported
+2016_2017,A2L,Sublet or Assignment,hearings,-,not_reported
+2016_2017,A2T,Sublet or Assignment,cases,55,reported
+2016_2017,A2T,Sublet or Assignment,defaults,-,not_reported
+2016_2017,A2T,Sublet or Assignment,hearings,-,not_reported
+2016_2017,A3L,Combined Application (usually includes L1),cases,4067,reported
+2016_2017,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2016_2017,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2016_2017,A3T,Combined Application,cases,1634,reported
+2016_2017,A3T,Combined Application,defaults,-,not_reported
+2016_2017,A3T,Combined Application,hearings,-,not_reported
+2016_2017,A4L,Vary Rent Reduction Amount,cases,134,reported
+2016_2017,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2016_2017,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2016_2017,A4T,Vary Rent Reduction Amount,cases,0,reported
+2016_2017,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2016_2017,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2016_2017,L1,Termination for Non-Payment of Rent,cases,49489,reported
+2016_2017,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2016_2017,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2016_2017,L2,Terminate Tenancy & Evict,cases,9987,reported
+2016_2017,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2016_2017,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2016_2017,L3,Termination: Tenant Gave Notice,cases,1439,reported
+2016_2017,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2016_2017,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2016_2017,L4,Terminate Tenancy: Failed Settlement,cases,5478,reported
+2016_2017,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2016_2017,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2016_2017,L5,Rent Increase Above Guidelines,cases,575,reported
+2016_2017,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2016_2017,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2016_2017,L6,Review of Provincial Work Order,cases,3,reported
+2016_2017,L6,Review of Provincial Work Order,defaults,-,not_reported
+2016_2017,L6,Review of Provincial Work Order,hearings,-,not_reported
+2016_2017,L7,Transfer Tenant to Care Home,cases,1,reported
+2016_2017,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2016_2017,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2016_2017,L8,Tenant Changed Locks,cases,37,reported
+2016_2017,L8,Tenant Changed Locks,defaults,-,not_reported
+2016_2017,L8,Tenant Changed Locks,hearings,-,not_reported
+2016_2017,L9,Application to Collect Rent (2007),cases,1628,reported
+2016_2017,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2016_2017,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2016_2017,T1,Rent Rebate (eg. Illegal rent),cases,732,reported
+2016_2017,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2016_2017,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2016_2017,T2,Tenant Rights,cases,3807,reported
+2016_2017,T2,Tenant Rights,defaults,-,not_reported
+2016_2017,T2,Tenant Rights,hearings,-,not_reported
+2016_2017,T3,Rent Reduction,cases,68,reported
+2016_2017,T3,Rent Reduction,defaults,-,not_reported
+2016_2017,T3,Rent Reduction,hearings,-,not_reported
+2016_2017,T4,Failed Rent Increase Above Guidelines,cases,6,reported
+2016_2017,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2016_2017,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2016_2017,T5,Bad Faith Notice of Termination,cases,211,reported
+2016_2017,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2016_2017,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2016_2017,T6,Maintenance,cases,1675,reported
+2016_2017,T6,Maintenance,defaults,-,not_reported
+2016_2017,T6,Maintenance,hearings,-,not_reported
+2016_2017,T7,Suite Meters (2010),cases,7,reported
+2016_2017,T7,Suite Meters (2010),defaults,-,not_reported
+2016_2017,T7,Suite Meters (2010),hearings,-,not_reported
+2017_2018,A1L,Determine Whether Act Applies,cases,96,reported
+2017_2018,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2017_2018,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2017_2018,A1T,Determine Whether Act Applies,cases,91,reported
+2017_2018,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2017_2018,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2017_2018,A2L,Sublet or Assignment,cases,332,reported
+2017_2018,A2L,Sublet or Assignment,defaults,-,not_reported
+2017_2018,A2L,Sublet or Assignment,hearings,-,not_reported
+2017_2018,A2T,Sublet or Assignment,cases,57,reported
+2017_2018,A2T,Sublet or Assignment,defaults,-,not_reported
+2017_2018,A2T,Sublet or Assignment,hearings,-,not_reported
+2017_2018,A3L,Combined Application (usually includes L1),cases,3878,reported
+2017_2018,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2017_2018,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2017_2018,A3T,Combined Application,cases,1798,reported
+2017_2018,A3T,Combined Application,defaults,-,not_reported
+2017_2018,A3T,Combined Application,hearings,-,not_reported
+2017_2018,A4L,Vary Rent Reduction Amount,cases,220,reported
+2017_2018,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2017_2018,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2017_2018,A4T,Vary Rent Reduction Amount,cases,2,reported
+2017_2018,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2017_2018,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2017_2018,L1,Termination for Non-Payment of Rent,cases,47595,reported
+2017_2018,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2017_2018,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2017_2018,L2,Terminate Tenancy & Evict,cases,11404,reported
+2017_2018,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2017_2018,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2017_2018,L3,Termination: Tenant Gave Notice,cases,1622,reported
+2017_2018,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2017_2018,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2017_2018,L4,Terminate Tenancy: Failed Settlement,cases,5552,reported
+2017_2018,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2017_2018,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2017_2018,L5,Rent Increase Above Guidelines,cases,559,reported
+2017_2018,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2017_2018,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2017_2018,L6,Review of Provincial Work Order,cases,5,reported
+2017_2018,L6,Review of Provincial Work Order,defaults,-,not_reported
+2017_2018,L6,Review of Provincial Work Order,hearings,-,not_reported
+2017_2018,L7,Transfer Tenant to Care Home,cases,1,reported
+2017_2018,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2017_2018,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2017_2018,L8,Tenant Changed Locks,cases,29,reported
+2017_2018,L8,Tenant Changed Locks,defaults,-,not_reported
+2017_2018,L8,Tenant Changed Locks,hearings,-,not_reported
+2017_2018,L9,Application to Collect Rent (2007),cases,1218,reported
+2017_2018,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2017_2018,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2017_2018,T1,Rent Rebate (eg. Illegal rent),cases,765,reported
+2017_2018,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2017_2018,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2017_2018,T2,Tenant Rights,cases,2832,reported
+2017_2018,T2,Tenant Rights,defaults,-,not_reported
+2017_2018,T2,Tenant Rights,hearings,-,not_reported
+2017_2018,T3,Rent Reduction,cases,71,reported
+2017_2018,T3,Rent Reduction,defaults,-,not_reported
+2017_2018,T3,Rent Reduction,hearings,-,not_reported
+2017_2018,T4,Failed Rent Increase Above Guidelines,cases,3,reported
+2017_2018,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2017_2018,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2017_2018,T5,Bad Faith Notice of Termination,cases,295,reported
+2017_2018,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2017_2018,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2017_2018,T6,Maintenance,cases,1818,reported
+2017_2018,T6,Maintenance,defaults,-,not_reported
+2017_2018,T6,Maintenance,hearings,-,not_reported
+2017_2018,T7,Suite Meters (2010),cases,6,reported
+2017_2018,T7,Suite Meters (2010),defaults,-,not_reported
+2017_2018,T7,Suite Meters (2010),hearings,-,not_reported
+2018_2019,A1L,Determine Whether Act Applies,cases,126,reported
+2018_2019,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2018_2019,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2018_2019,A1T,Determine Whether Act Applies,cases,116,reported
+2018_2019,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2018_2019,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2018_2019,A2L,Sublet or Assignment,cases,378,reported
+2018_2019,A2L,Sublet or Assignment,defaults,-,not_reported
+2018_2019,A2L,Sublet or Assignment,hearings,-,not_reported
+2018_2019,A2T,Sublet or Assignment,cases,66,reported
+2018_2019,A2T,Sublet or Assignment,defaults,-,not_reported
+2018_2019,A2T,Sublet or Assignment,hearings,-,not_reported
+2018_2019,A3L,Combined Application (usually includes L1),cases,3362,reported
+2018_2019,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2018_2019,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2018_2019,A3T,Combined Application,cases,1780,reported
+2018_2019,A3T,Combined Application,defaults,-,not_reported
+2018_2019,A3T,Combined Application,hearings,-,not_reported
+2018_2019,A4L,Vary Rent Reduction Amount,cases,173,reported
+2018_2019,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2018_2019,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2018_2019,A4T,Vary Rent Reduction Amount,cases,1,reported
+2018_2019,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2018_2019,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2018_2019,L1,Termination for Non-Payment of Rent,cases,46043,reported
+2018_2019,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2018_2019,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2018_2019,L2,Terminate Tenancy & Evict,cases,13945,reported
+2018_2019,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2018_2019,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2018_2019,L3,Termination: Tenant Gave Notice,cases,1711,reported
+2018_2019,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2018_2019,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2018_2019,L4,Terminate Tenancy: Failed Settlement,cases,5571,reported
+2018_2019,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2018_2019,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2018_2019,L5,Rent Increase Above Guidelines,cases,717,reported
+2018_2019,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2018_2019,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2018_2019,L6,Review of Provincial Work Order,cases,4,reported
+2018_2019,L6,Review of Provincial Work Order,defaults,-,not_reported
+2018_2019,L6,Review of Provincial Work Order,hearings,-,not_reported
+2018_2019,L7,Transfer Tenant to Care Home,cases,5,reported
+2018_2019,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2018_2019,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2018_2019,L8,Tenant Changed Locks,cases,39,reported
+2018_2019,L8,Tenant Changed Locks,defaults,-,not_reported
+2018_2019,L8,Tenant Changed Locks,hearings,-,not_reported
+2018_2019,L9,Application to Collect Rent (2007),cases,1394,reported
+2018_2019,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2018_2019,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2018_2019,T1,Rent Rebate (eg. Illegal rent),cases,863,reported
+2018_2019,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2018_2019,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2018_2019,T2,Tenant Rights,cases,3053,reported
+2018_2019,T2,Tenant Rights,defaults,-,not_reported
+2018_2019,T2,Tenant Rights,hearings,-,not_reported
+2018_2019,T3,Rent Reduction,cases,148,reported
+2018_2019,T3,Rent Reduction,defaults,-,not_reported
+2018_2019,T3,Rent Reduction,hearings,-,not_reported
+2018_2019,T4,Failed Rent Increase Above Guidelines,cases,1,reported
+2018_2019,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2018_2019,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2018_2019,T5,Bad Faith Notice of Termination,cases,355,reported
+2018_2019,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2018_2019,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2018_2019,T6,Maintenance,cases,1970,reported
+2018_2019,T6,Maintenance,defaults,-,not_reported
+2018_2019,T6,Maintenance,hearings,-,not_reported
+2018_2019,T7,Suite Meters (2010),cases,4,reported
+2018_2019,T7,Suite Meters (2010),defaults,-,not_reported
+2018_2019,T7,Suite Meters (2010),hearings,-,not_reported
+2019_2020,A1L,Determine Whether Act Applies,cases,102,reported
+2019_2020,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2019_2020,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2019_2020,A1T,Determine Whether Act Applies,cases,85,reported
+2019_2020,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2019_2020,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2019_2020,A2L,Sublet or Assignment,cases,491,reported
+2019_2020,A2L,Sublet or Assignment,defaults,-,not_reported
+2019_2020,A2L,Sublet or Assignment,hearings,-,not_reported
+2019_2020,A2T,Sublet or Assignment,cases,62,reported
+2019_2020,A2T,Sublet or Assignment,defaults,-,not_reported
+2019_2020,A2T,Sublet or Assignment,hearings,-,not_reported
+2019_2020,A3L,Combined Application (usually includes L1),cases,2986,reported
+2019_2020,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2019_2020,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2019_2020,A3T,Combined Application,cases,1610,reported
+2019_2020,A3T,Combined Application,defaults,-,not_reported
+2019_2020,A3T,Combined Application,hearings,-,not_reported
+2019_2020,A4L,Vary Rent Reduction Amount,cases,86,reported
+2019_2020,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2019_2020,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2019_2020,A4T,Vary Rent Reduction Amount,cases,0,reported
+2019_2020,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2019_2020,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2019_2020,L1,Termination for Non-Payment of Rent,cases,44621,reported
+2019_2020,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2019_2020,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2019_2020,L2,Terminate Tenancy & Evict,cases,15732,reported
+2019_2020,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2019_2020,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2019_2020,L3,Termination: Tenant Gave Notice,cases,1877,reported
+2019_2020,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2019_2020,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2019_2020,L4,Terminate Tenancy: Failed Settlement,cases,5156,reported
+2019_2020,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2019_2020,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2019_2020,L5,Rent Increase Above Guidelines,cases,758,reported
+2019_2020,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2019_2020,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2019_2020,L6,Review of Provincial Work Order,cases,1,reported
+2019_2020,L6,Review of Provincial Work Order,defaults,-,not_reported
+2019_2020,L6,Review of Provincial Work Order,hearings,-,not_reported
+2019_2020,L7,Transfer Tenant to Care Home,cases,1,reported
+2019_2020,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2019_2020,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2019_2020,L8,Tenant Changed Locks,cases,41,reported
+2019_2020,L8,Tenant Changed Locks,defaults,-,not_reported
+2019_2020,L8,Tenant Changed Locks,hearings,-,not_reported
+2019_2020,L9,Application to Collect Rent (2007),cases,900,reported
+2019_2020,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2019_2020,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2019_2020,T1,Rent Rebate (eg. Illegal rent),cases,884,reported
+2019_2020,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2019_2020,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2019_2020,T2,Tenant Rights,cases,3072,reported
+2019_2020,T2,Tenant Rights,defaults,-,not_reported
+2019_2020,T2,Tenant Rights,hearings,-,not_reported
+2019_2020,T3,Rent Reduction,cases,78,reported
+2019_2020,T3,Rent Reduction,defaults,-,not_reported
+2019_2020,T3,Rent Reduction,hearings,-,not_reported
+2019_2020,T4,Failed Rent Increase Above Guidelines,cases,4,reported
+2019_2020,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2019_2020,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2019_2020,T5,Bad Faith Notice of Termination,cases,408,reported
+2019_2020,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2019_2020,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2019_2020,T6,Maintenance,cases,1914,reported
+2019_2020,T6,Maintenance,defaults,-,not_reported
+2019_2020,T6,Maintenance,hearings,-,not_reported
+2019_2020,T7,Suite Meters (2010),cases,5,reported
+2019_2020,T7,Suite Meters (2010),defaults,-,not_reported
+2019_2020,T7,Suite Meters (2010),hearings,-,not_reported
+2020_2021,A1L,Determine Whether Act Applies,cases,96,reported
+2020_2021,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2020_2021,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2020_2021,A1T,Determine Whether Act Applies,cases,64,reported
+2020_2021,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2020_2021,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2020_2021,A2L,Sublet or Assignment,cases,383,reported
+2020_2021,A2L,Sublet or Assignment,defaults,-,not_reported
+2020_2021,A2L,Sublet or Assignment,hearings,-,not_reported
+2020_2021,A2T,Sublet or Assignment,cases,74,reported
+2020_2021,A2T,Sublet or Assignment,defaults,-,not_reported
+2020_2021,A2T,Sublet or Assignment,hearings,-,not_reported
+2020_2021,A3L,Combined Application (usually includes L1),cases,1065,reported
+2020_2021,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2020_2021,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2020_2021,A3T,Combined Application,cases,583,reported
+2020_2021,A3T,Combined Application,defaults,-,not_reported
+2020_2021,A3T,Combined Application,hearings,-,not_reported
+2020_2021,A4L,Vary Rent Reduction Amount,cases,109,reported
+2020_2021,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2020_2021,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2020_2021,A4T,Vary Rent Reduction Amount,cases,1,reported
+2020_2021,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2020_2021,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2020_2021,L1,Termination for Non-Payment of Rent,cases,24481,reported
+2020_2021,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2020_2021,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2020_2021,L2,Terminate Tenancy & Evict,cases,11031,reported
+2020_2021,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2020_2021,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2020_2021,L3,Termination: Tenant Gave Notice,cases,1391,reported
+2020_2021,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2020_2021,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2020_2021,L4,Terminate Tenancy: Failed Settlement,cases,1551,reported
+2020_2021,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2020_2021,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2020_2021,L5,Rent Increase Above Guidelines,cases,404,reported
+2020_2021,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2020_2021,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2020_2021,L6,Review of Provincial Work Order,cases,1,reported
+2020_2021,L6,Review of Provincial Work Order,defaults,-,not_reported
+2020_2021,L6,Review of Provincial Work Order,hearings,-,not_reported
+2020_2021,L7,Transfer Tenant to Care Home,cases,6,reported
+2020_2021,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2020_2021,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2020_2021,L8,Tenant Changed Locks,cases,25,reported
+2020_2021,L8,Tenant Changed Locks,defaults,-,not_reported
+2020_2021,L8,Tenant Changed Locks,hearings,-,not_reported
+2020_2021,L9,Application to Collect Rent (2007),cases,1104,reported
+2020_2021,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2020_2021,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2020_2021,T1,Rent Rebate (eg. Illegal rent),cases,718,reported
+2020_2021,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2020_2021,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2020_2021,T2,Tenant Rights,cases,3145,reported
+2020_2021,T2,Tenant Rights,defaults,-,not_reported
+2020_2021,T2,Tenant Rights,hearings,-,not_reported
+2020_2021,T3,Rent Reduction,cases,68,reported
+2020_2021,T3,Rent Reduction,defaults,-,not_reported
+2020_2021,T3,Rent Reduction,hearings,-,not_reported
+2020_2021,T4,Failed Rent Increase Above Guidelines,cases,4,reported
+2020_2021,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2020_2021,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2020_2021,T5,Bad Faith Notice of Termination,cases,316,reported
+2020_2021,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2020_2021,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2020_2021,T6,Maintenance,cases,1795,reported
+2020_2021,T6,Maintenance,defaults,-,not_reported
+2020_2021,T6,Maintenance,hearings,-,not_reported
+2020_2021,T7,Suite Meters (2010),cases,7,reported
+2020_2021,T7,Suite Meters (2010),defaults,-,not_reported
+2020_2021,T7,Suite Meters (2010),hearings,-,not_reported
+2021_2022,A1L,Determine Whether Act Applies,cases,115,reported
+2021_2022,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2021_2022,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2021_2022,A1T,Determine Whether Act Applies,cases,80,reported
+2021_2022,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2021_2022,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2021_2022,A2L,Sublet or Assignment,cases,376,reported
+2021_2022,A2L,Sublet or Assignment,defaults,-,not_reported
+2021_2022,A2L,Sublet or Assignment,hearings,-,not_reported
+2021_2022,A2T,Sublet or Assignment,cases,59,reported
+2021_2022,A2T,Sublet or Assignment,defaults,-,not_reported
+2021_2022,A2T,Sublet or Assignment,hearings,-,not_reported
+2021_2022,A3L,Combined Application (usually includes L1),cases,1321,reported
+2021_2022,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2021_2022,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2021_2022,A3T,Combined Application,cases,860,reported
+2021_2022,A3T,Combined Application,defaults,-,not_reported
+2021_2022,A3T,Combined Application,hearings,-,not_reported
+2021_2022,A4L,Vary Rent Reduction Amount,cases,55,reported
+2021_2022,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2021_2022,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2021_2022,A4T,Vary Rent Reduction Amount,cases,1,reported
+2021_2022,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2021_2022,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2021_2022,L1,Termination for Non-Payment of Rent,cases,31240,reported
+2021_2022,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2021_2022,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2021_2022,L2,Terminate Tenancy & Evict,cases,13937,reported
+2021_2022,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2021_2022,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2021_2022,L3,Termination: Tenant Gave Notice,cases,2289,reported
+2021_2022,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2021_2022,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2021_2022,L4,Terminate Tenancy: Failed Settlement,cases,3545,reported
+2021_2022,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2021_2022,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2021_2022,L5,Rent Increase Above Guidelines,cases,613,reported
+2021_2022,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2021_2022,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2021_2022,L6,Review of Provincial Work Order,cases,0,reported
+2021_2022,L6,Review of Provincial Work Order,defaults,-,not_reported
+2021_2022,L6,Review of Provincial Work Order,hearings,-,not_reported
+2021_2022,L7,Transfer Tenant to Care Home,cases,2,reported
+2021_2022,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2021_2022,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2021_2022,L8,Tenant Changed Locks,cases,35,reported
+2021_2022,L8,Tenant Changed Locks,defaults,-,not_reported
+2021_2022,L8,Tenant Changed Locks,hearings,-,not_reported
+2021_2022,L9,Application to Collect Rent (2007),cases,931,reported
+2021_2022,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2021_2022,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2021_2022,L10,Collect Money Former Tenant Owes (2021),cases,3,reported
+2021_2022,L10,Collect Money Former Tenant Owes (2021),defaults,-,not_reported
+2021_2022,L10,Collect Money Former Tenant Owes (2021),hearings,-,not_reported
+2021_2022,T1,Rent Rebate (eg. Illegal rent),cases,843,reported
+2021_2022,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2021_2022,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2021_2022,T2,Tenant Rights,cases,2991,reported
+2021_2022,T2,Tenant Rights,defaults,-,not_reported
+2021_2022,T2,Tenant Rights,hearings,-,not_reported
+2021_2022,T3,Rent Reduction,cases,99,reported
+2021_2022,T3,Rent Reduction,defaults,-,not_reported
+2021_2022,T3,Rent Reduction,hearings,-,not_reported
+2021_2022,T4,Failed Rent Increase Above Guidelines,cases,8,reported
+2021_2022,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2021_2022,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2021_2022,T5,Bad Faith Notice of Termination,cases,550,reported
+2021_2022,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2021_2022,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2021_2022,T6,Maintenance,cases,1752,reported
+2021_2022,T6,Maintenance,defaults,-,not_reported
+2021_2022,T6,Maintenance,hearings,-,not_reported
+2021_2022,T7,Suite Meters (2010),cases,4,reported
+2021_2022,T7,Suite Meters (2010),defaults,-,not_reported
+2021_2022,T7,Suite Meters (2010),hearings,-,not_reported
+2022_2023,A1L,Determine Whether Act Applies,cases,138,reported
+2022_2023,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2022_2023,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2022_2023,A1T,Determine Whether Act Applies,cases,114,reported
+2022_2023,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2022_2023,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2022_2023,A2L,Sublet or Assignment,cases,532,reported
+2022_2023,A2L,Sublet or Assignment,defaults,-,not_reported
+2022_2023,A2L,Sublet or Assignment,hearings,-,not_reported
+2022_2023,A2T,Sublet or Assignment,cases,72,reported
+2022_2023,A2T,Sublet or Assignment,defaults,-,not_reported
+2022_2023,A2T,Sublet or Assignment,hearings,-,not_reported
+2022_2023,A3L,Combined Application (usually includes L1),cases,2447,reported
+2022_2023,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2022_2023,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2022_2023,A3T,Combined Application,cases,1372,reported
+2022_2023,A3T,Combined Application,defaults,-,not_reported
+2022_2023,A3T,Combined Application,hearings,-,not_reported
+2022_2023,A4L,Vary Rent Reduction Amount,cases,7,reported
+2022_2023,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2022_2023,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2022_2023,A4T,Vary Rent Reduction Amount,cases,0,reported
+2022_2023,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2022_2023,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2022_2023,L1,Termination for Non-Payment of Rent,cases,37690,reported
+2022_2023,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2022_2023,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2022_2023,L2,Terminate Tenancy & Evict,cases,15354,reported
+2022_2023,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2022_2023,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2022_2023,L3,Termination: Tenant Gave Notice,cases,2656,reported
+2022_2023,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2022_2023,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2022_2023,L4,Terminate Tenancy: Failed Settlement,cases,3366,reported
+2022_2023,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2022_2023,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2022_2023,L5,Rent Increase Above Guidelines,cases,605,reported
+2022_2023,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2022_2023,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2022_2023,L6,Review of Provincial Work Order,cases,0,reported
+2022_2023,L6,Review of Provincial Work Order,defaults,-,not_reported
+2022_2023,L6,Review of Provincial Work Order,hearings,-,not_reported
+2022_2023,L7,Transfer Tenant to Care Home,cases,2,reported
+2022_2023,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2022_2023,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2022_2023,L8,Tenant Changed Locks,cases,46,reported
+2022_2023,L8,Tenant Changed Locks,defaults,-,not_reported
+2022_2023,L8,Tenant Changed Locks,hearings,-,not_reported
+2022_2023,L9,Application to Collect Rent (2007),cases,615,reported
+2022_2023,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2022_2023,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2022_2023,L10,Collect Money Former Tenant Owes (2021),cases,992,reported
+2022_2023,L10,Collect Money Former Tenant Owes (2021),defaults,-,not_reported
+2022_2023,L10,Collect Money Former Tenant Owes (2021),hearings,-,not_reported
+2022_2023,T1,Rent Rebate (eg. Illegal rent),cases,1105,reported
+2022_2023,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2022_2023,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2022_2023,T2,Tenant Rights,cases,2874,reported
+2022_2023,T2,Tenant Rights,defaults,-,not_reported
+2022_2023,T2,Tenant Rights,hearings,-,not_reported
+2022_2023,T3,Rent Reduction,cases,116,reported
+2022_2023,T3,Rent Reduction,defaults,-,not_reported
+2022_2023,T3,Rent Reduction,hearings,-,not_reported
+2022_2023,T4,Failed Rent Increase Above Guidelines,cases,25,reported
+2022_2023,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2022_2023,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2022_2023,T5,Bad Faith Notice of Termination,cases,1067,reported
+2022_2023,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2022_2023,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2022_2023,T6,Maintenance,cases,1697,reported
+2022_2023,T6,Maintenance,defaults,-,not_reported
+2022_2023,T6,Maintenance,hearings,-,not_reported
+2022_2023,T7,Suite Meters (2010),cases,13,reported
+2022_2023,T7,Suite Meters (2010),defaults,-,not_reported
+2022_2023,T7,Suite Meters (2010),hearings,-,not_reported
+2023_2024,A1L,Determine Whether Act Applies,cases,134,reported
+2023_2024,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2023_2024,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2023_2024,A1T,Determine Whether Act Applies,cases,131,reported
+2023_2024,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2023_2024,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2023_2024,A2L,Sublet or Assignment,cases,639,reported
+2023_2024,A2L,Sublet or Assignment,defaults,-,not_reported
+2023_2024,A2L,Sublet or Assignment,hearings,-,not_reported
+2023_2024,A2T,Sublet or Assignment,cases,108,reported
+2023_2024,A2T,Sublet or Assignment,defaults,-,not_reported
+2023_2024,A2T,Sublet or Assignment,hearings,-,not_reported
+2023_2024,A3L,Combined Application (usually includes L1),cases,2044,reported
+2023_2024,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2023_2024,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2023_2024,A3T,Combined Application,cases,1594,reported
+2023_2024,A3T,Combined Application,defaults,-,not_reported
+2023_2024,A3T,Combined Application,hearings,-,not_reported
+2023_2024,A4L,Vary Rent Reduction Amount,cases,15,reported
+2023_2024,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2023_2024,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2023_2024,A4T,Vary Rent Reduction Amount,cases,0,reported
+2023_2024,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2023_2024,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2023_2024,L1,Termination for Non-Payment of Rent,cases,41386,reported
+2023_2024,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2023_2024,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2023_2024,L2,Terminate Tenancy & Evict,cases,16677,reported
+2023_2024,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2023_2024,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2023_2024,L3,Termination: Tenant Gave Notice,cases,2936,reported
+2023_2024,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2023_2024,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2023_2024,L4,Terminate Tenancy: Failed Settlement,cases,5535,reported
+2023_2024,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2023_2024,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2023_2024,L5,Rent Increase Above Guidelines,cases,912,reported
+2023_2024,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2023_2024,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2023_2024,L6,Review of Provincial Work Order,cases,0,reported
+2023_2024,L6,Review of Provincial Work Order,defaults,-,not_reported
+2023_2024,L6,Review of Provincial Work Order,hearings,-,not_reported
+2023_2024,L7,Transfer Tenant to Care Home,cases,3,reported
+2023_2024,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2023_2024,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2023_2024,L8,Tenant Changed Locks,cases,52,reported
+2023_2024,L8,Tenant Changed Locks,defaults,-,not_reported
+2023_2024,L8,Tenant Changed Locks,hearings,-,not_reported
+2023_2024,L9,Application to Collect Rent (2007),cases,858,reported
+2023_2024,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2023_2024,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2023_2024,L10,Collect Money Former Tenant Owes (2021),cases,1261,reported
+2023_2024,L10,Collect Money Former Tenant Owes (2021),defaults,-,not_reported
+2023_2024,L10,Collect Money Former Tenant Owes (2021),hearings,-,not_reported
+2023_2024,T1,Rent Rebate (eg. Illegal rent),cases,1359,reported
+2023_2024,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2023_2024,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2023_2024,T2,Tenant Rights,cases,3184,reported
+2023_2024,T2,Tenant Rights,defaults,-,not_reported
+2023_2024,T2,Tenant Rights,hearings,-,not_reported
+2023_2024,T3,Rent Reduction,cases,110,reported
+2023_2024,T3,Rent Reduction,defaults,-,not_reported
+2023_2024,T3,Rent Reduction,hearings,-,not_reported
+2023_2024,T4,Failed Rent Increase Above Guidelines,cases,16,reported
+2023_2024,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2023_2024,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2023_2024,T5,Bad Faith Notice of Termination,cases,1113,reported
+2023_2024,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2023_2024,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2023_2024,T6,Maintenance,cases,1790,reported
+2023_2024,T6,Maintenance,defaults,-,not_reported
+2023_2024,T6,Maintenance,hearings,-,not_reported
+2023_2024,T7,Suite Meters (2010),cases,15,reported
+2023_2024,T7,Suite Meters (2010),defaults,-,not_reported
+2023_2024,T7,Suite Meters (2010),hearings,-,not_reported
+2024_2025,A1L,Determine Whether Act Applies,cases,140,reported
+2024_2025,A1L,Determine Whether Act Applies,defaults,-,not_reported
+2024_2025,A1L,Determine Whether Act Applies,hearings,-,not_reported
+2024_2025,A1T,Determine Whether Act Applies,cases,116,reported
+2024_2025,A1T,Determine Whether Act Applies,defaults,-,not_reported
+2024_2025,A1T,Determine Whether Act Applies,hearings,-,not_reported
+2024_2025,A2L,Sublet or Assignment,cases,733,reported
+2024_2025,A2L,Sublet or Assignment,defaults,-,not_reported
+2024_2025,A2L,Sublet or Assignment,hearings,-,not_reported
+2024_2025,A2T,Sublet or Assignment,cases,107,reported
+2024_2025,A2T,Sublet or Assignment,defaults,-,not_reported
+2024_2025,A2T,Sublet or Assignment,hearings,-,not_reported
+2024_2025,A3L,Combined Application (usually includes L1),cases,1886,reported
+2024_2025,A3L,Combined Application (usually includes L1),defaults,-,not_reported
+2024_2025,A3L,Combined Application (usually includes L1),hearings,-,not_reported
+2024_2025,A3T,Combined Application,cases,1841,reported
+2024_2025,A3T,Combined Application,defaults,-,not_reported
+2024_2025,A3T,Combined Application,hearings,-,not_reported
+2024_2025,A4L,Vary Rent Reduction Amount,cases,14,reported
+2024_2025,A4L,Vary Rent Reduction Amount,defaults,-,not_reported
+2024_2025,A4L,Vary Rent Reduction Amount,hearings,-,not_reported
+2024_2025,A4T,Vary Rent Reduction Amount,cases,0,reported
+2024_2025,A4T,Vary Rent Reduction Amount,defaults,-,not_reported
+2024_2025,A4T,Vary Rent Reduction Amount,hearings,-,not_reported
+2024_2025,L1,Termination for Non-Payment of Rent,cases,45435,reported
+2024_2025,L1,Termination for Non-Payment of Rent,defaults,-,not_reported
+2024_2025,L1,Termination for Non-Payment of Rent,hearings,-,not_reported
+2024_2025,L2,Terminate Tenancy & Evict,cases,15838,reported
+2024_2025,L2,Terminate Tenancy & Evict,defaults,-,not_reported
+2024_2025,L2,Terminate Tenancy & Evict,hearings,-,not_reported
+2024_2025,L3,Termination: Tenant Gave Notice,cases,2648,reported
+2024_2025,L3,Termination: Tenant Gave Notice,defaults,-,not_reported
+2024_2025,L3,Termination: Tenant Gave Notice,hearings,-,not_reported
+2024_2025,L4,Terminate Tenancy: Failed Settlement,cases,6613,reported
+2024_2025,L4,Terminate Tenancy: Failed Settlement,defaults,-,not_reported
+2024_2025,L4,Terminate Tenancy: Failed Settlement,hearings,-,not_reported
+2024_2025,L5,Rent Increase Above Guidelines,cases,1028,reported
+2024_2025,L5,Rent Increase Above Guidelines,defaults,-,not_reported
+2024_2025,L5,Rent Increase Above Guidelines,hearings,-,not_reported
+2024_2025,L6,Review of Provincial Work Order,cases,0,reported
+2024_2025,L6,Review of Provincial Work Order,defaults,-,not_reported
+2024_2025,L6,Review of Provincial Work Order,hearings,-,not_reported
+2024_2025,L7,Transfer Tenant to Care Home,cases,4,reported
+2024_2025,L7,Transfer Tenant to Care Home,defaults,-,not_reported
+2024_2025,L7,Transfer Tenant to Care Home,hearings,-,not_reported
+2024_2025,L8,Tenant Changed Locks,cases,43,reported
+2024_2025,L8,Tenant Changed Locks,defaults,-,not_reported
+2024_2025,L8,Tenant Changed Locks,hearings,-,not_reported
+2024_2025,L9,Application to Collect Rent (2007),cases,900,reported
+2024_2025,L9,Application to Collect Rent (2007),defaults,-,not_reported
+2024_2025,L9,Application to Collect Rent (2007),hearings,-,not_reported
+2024_2025,L10,Collect Money Former Tenant Owes (2021),cases,1757,reported
+2024_2025,L10,Collect Money Former Tenant Owes (2021),defaults,-,not_reported
+2024_2025,L10,Collect Money Former Tenant Owes (2021),hearings,-,not_reported
+2024_2025,T1,Rent Rebate (eg. Illegal rent),cases,1618,reported
+2024_2025,T1,Rent Rebate (eg. Illegal rent),defaults,-,not_reported
+2024_2025,T1,Rent Rebate (eg. Illegal rent),hearings,-,not_reported
+2024_2025,T2,Tenant Rights,cases,3480,reported
+2024_2025,T2,Tenant Rights,defaults,-,not_reported
+2024_2025,T2,Tenant Rights,hearings,-,not_reported
+2024_2025,T3,Rent Reduction,cases,142,reported
+2024_2025,T3,Rent Reduction,defaults,-,not_reported
+2024_2025,T3,Rent Reduction,hearings,-,not_reported
+2024_2025,T4,Failed Rent Increase Above Guidelines,cases,29,reported
+2024_2025,T4,Failed Rent Increase Above Guidelines,defaults,-,not_reported
+2024_2025,T4,Failed Rent Increase Above Guidelines,hearings,-,not_reported
+2024_2025,T5,Bad Faith Notice of Termination,cases,941,reported
+2024_2025,T5,Bad Faith Notice of Termination,defaults,-,not_reported
+2024_2025,T5,Bad Faith Notice of Termination,hearings,-,not_reported
+2024_2025,T6,Maintenance,cases,2110,reported
+2024_2025,T6,Maintenance,defaults,-,not_reported
+2024_2025,T6,Maintenance,hearings,-,not_reported
+2024_2025,T7,Suite Meters (2010),cases,13,reported
+2024_2025,T7,Suite Meters (2010),defaults,-,not_reported
+2024_2025,T7,Suite Meters (2010),hearings,-,not_reported
+2000_2001,A1,Determine Whether Act Applies,time_per_hearing,60,reported
+2000_2001,A2,Sublet or Assignment,time_per_hearing,30,reported
+2000_2001,A3,Combined Application,time_per_hearing,45,reported
+2000_2001,A4,Vary Rent Reduction Amount,time_per_hearing,0,reported
+2000_2001,L1,Termination for Non-Payment of Rent,time_per_hearing,20,reported
+2000_2001,L2,Terminate Tenancy & Evict,time_per_hearing,30,reported
+2000_2001,L3,Termination: Tenant Gave Notice,time_per_hearing,20,reported
+2000_2001,L4,Terminate Tenancy: Failed Settlement,time_per_hearing,45,reported
+2000_2001,L5,Rent Increase Above Guidelines,time_per_hearing,240,reported
+2000_2001,L6,Review of Provincial Work Order,time_per_hearing,60,reported
+2000_2001,L7,Transfer Tenant to Care Home,time_per_hearing,60,reported
+2000_2001,L8,Tenant Changed Locks,time_per_hearing,120,reported
+2000_2001,T1,Rent Rebate (eg. Illegal rent),time_per_hearing,30,reported
+2000_2001,T2,Tenant Rights,time_per_hearing,60,reported
+2000_2001,T3,Rent Reduction,time_per_hearing,60,reported
+2000_2001,T5,Bad Faith Notice of Termination,time_per_hearing,30,reported
+2000_2001,T6,Maintenance,time_per_hearing,20,reported
+2001_2002,A1,Determine Whether Act Applies,time_per_hearing,60,reported
+2001_2002,A2,Sublet or Assignment,time_per_hearing,30,reported
+2001_2002,A3,Combined Application,time_per_hearing,45,reported
+2001_2002,A4,Vary Rent Reduction Amount,time_per_hearing,0,reported
+2001_2002,L1,Termination for Non-Payment of Rent,time_per_hearing,20,reported
+2001_2002,L2,Terminate Tenancy & Evict,time_per_hearing,30,reported
+2001_2002,L3,Termination: Tenant Gave Notice,time_per_hearing,20,reported
+2001_2002,L4,Terminate Tenancy: Failed Settlement,time_per_hearing,45,reported
+2001_2002,L5,Rent Increase Above Guidelines,time_per_hearing,240,reported
+2001_2002,L6,Review of Provincial Work Order,time_per_hearing,60,reported
+2001_2002,L7,Transfer Tenant to Care Home,time_per_hearing,60,reported
+2001_2002,L8,Tenant Changed Locks,time_per_hearing,120,reported
+2001_2002,T1,Rent Rebate (eg. Illegal rent),time_per_hearing,30,reported
+2001_2002,T2,Tenant Rights,time_per_hearing,60,reported
+2001_2002,T3,Rent Reduction,time_per_hearing,60,reported
+2001_2002,T5,Bad Faith Notice of Termination,time_per_hearing,30,reported
+2001_2002,T6,Maintenance,time_per_hearing,20,reported
