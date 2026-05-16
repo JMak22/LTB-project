@@ -23,7 +23,7 @@ This project uses publicly available information for research and civic analysis
 - Operational metrics -- contains number of applications filed, resolved and unresolved for each report year. Some data is not available but can be calculated.
 - Regional metrics -- contains number of applications filed, resolved and unresolved in each of the 8 regions for report years 1998-2014
 - Financial metrics -- contains the cost of filing for the years when it was reported in the Annual Reports; budget, expenditures, salaries, other expenses and revenue for report years 2006-07, 2007-08 and 2009-10. Operating budgets were not reported in other Annual Reports, the data may be available elsewhere.
-- Staffing metrics -- contains information about the number of adjudicators and, occasionally, other staff members. See [[Methodology_notes]] for how staffing metrics were extracted and counted for the years where adjudicator biographies were included in the reports (1998-2010)
+- Staffing metrics -- contains information about the number of adjudicators and, occasionally, other staff members. See [Methodology_notes](methodology/methodology_notes.md) for how staffing metrics were extracted and counted for the years where adjudicator biographies were included in the reports (1998-2010)
 - Reports -- list of report years -- this may need editing to include notes on relevant legislature changes over the years
 - Application type dictionary - applic_type_dict 
 - Application type metrics - applic_type_metrics 
