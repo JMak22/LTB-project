@@ -27,11 +27,12 @@ This project uses publicly available information for research and civic analysis
 - Reports -- list of report years -- this may need editing to include notes on relevant legislature changes over the years
 - Application type dictionary - applic_type_dict 
 - Application type metrics - applic_type_metrics 
-- Resolution metrics - resolution_metrics 
+- Resolution metrics - resolution_metrics
+- validate extracted data
+- Added full text of reports in markdown format -- searching, textual analysis and other fun, language-based stuff is now enabled. To the best of my knowledge, the markdown text represents the reports faithfully, there may be minor errors in formatting.
 
 ### To do:
 - create institutional_changelog from Annual Report prose 
-- validate extracted data
 
 - compare metadata available from CanLII with data available from Annual Reports
 - decide if additional housing data should be collected from other sources (ex. Statistics Canada, CMHC, etc.)
