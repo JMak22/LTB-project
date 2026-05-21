@@ -1,0 +1,14 @@
+## Markdown Conversion and Data Verification
+
+The Markdown files in this repository were created to support transparency, reproducibility, and data verification.
+
+They serve as an intermediate textual record between the original annual report PDFs (`raw_pdfs` folder) and the structured datasets (`cleaned_data` folder) derived from those reports. This allows future reviewers to compare:
+
+- the original PDF reports;
+- the extracted Markdown text;
+- the initial draft spreadsheets created through manual data transfer; -- not shared in this repository, but it can be made available, if necessary
+- the normalized long-form datasets included in the repository.
+
+This workflow is intended to improve the integrity and veracity of the data by making it easier to identify transcription errors, OCR issues, formatting problems, missing values, and inconsistencies introduced during data cleaning or reshaping.
+
+The conversion script (`convert_ltb_report_to_md.py`) was generated with assistance from ChatGPT, GPT-5.5 Thinking. The script provides a reproducible first-pass method for extracting text and tables from the annual reports, but the Markdown files should still be treated as reviewed project artifacts rather than fully automated OCR outputs.
