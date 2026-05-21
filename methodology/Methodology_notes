@@ -2,7 +2,7 @@
 - downloaded Annual Reports available on tribunalsontario.ca, printed to PDF the sections that pertain to the Landlord and Tenant board for the reports that combine all of the Tribunals into one report
 - reports unavailable through the above website were found on archive.org by accessing archived pages of ltb.on.ca and downloading them in PDF form
 
-- built a spreadsheet of data available in the reports by hand, copy-pasting information from the reports (yes.)
+- initially, built a spreadsheet of data available in the reports by hand, copy-pasting information from the reports (yes.)
 	- took notes on the operational changes over time, organisations consulted, changes in metrics reported etc.
 	- all this went into a messy Libre Office Calc document from which the cleaned data was derived, so there may have been errors in copying, pasting and otherwise transferring data from PDF to CSV. The original reports are provided for your convenience if you wish to verify the information.
 
@@ -18,6 +18,9 @@
 - built `app_type_dictionary.csv` from application type names, tracking first year application was reported, last year reported and any remarks from the reports. Note that application names may have changed slightly over the years, those changes may not be reflected in the names used for application types in the aggregated data offered here.
 - built `app_type_metrics.csv` with data extracted from reports. Note that application types were segmented into `cases/defaults/hearings` from 1998-2007, after which (report year 2007-2008) only `cases` were reported. In the table `-` means `no_data_reported` and the table has a column that allows for distinguishing the data status from year to year -- `reported` or `not_reported`
 - built `resolution_metrics.csv` from the years where resolution types were counted (2013-2018)
+
+## Data validation/confirmation efforts
+- used ChatGPT to convert PDF reports that were OCR processed into Markdown documents with embedded tables (see `code` folder)
 
 ## Staffing metrics extraction method
 
