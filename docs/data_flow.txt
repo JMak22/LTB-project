@@ -1,0 +1,39 @@
+raw_pdfs
+├── manual extraction path
+│   ├── LTB Rough Annual report data.ods
+│   ├── LTB_data_organised.ods
+│   ├── annual_report_biography_extracts.zip
+│   └── cleaned_data/*.csv
+│
+└── OCR / markdown verification path
+    ├── ocr_pdfs
+    └── md_reports
+
+
+## Manual extraction workflow
+
+-> LTB Rough Annual report data.ods 
+- working notes
+- initial data capture
+
+-> LTB_data_organised.ods 
+- intermediate stage
+- normalization, organization
+
+-> annual_report_biography_extracts.zip
+- text of reports containing biographies or just adjudicator names for some years
+- used to extract names and derive a canonical list of adjudicator names, later used to derive counts
+
+-> cleaned_data/*.csv
+- published structured datasets
+
+## OCR/text verification workflow
+
+see above
+
+Purpose:
+- searchability
+- reproducibility
+- verification of manually extracted data
+- support for future automated information extraction
+

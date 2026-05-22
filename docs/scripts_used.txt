@@ -1,0 +1,31 @@
+## Scripts Used
+
+### convert_ltb_report_to_md.py
+Purpose:
+Convert OCR annual report PDFs into markdown text files, used as an initial conversion method which was later found to have left the OCR data oddly configured (paragraphs in tables, for example) with textual loss. It was decided that another attempt will be made, using ChatGPT Model 5.5-Thinking to perform the conversion using a combination of vision processing and Python script processing.
+
+Input:
+- ocr_pdfs/*.pdf
+
+Output:
+- intermediate .md reports, superseded by later version contained in `md_reports/*.md`
+
+### extract_names.py, dedupe_names.py, count_members.py
+Purpose:
+Extract adjudicator names from reports that contained biographies so that the number of adjudicators can be counted for that report year.
+
+Input:
+- *.txt files created from `raw_pdfs`, biography portions for some years, only names for other years
+
+Output:
+- intermediate extracted name CSVs
+- fields likely included `source_file`, `cleaned_name`, `metadata` (ex. "Part-time member")
+
+Followed by:
+1. Creation of `canonical_names.csv` including variants (ex. "Jim" vs "James", etc)
+
+-> Final canonical adjudicator counts in `member_counts_by_file.csv`
+
+### data_melt_long.py
+Purpose:
+Converting wide form data into long form data.

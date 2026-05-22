@@ -1,0 +1,29 @@
+# Canonical Datasets
+
+## app_type_dictionary.csv
+Dictionary of application types
+
+## app_type_metrics.csv
+Primary dataset for application type metrics by year.
+
+## financial_metrics.csv
+Primary dataset for financial data, for the years where it was reported in Annual Reports. Additional data may be available in Tribunals Ontario Financial Reports.
+
+## member_counts_by_file.csv
+Count of canonical names in each Annual Report that contained biographies of adjudicators.
+
+## operational_metrics.csv
+Primary dataset for operational metrics (applications received, resolved and unresolved). Note that not all data values (ex. `total_resolved`) were reported in all years.
+
+## regional_metrics.csv
+Primary dataset for operational metrics by region, for the years when these were reported by region. If I find a map of the regions, I'll include it in `/vis/` for clarity.
+
+## reports.csv
+Distinguishes between `report_id` (ex. `1998_1999`) and `report_label` (ex. `1998-1999`)
+
+## resolution_metrics.csv
+Primary dataset for the different resolution types (documented in `Metric_dict_mkdwn.md`), for the years when resolutions by type were published in Annual Reports (2013-2018).
+
+## staffing_metrics.csv
+Primary dataset used to count number of adjudicators (full time and part time), derived in part from `member_counts_by_file.csv` and partly from numbers reported in Annual Reports.
+Note that the number of Dispute Resolution Officers has not been reported so far.
