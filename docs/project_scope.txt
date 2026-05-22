@@ -1,0 +1,13 @@
+This repository contains:
+- structured datasets
+- extraction scripts
+- OCR conversions
+- methodological documentation
+- reproducible/public-facing artifacts
+
+It does not contain:
+- all exploratory research notes
+- stakeholder tracking
+- all adjacent housing research, related to this project
+- service design ideation
+- broader housing-system investigation materials
