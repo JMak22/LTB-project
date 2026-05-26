@@ -45,12 +45,12 @@ report_id,metric_id,value,unit,notes
 2012_2013,total_resolved,80261,applications,
 2012_2013,total_unresolved,9580,applications,
 2013_2014,total_received,81748,applications,
-2013_2014,total_resolved,,applications,
-2013_2014,total_unresolved,,applications,
-2014_2015,total_received,79740,applications,
+2013_2014,total_resolved,82126,applications,
+2013_2014,total_unresolved,8497,applications,
+2014_2015,total_received,79740,applications,includes co-op cases (208)
 2014_2015,total_resolved,77306,applications,
-2014_2015,total_unresolved,,applications,
-2015_2016,total_received,80214,applications,
+2014_2015,total_unresolved,10286,applications,
+2015_2016,total_received,80214,applications,E-file starts
 2015_2016,total_resolved,78175,applications,
 2015_2016,total_unresolved,11946,applications,
 2016_2017,total_received,81432,applications,
