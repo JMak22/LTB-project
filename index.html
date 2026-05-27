@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LTB Annual Report Data Explorer</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        h1 {
+            margin-bottom: 0.2em;
+        }
+
+        .note {
+            background: #f4f4f4;
+            padding: 12px;
+            border-left: 4px solid #666;
+            margin: 20px 0;
+        }
+
+        a.button {
+            display: inline-block;
+            background: #222;
+            color: white;
+            padding: 10px 16px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 10px;
+        }
+
+        a.button:hover {
+            background: #444;
+        }
+    </style>
+</head>
+<body>
+
+<h1>LTB Annual Report Data Explorer</h1>
+
+<p>
+Public-facing exploration interface for cleaned Ontario Landlord and Tenant Board annual report data (1998-2025).
+</p>
+
+<div class="note">
+<strong>Last updated:</strong> May 27, 2026
+</div>
+
+<h2>About this project</h2>
+
+<p>
+This project aggregates and structures publicly available annual report data related to the Ontario Rental Housing Tribunal, the Landlord and Tenant Board and Tribunals Ontario.
+</p>
+
+<p>
+The goal is to make institutional data more accessible to researchers, journalists, tenant advocates, policymakers and the public.
+</p>
+
+<h2>To explore the data</h2>
+
+<p>
+Launch the interactive data explorer:
+</p>
+
+<p>
+<a class="button" href="https://datasette.io/lite/?url=data/ltb_metrics.sqlite">
+Open Datasette Explorer
+</a>
+</p>
+
+<h2>Downloads</h2>
+
+<ul>
+    <li><a href="data/ltb_metrics.sqlite">SQLite Database</a></li>
+</ul>
+
+</body>
+</html>
