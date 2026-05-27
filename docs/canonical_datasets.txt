@@ -27,3 +27,6 @@ Primary dataset for the different resolution types (documented in `Metric_dict_m
 ## staffing_metrics.csv
 Primary dataset used to count number of adjudicators (full time and part time), derived in part from `member_counts_by_file.csv` and partly from numbers reported in Annual Reports.
 Note that the number of Dispute Resolution Officers has not been reported so far.
+
+## landlord_vs_tenant_receipts.csv
+Tracks percentage of applications received from landlord-type applications and tenant-type applications.
