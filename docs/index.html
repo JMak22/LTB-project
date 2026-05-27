@@ -21,13 +21,13 @@
         .note {
             background: #f4f4f4;
             padding: 12px;
-            border-left: 4px solid #666;
+            border-left: 4px solid #011638;
             margin: 20px 0;
         }
 
         a.button {
             display: inline-block;
-            background: #222;
+            background: #011638;
             color: white;
             padding: 10px 16px;
             text-decoration: none;
@@ -36,7 +36,7 @@
         }
 
         a.button:hover {
-            background: #444;
+            background: #0147b8;
         }
     </style>
 </head>
@@ -49,7 +49,8 @@ Public-facing exploration interface for cleaned Ontario Landlord and Tenant Boar
 </p>
 
 <div class="note">
-<strong>Last updated:</strong> May 27, 2026
+<strong>Last updated:</strong> May 27, 2026 <br>
+<strong>Last database rebuild:</strong> May 27, 2026
 </div>
 
 <h2>About this project</h2>
@@ -62,33 +63,45 @@ This project aggregates and structures publicly available annual report data rel
 The goal is to make institutional data more accessible to researchers, journalists, tenant advocates, policymakers and the public.
 </p>
 
-<h2>To explore the data</h2>
+<h2>Start here</h2>
 
-<p>
-Launch the interactive data explorer:
-</p>
-
-<p>
 <a class="button" href="https://lite.datasette.io/?url=https://jmak22.github.io/LTB-project/data/ltb_metrics.sqlite">
 Open Datasette Explorer
 </a>
+<p>
+Use the data explorer to search tables, filter records, inspect metrics, and download data for your own analysis.
 </p>
 
-<h2>Downloads</h2>
+<h3>What can I explore?</h3>
+<ul>
+  <li><strong>Operational metrics:</strong> applications received, resolved and outstanding.</li>
+  <li><strong>Financial metrics:</strong> reported revenue, expenses, and fee-related data, for the years when they were reported in Annual Reports.</li>
+  <li><strong>Staffing metrics:</strong> adjudicator/member counts. Data came directly from Annual Reports where given, or from `member_counts_by_file.csv`</li>
+  <li><strong>Regional metrics:</strong> application breakdown by region.</li>
+  <li><strong>Application type metrics:</strong> application categories such as L1, T1 and other filing types. Note that application type names have changed over the years, the database does not reflect those changes for the sake of our sanity.</li>
+</ul>
+
+<h3>Questions to try</h3>
+<ul>
+  <li>In which years did received applications exceed resolved applications?</li>
+  <li>How did unresolved cases change over time?</li>
+  <li>Which application types appear to grow or shrink across report years?</li>
+</ul>
+
+<h2>Limitations</h2>
+<p>
+The data comes from annual reports which changed format and level of detail over time.
+Some metrics are unavailable, renamed, aggregated differently, or reported inconsistently across years.
+Use this explorer as a structured reference, not Complete God's Own Truth About the LTB.
+</p>
+
+<h2>Downloads & Links</h2>
 
 <ul>
     <li><a href="data/ltb_metrics.sqlite">SQLite Database</a></li>
+    <li><a href="https://github.com/JMak22/LTB-project/blob/main/methodology/Methodology_notes">Methodology Notes</a></li>
+    <li><a href="https://github.com/JMak22/LTB-project">GitHub Repository</a></li>
 </ul>
-
-<h2>Data freshness</h2>
-
-<p>
-This explorer is generated from the latest cleaned CSV datasets in the repository.
-</p>
-
-<p>
-Last database rebuild: May 27, 2026.
-</p>
 
 </body>
 </html>
