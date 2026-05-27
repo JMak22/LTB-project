@@ -16,7 +16,7 @@ This project uses publicly available information for research and civic analysis
 - created one documents for Annual reports from 1998 to fiscal 2024-2025
 
 ### Ongoing:
-- updating Metric_dict_mkdwn as new metric_ids are identified
+- updating Metric_dict.md as new metric_ids are identified
 
 ### Tasks/cleanup finished:
 - Operational metrics -- contains number of applications filed, resolved and unresolved for each report year. Some data is not available but can be calculated.
