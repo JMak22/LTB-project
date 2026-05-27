@@ -10,16 +10,15 @@ This project aims to discover what can and cannot be known about LTB usage given
 This project uses publicly available information for research and civic analysis purposes. We will take care to comply with applicable Canadian privacy laws and to avoid publishing information or analyses that could cause harm to individuals or groups.
 
 ## Current Workflow
-- downloaded metadata via CanLII API
+- downloaded metadata via CanLII API -- currently being analyzed
 - downloaded ORHT/LTB Annual Reports
 - OCRs/text extraction of Annual Reports
 - created one documents for Annual reports from 1998 to fiscal 2024-2025
-- currently engaged in cleaning up CanLII metadata and operational data from Annual Reports
 
 ### Ongoing:
 - updating Metric_dict_mkdwn as new metric_ids are identified
 
-### Data clean up finished:
+### Tasks/cleanup finished:
 - Operational metrics -- contains number of applications filed, resolved and unresolved for each report year. Some data is not available but can be calculated.
 - Regional metrics -- contains number of applications filed, resolved and unresolved in each of the 8 regions for report years 1998-2014
 - Financial metrics -- contains the cost of filing for the years when it was reported in the Annual Reports; budget, expenditures, salaries, other expenses and revenue for report years 2006-07, 2007-08 and 2009-10. Operating budgets were not reported in other Annual Reports, the data may be available elsewhere.
@@ -30,6 +29,7 @@ This project uses publicly available information for research and civic analysis
 - Resolution metrics - resolution_metrics
 - validate extracted data
 - Added full text of reports in markdown format -- searching, textual analysis and other fun, language-based stuff is now enabled. To the best of my knowledge, the markdown text represents the reports faithfully, there may be minor errors in formatting.
+- created a .sqlite file of all CSVs, working on implementing Datasette
 
 ### To do:
 - create institutional_changelog from Annual Report prose 
