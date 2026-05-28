@@ -2,6 +2,8 @@
 
 This project aims to discover what can and cannot be known about LTB usage given currently available data and its structure.
 
+To browse the database, go to [https://jmak22.github.io/LTB-project/](https://jmak22.github.io/LTB-project/)
+
 ## Data Sources
 - tribunalsontario.ca and its predecessors (via archive.org) -- source of Annual Reports
 - CanLII -- source of metadata on LTB cases (note that this is a portion of all cases submitted and heard at the LTB) -- nothing published yet, we may be limited in what we are allowed to share from this data set

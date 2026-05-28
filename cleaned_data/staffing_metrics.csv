@@ -24,16 +24,16 @@ report_id,metric_id,value,unit,notes
 2008_2009,part_time_names_found,15,people,"Counted via scripts, check Methodology_notes"
 2009_2010,canonical_names_found,56,people,"Counted via scripts, check Methodology_notes"
 2009_2010,part_time_names_found,9,people,"Counted via scripts, check Methodology_notes"
-2020_2021,adjudicators_FT,37,people,
-2020_2021,adjudicators_PT,39,people,
-2021_2022,adjudicators_FT,39,people,
-2021_2022,adjudicators_PT,51,people,
-2022_2023,adjudicators_FT,39,people,
-2022_2023,adjudicators_PT,46,people,
+2020_2021,adjudicators_FT,37,people,reported
+2020_2021,adjudicators_PT,39,people,reported
+2021_2022,adjudicators_FT,39,people,reported
+2021_2022,adjudicators_PT,51,people,reported
+2022_2023,adjudicators_FT,39,people,reported
+2022_2023,adjudicators_PT,46,people,reported
 2022_2023,adjudicators_FTE,40,FTE,“Additional 40 adjudicators FTE”
 2022_2023,staff,35,people?,“Additional 35 staff”
-2022_2023,staff_FTE,5,FTE,
-2023_2024,adjudicators_FT,75,people,
-2023_2024,adjudicators_PT,59,people,
-2024_2025,adjudicators_FT,81,people,
+2022_2023,staff_FTE,5,FTE,reported
+2023_2024,adjudicators_FT,75,people,reported
+2023_2024,adjudicators_PT,59,people,reported
+2024_2025,adjudicators_FT,81,people,reported
 2024_2025,adjudicators_PT,52,people,“Significant increase in (number?) of Dispute Resolution Officers”
