@@ -56,6 +56,46 @@
             color: white;
         }
 
+
+        .hearing-summary {
+            margin-top: 24px;
+        }
+
+        .application-group {
+            margin: 14px 0;
+            padding: 10px 12px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            background: #fafafa;
+        }
+
+        .application-group summary {
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .summary-label {
+            display: inline-block;
+            min-width: 170px;
+        }
+
+        .ascii-bar {
+            display: inline-block;
+            font-family: "Courier New", monospace;
+            letter-spacing: 1px;
+            margin: 0 12px;
+            color: #011638;
+        }
+
+        .average-days {
+            white-space: nowrap;
+        }
+
+        .prototype-note {
+            font-size: 0.9em;
+            color: #555;
+        }
+
     </style>
 </head>
 <body>
@@ -63,64 +103,88 @@
 <h1>LTB Dashboard ~~Prototype~~</h1>
 <p> Intended for feedback only, please don't share.</p>
 
-<h2>LTB Wait Times to First Hearing (page 1)</h2>
+<section class="hearing-summary" aria-labelledby="first-hearing-heading">
+    <h2 id="first-hearing-heading">How long until first hearing?</h2>
+    <p><strong>Performance standard:</strong> 30 days</p>
 
-<div class="note">
-    <strong>Last updated:</strong> May 29, 2026.
-</div>
+    <details class="application-group">
+        <summary>
+            <span class="summary-label">Landlord applications</span>
+            <span class="ascii-bar" aria-hidden="true">||||||||||||||||</span>
+            <span class="average-days">average 90 days</span>
+        </summary>
 
-<table>
-    <thead>
-        <tr>
-            <th>Application Code</th>
-            <th>Full Name</th>
-            <th>Average Days</th>
-            <th>Performance Standard (days)</th>
-            <th>% of Applications Within Standard</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>L1/L2</td>
-            <td>Terminate & Evict for Non-Payment of Rent/Terminate Tenancy & Evict</td>
-            <td>52.4</td>
-            <td>30</td>
-            <td>15.5%</td>
-        </tr>
-        <tr>
-            <td>L2</td>
-            <td>Terminate Tenancy & Evict</td>
-            <td>59.3</td>
-            <td>30</td>
-            <td>10.4%</td>
-        </tr>
-        <tr>
-            <td>T1</td>
-            <td>Rent Rebate (eg. Illegal rent)</td>
-            <td>132.5</td>
-            <td>30</td>
-            <td>0.6%</td>
-        </tr>
-        <tr>
-            <td>T6</td>
-            <td>Maintenance</td>
-            <td>169.3</td>
-            <td>30</td>
-            <td>1.4%</td>
-        </tr>
-        <tr>
-            <td>L4</td>
-            <td>Terminate Tenancy - Failed Settlement</td>
-            <td>46.8</td>
-            <td>30</td>
-            <td>14.3%</td>
-        </tr>
-        <!-- Add more rows from the Excel sheets as needed -->
-    </tbody>
-</table>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Code</th>
+                    <th>Full Name</th>
+                    <th>Average Days</th>
+                    <th>% Within Standard</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>L1/L2</td>
+                    <td>Terminate &amp; Evict for Non-Payment of Rent/Terminate Tenancy &amp; Evict</td>
+                    <td>52.4</td>
+                    <td>15.5%</td>
+                </tr>
+                <tr>
+                    <td>L2</td>
+                    <td>Terminate Tenancy &amp; Evict</td>
+                    <td>59.3</td>
+                    <td>10.4%</td>
+                </tr>
+                <tr>
+                    <td>L4</td>
+                    <td>Terminate Tenancy - Failed Settlement</td>
+                    <td>46.8</td>
+                    <td>14.3%</td>
+                </tr>
+            </tbody>
+        </table>
+    </details>
+
+    <details class="application-group">
+        <summary>
+            <span class="summary-label">Tenant applications</span>
+            <span class="ascii-bar" aria-hidden="true">||||||||||||||||||||||||||||||||||||</span>
+            <span class="average-days">average 163 days</span>
+        </summary>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Code</th>
+                    <th>Full Name</th>
+                    <th>Average Days</th>
+                    <th>% Within Standard</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>T1</td>
+                    <td>Rent Rebate (e.g. illegal rent)</td>
+                    <td>132.5</td>
+                    <td>0.6%</td>
+                </tr>
+                <tr>
+                    <td>T6</td>
+                    <td>Maintenance</td>
+                    <td>169.3</td>
+                    <td>1.4%</td>
+                </tr>
+            </tbody>
+        </table>
+    </details>
+
+    <p class="prototype-note">Prototype note: the bars are currently hand-coded ASCII. Later, these can be generated from CSV values with JavaScript.</p>
+</section>
 
 <div class="note">
     <strong>Data Source:</strong> LTB Open Data, Qn 20nn-nn (link)
+	<p><strong>Last updated:</strong> May 29, 2026.</p>
 </div>
 
 
