@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LTB Dashboard Prototype</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        h1 {
+            margin-bottom: 0.2em;
+        }
+
+        .note {
+            background: #f4f4f4;
+            padding: 12px;
+            border-left: 4px solid #011638;
+            margin: 20px 0;
+        }
+
+        a.button {
+            display: inline-block;
+            background: #011638;
+            color: white;
+            padding: 10px 16px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 10px;
+        }
+
+        a.button:hover {
+            background: #0147b8;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 6px 12px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #011638;
+            color: white;
+        }
+
+    </style>
+</head>
+<body>
+
+<h1>LTB Dashboard ~~Prototype~~</h1>
+<p> Intended for feedback only, please don't share.</p>
+
+<h2>LTB Wait Times to First Hearing (page 1)</h2>
+
+<div class="note">
+    <strong>Last updated:</strong> May 29, 2026.
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>Application Code</th>
+            <th>Full Name</th>
+            <th>Average Days</th>
+            <th>Performance Standard (days)</th>
+            <th>% of Applications Within Standard</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>L1/L2</td>
+            <td>Terminate & Evict for Non-Payment of Rent/Terminate Tenancy & Evict</td>
+            <td>52.4</td>
+            <td>30</td>
+            <td>15.5%</td>
+        </tr>
+        <tr>
+            <td>L2</td>
+            <td>Terminate Tenancy & Evict</td>
+            <td>59.3</td>
+            <td>30</td>
+            <td>10.4%</td>
+        </tr>
+        <tr>
+            <td>T1</td>
+            <td>Rent Rebate (eg. Illegal rent)</td>
+            <td>132.5</td>
+            <td>30</td>
+            <td>0.6%</td>
+        </tr>
+        <tr>
+            <td>T6</td>
+            <td>Maintenance</td>
+            <td>169.3</td>
+            <td>30</td>
+            <td>1.4%</td>
+        </tr>
+        <tr>
+            <td>L4</td>
+            <td>Terminate Tenancy - Failed Settlement</td>
+            <td>46.8</td>
+            <td>30</td>
+            <td>14.3%</td>
+        </tr>
+        <!-- Add more rows from the Excel sheets as needed -->
+    </tbody>
+</table>
+
+<div class="note">
+    <strong>Data Source:</strong> LTB Open Data, Qn 20nn-nn (link)
+</div>
+
+
+</body>
+</html>
