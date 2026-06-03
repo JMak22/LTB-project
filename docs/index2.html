@@ -99,8 +99,18 @@
     </style>
 </head>
 <body>
-
 <h1>LTB Dashboard ~~Prototype~~</h1>
+<!-- Header -->
+<header style="background-color:#011638; color:white; padding:10px 20px; display:flex; align-items:center; justify-content:space-between; font-family:Arial, sans-serif;">
+    <div style="font-weight:bold; font-size:1.2em;"></div>
+    <nav>
+        <a href="index2.html" style="color:white; text-decoration:none; margin:0 10px;">Home</a>
+        <a href="ltb_reports.html" style="color:white; text-decoration:none; margin:0 10px;">LTB Annual Reports (1998-2025)</a>
+        <a href="glossary.html" style="color:white; text-decoration:none; margin:0 10px;">Glossary</a>
+    </nav>
+</header>
+
+
 <p> Intended for feedback only, please don't share.</p>
 
 <section class="hearing-summary" aria-labelledby="first-hearing-heading">
@@ -114,11 +124,14 @@
             <span class="average-days">average 90 days</span>
         </summary>
 
-        <table>
+        <table style="table-layout: fixed; width: 100%;">
+            <col style="width:120px;">
+            <col style="width:550px;">
+            <col style="width:100px;">
             <thead>
                 <tr>
                     <th>Application Code</th>
-                    <th>Full Name</th>
+                    <th>Application Type</th>
                     <th>Average Days</th>
                     <th>% Within Standard</th>
                 </tr>
@@ -153,11 +166,14 @@
             <span class="average-days">average 163 days</span>
         </summary>
 
-        <table>
+        <table style="table-layout: fixed; width: 100%;">
+            <col style="width:120px;">
+            <col style="width:550px;">
+            <col style="width:100px;">
             <thead>
                 <tr>
                     <th>Application Code</th>
-                    <th>Full Name</th>
+                    <th>Application Type</th>
                     <th>Average Days</th>
                     <th>% Within Standard</th>
                 </tr>
@@ -183,10 +199,20 @@
 </section>
 
 <div class="note">
-    <strong>Data Source:</strong> LTB Open Data, Qn 20nn-nn (link)
-	<p><strong>Last updated:</strong> May 29, 2026.</p>
+    <strong>Data Source:</strong> LTB Open Data, Qn 20nn-nn (link) 
+    <p><strong>Data last updated:</strong> March 31, 2026. <strong>| Next data update due:</strong> June 30, 2026.</p>
+	<p><strong>Dashboard last updated:</strong> May 30, 2026.</p>
 </div>
 
+<!-- Footer -->
+<footer style="background-color:#f4f4f4; color:#333; text-align:center; padding:15px 20px; font-family:Arial, sans-serif; margin-top:30px; border-top:1px solid #ccc;">
+    <p>&copy; 2026 Jasna Maksimovic | Landlord and Tenant Board - Open Data Dashboard | All rights reserved</p>
+    <p>
+        <a href="privacy.html" style="color:#011638; text-decoration:none; margin:0 5px;">Privacy</a> |
+        <a href="terms.html" style="color:#011638; text-decoration:none; margin:0 5px;">Terms</a> |
+        <a href="contact.html" style="color:#011638; text-decoration:none; margin:0 5px;">Contact</a>
+    </p>
+</footer>
 
 </body>
 </html>

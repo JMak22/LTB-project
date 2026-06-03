@@ -29,3 +29,17 @@ Followed by:
 ### data_melt_long.py
 Purpose:
 Converting wide form data into long form data.
+
+### import_avg_d_to_hearing.py
+Purpose:
+Imports the .xlsx files from Tribunals Ontario Open Data
+
+### convert_days_to_first_hearing.py
+Purpose: 
+Convert imported Excel files to CSV long form
+
+Input:
+Downloaded .xlsx files
+
+Output:
+`days_to_first_hearing_count.csv` -- can be found in `cleaned_data/*.csv`
