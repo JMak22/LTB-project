@@ -30,3 +30,6 @@ Note that the number of Dispute Resolution Officers has not been reported so far
 
 ## landlord_vs_tenant_receipts.csv
 Tracks percentage of applications received from landlord-type applications and tenant-type applications.
+
+## days_to_first_hearing_count.csv
+Tracks days to first hearing for specific application types and combinations of application types by region from first quarter of 2015-16 until Q4 2025-2026.

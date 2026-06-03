@@ -20,7 +20,8 @@ CSV_TABLES = {
     "app_type_metrics.csv": "app_type_metrics",
     "app_type_dictionary.csv": "app_type_dictionary",
     "member_counts_by_file.csv": "member_counts_by_file",
-    "landlord_vs_tenant_receipts.csv": "landlord_vs_tenant_receipts"
+    "landlord_vs_tenant_receipts.csv": "landlord_vs_tenant_receipts",
+    "days_to_first_hearing_count.csv": "days_to_first_hearing_count"
 }
 
 def main():
