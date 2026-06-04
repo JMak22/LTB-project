@@ -1,0 +1,152 @@
+﻿report_id,region_id,office_code,app_combo,app_type,avg_days,performance_standard,percent_in_standard,source_file
+2021_2022_Q2,province_average,Prov / Avg.,A1,A1_L,62.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,A1,A1_T,36.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,A1/T2,A1_T,37.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,A1/T2,T2,37.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,A2,A2_L,108.6,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,A2,A2_T,134.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L1,L1,65.2,25,0.3,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L1/L2,L1,93.4,30,1.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L1/L2,L2,93.4,30,1.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L2,L2,63.6,30,5.7,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L2/L3/L9,L2,54.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L2/L3/L9,L3,54.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L2/L3/L9,L9,54.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L2/L9,L2,55.8,30,20.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L2/L9,L9,55.8,30,20.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L3,L3,65.5,30,2.2,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L4,L4,66.2,30,0.8,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L8,L8,102.5,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,L9,L9,85.8,25,0.0,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T1,T1,170.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T1/T2,T1,47.8,30,20.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T1/T2,T2,47.8,30,20.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T1/T2/T6,T1,57.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T1/T2/T6,T2,57.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T1/T2/T6,T6,57.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T2,T2,44.6,30,41.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T2/T5,T2,46.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T2/T5,T5,46.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T2/T6,T2,51.6,30,20.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T2/T6,T6,51.6,30,20.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T5,T5,97.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,province_average,Prov / Avg.,T6,T6,62.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,A1,A1_L,55.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,A1/T2,A1_T,37.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,A1/T2,T2,37.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,L1,L1,61.8,25,0.0,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_central,CE,L1/L2,L1,92.5,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,L1/L2,L2,92.5,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,L2,L2,72.8,30,0.4,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,L3,L3,61.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,L4,L4,66.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,L9,L9,77.2,25,0.0,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_central,CE,T1/T2,T1,25.0,30,100.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,T1/T2,T2,25.0,30,100.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,T2,T2,50.3,30,33.3,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_central,CE,T6,T6,65.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,A1,A1_L,95.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,A2,A2_L,105.7,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,L1,L1,66.1,25,0.2,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_eastern,EA,L1/L2,L1,90.5,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,L1/L2,L2,90.5,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,L2,L2,67.8,30,11.3,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,L2/L9,L2,30.0,30,100.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,L2/L9,L9,30.0,30,100.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,L3,L3,73.7,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,L4,L4,64.7,30,3.1,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,L9,L9,85.1,25,0.0,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_eastern,EA,T1/T2,T1,48.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,T1/T2,T2,48.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,T2,T2,49.3,30,33.3,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,T2/T6,T2,72.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,T2/T6,T6,72.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_eastern,EA,T6,T6,57.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_northern,NO,A2,A2_L,90.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_northern,NO,A2,A2_T,129.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_northern,NO,L1,L1,62.1,25,2.6,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_northern,NO,L1/L2,L1,98.7,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_northern,NO,L1/L2,L2,98.7,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_northern,NO,L2,L2,68.9,30,2.2,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_northern,NO,L3,L3,77.7,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_northern,NO,L4,L4,68.3,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_northern,NO,L9,L9,75.5,25,0.0,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_northern,NO,T2,T2,26.5,30,100.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,L1,L1,62.6,25,0.2,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_southern,SO,L1/L2,L1,87.2,30,3.7,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,L1/L2,L2,87.2,30,3.7,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,L2,L2,56.2,30,11.9,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,L3,L3,70.5,30,4.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,L4,L4,68.1,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,L8,L8,99.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,L9,L9,82.3,25,0.0,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_southern,SO,T1/T2,T1,99.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,T1/T2,T2,99.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,T1/T2/T6,T1,61.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,T1/T2/T6,T2,61.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,T1/T2/T6,T6,61.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,T2,T2,45.0,30,33.3,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,T2/T5,T2,46.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,T2/T5,T5,46.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,T2/T6,T2,51.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southern,SO,T2/T6,T6,51.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,A1,A1_L,36.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,A2,A2_L,115.5,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,L1,L1,65.6,25,0.1,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_southwestern,SW,L1/L2,L1,85.5,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,L1/L2,L2,85.5,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,L2,L2,58.4,30,3.3,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,L2/L9,L2,56.3,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,L2/L9,L9,56.3,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,L3,L3,66.2,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,L4,L4,63.7,30,2.4,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,L8,L8,84.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,L9,L9,85.0,25,0.0,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_southwestern,SW,T2,T2,41.5,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_southwestern,SW,T6,T6,67.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,A2,A2_T,139.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L1,L1,66.7,25,0.7,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_torontoEast,TE,L1/L2,L1,100.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L1/L2,L2,100.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L2,L2,61.7,30,10.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L2/L3/L9,L2,54.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L2/L3/L9,L3,54.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L2/L3/L9,L9,54.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L2/L9,L2,80.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L2/L9,L9,80.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L3,L3,63.8,30,4.8,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L4,L4,64.8,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L8,L8,128.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,L9,L9,92.9,25,0.0,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_torontoEast,TE,T1/T2,T1,33.5,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,T1/T2,T2,33.5,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,T2,T2,32.0,30,50.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,T2/T6,T2,34.0,30,50.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,T2/T6,T6,34.0,30,50.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoEast,TE,T6,T6,77.8,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,L1,L1,67.4,25,0.2,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_torontoNorth,TN,L1/L2,L1,97.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,L1/L2,L2,97.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,L2,L2,67.7,30,4.7,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,L3,L3,58.9,30,7.1,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,L4,L4,64.4,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,L9,L9,87.6,25,0.0,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_torontoNorth,TN,T1/T2/T6,T1,53.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,T1/T2/T6,T2,53.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,T1/T2/T6,T6,53.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,T2,T2,49.7,30,33.3,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,T2/T6,T2,67.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,T2/T6,T6,67.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoNorth,TN,T6,T6,54.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoSouth,TS,A1,A1_T,36.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoSouth,TS,L1,L1,67.6,25,0.0,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_torontoSouth,TS,L1/L2,L1,130.9,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoSouth,TS,L1/L2,L2,130.9,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoSouth,TS,L2,L2,68.9,30,0.6,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoSouth,TS,L3,L3,65.8,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoSouth,TS,L4,L4,71.3,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoSouth,TS,L9,L9,89.3,25,0.0,22 28 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (L1 & L9).xlsx
+2021_2022_Q2,region_torontoSouth,TS,T1,T1,170.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoSouth,TS,T2,T2,44.6,30,50.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoSouth,TS,T5,T5,97.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx
+2021_2022_Q2,region_torontoSouth,TS,T6,T6,36.0,30,0.0,22 29 2021-07-01_2021-09-30 LTBAvgDayFirstHearing Q2 2021-2022 (Other applications).xlsx

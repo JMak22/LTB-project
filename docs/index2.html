@@ -85,6 +85,7 @@
             letter-spacing: 1px;
             margin: 0 12px;
             color: #011638;
+            white-space: nowrap;
         }
 
         .average-days {
@@ -105,23 +106,23 @@
     <div style="font-weight:bold; font-size:1.2em;"></div>
     <nav>
         <a href="index2.html" style="color:white; text-decoration:none; margin:0 10px;">Home</a>
-        <a href="ltb_reports.html" style="color:white; text-decoration:none; margin:0 10px;">LTB Annual Reports (1998-2025)</a>
+        <a href="index.html" style="color:white; text-decoration:none; margin:0 10px;">LTB Annual Reports (1998-2025)</a>
         <a href="glossary.html" style="color:white; text-decoration:none; margin:0 10px;">Glossary</a>
     </nav>
 </header>
-
 
 <p> Intended for feedback only, please don't share.</p>
 
 <section class="hearing-summary" aria-labelledby="first-hearing-heading">
     <h2 id="first-hearing-heading">How long until first hearing?</h2>
-    <p><strong>Performance standard:</strong> 30 days</p>
+    <p><strong>Performance standard - L1 & L9:</strong> 25 days</p>
+    <p><strong>Performance standard - all other applications:</strong> 30 days</p>
 
     <details class="application-group">
         <summary>
             <span class="summary-label">Landlord applications</span>
-            <span class="ascii-bar" aria-hidden="true">||||||||||||||||</span>
-            <span class="average-days">average 90 days</span>
+            <span id="landlord-bar" class="ascii-bar" aria-hidden="true"></span>
+            <span id="landlord-average" class="average-days"></span>
         </summary>
 
         <table style="table-layout: fixed; width: 100%;">
@@ -136,7 +137,7 @@
                     <th>% Within Standard</th>
                 </tr>
             </thead>
-            <tbody>
+            <tbody id="landlord-table-body">
                 <tr>
                     <td>L1/L2</td>
                     <td>Terminate &amp; Evict for Non-Payment of Rent/Terminate Tenancy &amp; Evict</td>
@@ -162,8 +163,8 @@
     <details class="application-group">
         <summary>
             <span class="summary-label">Tenant applications</span>
-            <span class="ascii-bar" aria-hidden="true">||||||||||||||||||||||||||||||||||||</span>
-            <span class="average-days">average 163 days</span>
+            <span id="tenant-bar" class="ascii-bar" aria-hidden="true"></span>
+            <span id="tenant-average" class="average-days"></span>
         </summary>
 
         <table style="table-layout: fixed; width: 100%;">
@@ -178,7 +179,7 @@
                     <th>% Within Standard</th>
                 </tr>
             </thead>
-            <tbody>
+            <tbody id="tenant-table-body">
                 <tr>
                     <td>T1</td>
                     <td>Rent Rebate (e.g. illegal rent)</td>
@@ -201,7 +202,7 @@
 <div class="note">
     <strong>Data Source:</strong> LTB Open Data, Qn 20nn-nn (link) 
     <p><strong>Data last updated:</strong> March 31, 2026. <strong>| Next data update due:</strong> June 30, 2026.</p>
-	<p><strong>Dashboard last updated:</strong> May 30, 2026.</p>
+	<p><strong>Dashboard last updated:</strong> June 3rd, 2026.</p>
 </div>
 
 <!-- Footer -->
@@ -213,6 +214,31 @@
         <a href="contact.html" style="color:#011638; text-decoration:none; margin:0 5px;">Contact</a>
     </p>
 </footer>
+
+<script>
+const latestWaitTimes = {
+    landlordAverageDays: 90,
+    tenantAverageDays: 163
+};
+
+const BAR_SCALE = 5; // 1 | = 5 days
+
+function makeBar(days) {
+    return "█".repeat(Math.round(days / BAR_SCALE));
+}
+
+document.getElementById("landlord-bar").textContent =
+    makeBar(latestWaitTimes.landlordAverageDays);
+
+document.getElementById("landlord-average").textContent =
+    `average ${latestWaitTimes.landlordAverageDays} days`;
+
+document.getElementById("tenant-bar").textContent =
+    makeBar(latestWaitTimes.tenantAverageDays);
+
+document.getElementById("tenant-average").textContent =
+    `average ${latestWaitTimes.tenantAverageDays} days`;
+</script>
 
 </body>
 </html>
