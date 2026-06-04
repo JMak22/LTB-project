@@ -5,20 +5,26 @@ This project aims to discover what can and cannot be known about LTB usage given
 To browse the database, go to [https://jmak22.github.io/LTB-project/](https://jmak22.github.io/LTB-project/)
 
 ## Data Sources
-- tribunalsontario.ca and its predecessors (via archive.org) -- source of Annual Reports
+- tribunalsontario.ca and its predecessors (via archive.org) -- source of Annual Reports and Open Data
 - CanLII -- source of metadata on LTB cases (note that this is a portion of all cases submitted and heard at the LTB) -- nothing published yet, we may be limited in what we are allowed to share from this data set
 
 ## Ethical Considerations
 This project uses publicly available information for research and civic analysis purposes. We will take care to comply with applicable Canadian privacy laws and to avoid publishing information or analyses that could cause harm to individuals or groups.
 
-## Current Workflow
-- downloaded metadata via CanLII API -- currently being analyzed
-- downloaded ORHT/LTB Annual Reports
-- OCRs/text extraction of Annual Reports
-- created one documents for Annual reports from 1998 to fiscal 2024-2025
+### To do:
+- create institutional_changelog from Annual Report prose -- a way to communicate the institutional changes that have taken place in LTB as an organization since its inception
+
+- figure out what can be gleaned AND ethically communicated from the CanLII data
+
+- continue outreach to tenant unions, academics and other intersted parties
+
+- include LTB Open Data in dashboard
+
+- service design: investigate the viability of a Small Language Model to serve as a system/process navigator, helping the tenant understand where they're at in a LTB process and directing them towards tenant support organizations/community supports as soon as possible
 
 ### Ongoing:
-- updating Metric_dict.md as new metric_ids are identified
+- figuring out how to communicate gleanings from the Annual Reports in visual/interactive form
+- integrating LTB Open Data into existing dashboard
 
 ### Tasks/cleanup finished:
 - Operational metrics -- contains number of applications filed, resolved and unresolved for each report year. Some data is not available but can be calculated.
@@ -31,18 +37,9 @@ This project uses publicly available information for research and civic analysis
 - Resolution metrics - resolution_metrics
 - validate extracted data
 - Added full text of reports in markdown format -- searching, textual analysis and other fun, language-based stuff is now enabled. To the best of my knowledge, the markdown text represents the reports faithfully, there may be minor errors in formatting.
-- created a .sqlite file of all CSVs, working on implementing Datasette
+- created a .sqlite file of all CSVs, available via Datasette at the link above
 
-### To do:
-- create institutional_changelog from Annual Report prose 
 
-- compare metadata available from CanLII with data available from Annual Reports
-- decide if additional housing data should be collected from other sources (ex. Statistics Canada, CMHC, etc.)
- 
-- decide on first story to tell from data
-  - create visualisations that best illustrate the story
-
-- share findings and conclusions with interested parties
 
 ## Limitations
 1. ORHT/LTB Annual Reports represent aggregate data about the function of the bodies. The way the data is selected, structured and reported has changed over the years so the data cannot be considered complete.

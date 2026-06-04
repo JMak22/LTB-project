@@ -1,0 +1,41 @@
+﻿report_id,region_id,office_code,app_combo,app_type,avg_days,performance_standard,percent_in_standard,source_file
+2023_2024_Q3,province_average,Prov / Avg.,A1,A1_L,209.61111111111111,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,A1,A1_T,143.25,30,0.125,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,A1/L2,A1_L,58.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,A1/L2,L2,58.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,A1/T2,A1_T,48.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,A1/T2,T2,48.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,A2,A2_L,252.425,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,A2,A2_T,302.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,A2/L10,A2_L,252.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,A2/L10,L10,252.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,A4,A4_L,176.33333333333334,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L1,L1,98.7,25,0.00337437300501596,22 46 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (L1 & L9) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L1/L2,L1,197.59677419354838,30,0.002,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L1/L2,L2,197.59677419354838,30,0.002,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L1/L2/L8,L1,136.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L1/L2/L8,L2,136.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L1/L2/L8,L8,136.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L10,L10,260.03921568627453,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L2,L2,188.47980613893375,30,0.002,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L2/L3,L2,46.0,30,0.001076426264800861,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L2/L3,L3,46.0,30,0.001076426264800861,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L2/L9,L2,254.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L2/L9,L9,254.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L3,L3,38.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L4,L4,49.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L5,L5,893.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,L9,L9,108.6,25,0.0,22 46 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (L1 & L9) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T1,T1,222.0,30,0.010101010101010102,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T1/T2,T1,57.666666666666664,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T1/T2,T2,57.666666666666664,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T1/T2/T5,T1,39.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T1/T2/T5,T2,39.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T1/T2/T5,T5,39.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T2,T2,211.65891472868216,30,0.10077519379844961,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T2/T6,T2,273.38,30,0.06,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T2/T6,T6,273.38,30,0.06,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T3,T3,92.0,30,0.5,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T5,T5,288.1774193548387,30,0.016129032258064516,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T6,T6,291.9019607843137,30,0.0392156862745098,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx
+2023_2024_Q3,province_average,Prov / Avg.,T7,T7,80.0,30,0.0,22 47 2023-10-01_2023-12-31 LTBAvgDayFirstHearing Q3 2023-2024 (Other applications) TOP.xlsx

@@ -40,3 +40,10 @@
 | additional_staff             | Additional staff members                                                               |                                     |
 | canonical_names_found        | Number of canonical adjudicator names found in report                                  | Check Methodology_notes for process |
 | part_time_names_found        | Number of canonical adjudicator names followed by “(Part Time member)” or some variant | As above                            |
+| cases                 | Number of applications/cases for a specific application type                            | Used in app_type_metrics.csv; scoped by app_code/applicant type |
+| defaults              | Number of defaults for a specific application type                                     | Used in app_type_metrics.csv where reported |
+| hearings              | Number of hearings for a specific application type                                    | Used in app_type_metrics.csv where reported |
+| time_per_hearing      | Average time per hearing for a specific application type                              | Used in app_type_metrics.csv where reported |
+| avg_days              | Average number of days                                                                | Used in Avg Days to First Hearing/service standard data |
+| performance_standard  | Service standard threshold in business days                                          | Example: 25 business days for L1/L9; 30 for other applications |
+| percent_in_standard   | Percentage of applications within the applicable service standard                     | Preserves provenance for “% within standard” values from original Tribunals Ontario Open Data files|

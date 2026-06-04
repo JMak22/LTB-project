@@ -1,0 +1,611 @@
+﻿report_id,region_id,office_code,app_combo,app_type,avg_days,performance_standard,percent_in_standard,source_file
+2016_2017_Q2,province_average,Prov / Avg.,A1,A1_L,31.93103448275862,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1,A1_T,39.42857142857143,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/A2,A1_L,28.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/A2,A1_T,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/A2,A2_L,28.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/A2,A2_T,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/A2/L2,A1_L,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/A2/L2,A2_L,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/A2/L2,L2,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/T1,A1_T,36.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/T1,T1,36.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/T2,A1_T,19.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/T2,T2,19.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/T2/T3,A1_T,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/T2/T3,T2,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/T2/T3,T3,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/T2/T6,A1_T,20.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/T2/T6,T2,20.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A1/T2/T6,T6,20.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2,A2_L,29.015384615384615,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2,A2_T,32.833333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/L1,A2_L,31.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/L1,L1,31.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/L1/L2/L8,A2_L,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/L1/L2/L8,L1,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/L1/L2/L8,L2,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/L1/L2/L8,L8,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/L2,A2_L,29.75,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/L2,L2,29.75,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/L3,A2_L,28.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/L3,L3,28.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/T1/T2,A2_T,31.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/T1/T2,T1,31.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/T1/T2,T2,31.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/T2,A2_T,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A2/T2,T2,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,A4,A4_L,116.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1,L1,26.16281430579416,25,0.1639856317351242,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L2,L1,27.837528604118994,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L2,L2,27.837528604118994,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L2/L3,L1,23.272727272727273,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L2/L3,L2,23.272727272727273,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L2/L3,L3,23.272727272727273,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L2/L8,L1,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L2/L8,L2,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L2/L8,L8,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L2/L9,L1,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L2/L9,L2,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L2/L9,L9,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L3,L1,25.88,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L3,L3,25.88,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L8,L1,29.166666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L1/L8,L8,29.166666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2,L2,27.71264367816092,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L3,L2,24.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L3,L3,24.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L3/L8,L2,14.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L3/L8,L3,14.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L3/L8,L8,14.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L3/L9,L2,35.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L3/L9,L3,35.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L3/L9,L9,35.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L8,L2,24.25,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L8,L8,24.25,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L8/L9,L2,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L8/L9,L8,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L8/L9,L9,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L9,L2,28.655172413793103,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L2/L9,L9,28.655172413793103,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L3,L3,28.76608187134503,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L3/L9,L3,26.125,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L3/L9,L9,26.125,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L4,L4,30.185365853658535,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L5,L5,135.02,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L8,L8,29.8,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L8/L9,L8,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L8/L9,L9,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,L9,L9,27.734939759036145,25,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1,T1,34.89340101522843,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2,T1,31.229166666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2,T2,31.229166666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T3,T1,49.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T3,T2,49.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T3,T3,49.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T3/T6,T1,30.833333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T3/T6,T2,30.833333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T3/T6,T3,30.833333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T3/T6,T6,30.833333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T5,T1,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T5,T2,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T5,T5,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T5/T6,T1,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T5/T6,T2,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T5/T6,T5,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T5/T6,T6,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T6,T1,33.696969696969695,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T6,T2,33.696969696969695,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T2/T6,T6,33.696969696969695,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T3,T1,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T3,T3,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T3/T6,T1,19.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T3/T6,T3,19.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T3/T6,T6,19.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T3/T6/T7,T1,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T3/T6/T7,T3,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T3/T6/T7,T6,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T3/T6/T7,T7,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T5,T1,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T5,T5,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T5/T6,T1,36.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T5/T6,T5,36.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T5/T6,T6,36.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T6,T1,37.294117647058826,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T1/T6,T6,37.294117647058826,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2,T2,30.600609756097562,30,0.2032520325203252,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T3,T2,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T3,T3,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T3/T6,T2,22.428571428571427,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T3/T6,T3,22.428571428571427,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T3/T6,T6,22.428571428571427,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T5,T2,31.8,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T5,T5,31.8,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T5/T6,T2,34.666666666666664,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T5/T6,T5,34.666666666666664,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T5/T6,T6,34.666666666666664,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T6,T2,33.81647940074907,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T6,T6,33.81647940074907,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T7,T2,12.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T2/T7,T7,12.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T3,T3,28.066666666666666,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T3/T6,T3,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T3/T6,T6,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T4,T4,27.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T5,T5,29.859649122807017,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T5/T6,T5,49.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T5/T6,T6,49.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T6,T6,32.80444444444444,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,province_average,Prov / Avg.,T7,T7,36.333333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,A1,A1_L,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,A2,A2_L,23.4,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,A2/T1/T2,A2_T,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,A2/T1/T2,T1,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,A2/T1/T2,T2,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L1,L1,22.505351681957187,25,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L1/L2,L1,23.53030303030303,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L1/L2,L2,23.53030303030303,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L1/L2/L8,L1,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L1/L2/L8,L2,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L1/L2/L8,L8,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L1/L3,L1,26.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L1/L3,L3,26.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L2,L2,23.784172661870503,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L2/L3,L2,15.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L2/L3,L3,15.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L2/L9,L2,21.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L2/L9,L9,21.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L3,L3,24.434782608695652,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L3/L9,L3,23.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L3/L9,L9,23.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L4,L4,26.349206349206348,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L5,L5,100.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,L9,L9,23.5,25,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1,T1,30.724137931034484,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1/T2,T1,28.444444444444443,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1/T2,T2,28.444444444444443,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1/T2/T3/T6,T1,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1/T2/T3/T6,T2,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1/T2/T3/T6,T3,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1/T2/T3/T6,T6,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1/T2/T6,T1,27.833333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1/T2/T6,T2,27.833333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1/T2/T6,T6,27.833333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1/T6,T1,23.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T1/T6,T6,23.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T2,T2,28.048076923076923,30,0.9615384615384616,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T2/T3,T2,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T2/T3,T3,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T2/T5,T2,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T2/T5,T5,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T2/T5/T6,T2,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T2/T5/T6,T5,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T2/T5/T6,T6,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T2/T6,T2,29.870967741935484,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T2/T6,T6,29.870967741935484,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T3,T3,28.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T5,T5,27.8,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T5/T6,T5,61.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T5/T6,T6,61.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_central,CE,T6,T6,28.456521739130434,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,A1,A1_L,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,A2,A2_L,35.2,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,A2,A2_T,34.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L1,L1,24.388070692194404,25,0.1472754050073638,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L1/L2,L1,29.321428571428573,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L1/L2,L2,29.321428571428573,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L1/L2/L8,L1,13.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L1/L2/L8,L2,13.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L1/L2/L8,L8,13.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L1/L3,L1,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L1/L3,L3,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L2,L2,29.115671641791046,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L2/L3,L2,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L2/L3,L3,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L2/L3/L9,L2,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L2/L3/L9,L3,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L2/L3/L9,L9,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L2/L9,L2,34.583333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L2/L9,L9,34.583333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L3,L3,28.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L4,L4,29.21276595744681,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L5,L5,106.2,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L8,L8,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,L9,L9,27.342105263157894,25,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1,T1,34.19230769230769,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T2,T1,36.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T2,T2,36.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T2/T3,T1,49.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T2/T3,T2,49.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T2/T3,T3,49.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T2/T6,T1,36.875,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T2/T6,T2,36.875,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T2/T6,T6,36.875,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T3,T1,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T3,T3,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T5,T1,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T5,T5,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T6,T1,39.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T1/T6,T6,39.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T2,T2,32.65384615384615,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T2/T3,T2,42.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T2/T3,T3,42.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T2/T3/T6,T2,18.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T2/T3/T6,T3,18.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T2/T3/T6,T6,18.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T2/T6,T2,34.82608695652174,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T2/T6,T6,34.82608695652174,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T3/T6,T3,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T3/T6,T6,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T5,T5,31.8,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_eastern,EA,T6,T6,32.6,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,A1,A1_L,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,A1,A1_T,41.333333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,A2,A2_L,41.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,A2/L1,A2_L,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,A2/L1,L1,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,A2/T2,A2_T,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,A2/T2,T2,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L1,L1,30.482698961937718,25,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L1/L2,L1,37.717948717948715,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L1/L2,L2,37.717948717948715,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L1/L2/L3,L1,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L1/L2/L3,L2,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L1/L2/L3,L3,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L1/L2/L8,L1,32.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L1/L2/L8,L2,32.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L1/L2/L8,L8,32.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L1/L3,L1,46.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L1/L3,L3,46.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L2,L2,34.08391608391609,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L2/L3/L9,L2,37.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L2/L3/L9,L3,37.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L2/L3/L9,L9,37.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L2/L9,L2,38.142857142857146,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L2/L9,L9,38.142857142857146,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L3,L3,27.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L3/L9,L3,28.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L3/L9,L9,28.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L4,L4,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L5,L5,126.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,L9,L9,29.833333333333332,25,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T1,T1,56.285714285714285,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T1/T2,T1,35.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T1/T2,T2,35.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T1/T5/T6,T1,36.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T1/T5/T6,T5,36.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T1/T5/T6,T6,36.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T1/T6,T1,41.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T1/T6,T6,41.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T2,T2,32.559322033898304,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T2/T3,T2,28.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T2/T3,T3,28.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T2/T3/T6,T2,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T2/T3/T6,T3,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T2/T3/T6,T6,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T2/T6,T2,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T2/T6,T6,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T3,T3,23.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T3/T6,T3,27.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T3/T6,T6,27.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T5,T5,33.333333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_northern,NO,T6,T6,35.30769230769231,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,A1,A1_L,32.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,A1,A1_T,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,A1/T2,A1_T,8.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,A1/T2,T2,8.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,A2,A2_L,30.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,A2,A2_T,25.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,A2/L2,A2_L,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,A2/L2,L2,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1,L1,23.76981957353745,25,0.7107709130672498,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L2,L1,27.046875,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L2,L2,27.046875,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L2/L3,L1,20.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L2/L3,L2,20.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L2/L3,L3,20.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L2/L8,L1,33.8,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L2/L8,L2,33.8,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L2/L8,L8,33.8,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L3,L1,24.2,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L3,L3,24.2,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L8,L1,29.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L1/L8,L8,29.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L2,L2,27.604534005037785,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L2/L8,L2,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L2/L8,L8,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L2/L9,L2,26.470588235294116,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L2/L9,L9,26.470588235294116,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L3,L3,34.05555555555556,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L3/L9,L3,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L3/L9,L9,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L4,L4,36.457142857142856,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L5,L5,111.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L8,L8,34.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,L9,L9,25.61904761904762,25,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1,T1,31.708333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2,T1,46.8,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2,T2,46.8,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2/T3/T6,T1,42.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2/T3/T6,T2,42.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2/T3/T6,T3,42.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2/T3/T6,T6,42.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2/T5/T6,T1,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2/T5/T6,T2,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2/T5/T6,T5,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2/T5/T6,T6,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2/T6,T1,41.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2/T6,T2,41.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T2/T6,T6,41.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T6,T1,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T1/T6,T6,38.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T2,T2,39.798449612403104,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T2/T3,T2,28.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T2/T3,T3,28.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T2/T3/T6,T2,39.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T2/T3/T6,T3,39.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T2/T3/T6,T6,39.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T2/T5/T6,T2,43.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T2/T5/T6,T5,43.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T2/T5/T6,T6,43.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T2/T6,T2,45.75675675675676,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T2/T6,T6,45.75675675675676,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T3,T3,32.333333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T5,T5,28.818181818181817,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southern,SO,T6,T6,38.8,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,A1,A1_L,32.6,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,A1,A1_T,49.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,A1/T1,A1_T,43.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,A1/T1,T1,43.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,A2,A2_L,30.857142857142858,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,A2,A2_T,39.6,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,A2/L2,A2_L,42.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,A2/L2,L2,42.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,A2/L3,A2_L,23.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,A2/L3,L3,23.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L1,L1,30.3630377524144,25,0.0877963125548727,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L1/L2,L1,28.580357142857142,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L1/L2,L2,28.580357142857142,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L1/L2/L8,L1,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L1/L2/L8,L2,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L1/L2/L8,L8,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L1/L3,L1,26.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L1/L3,L3,26.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L1/L8,L1,44.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L1/L8,L8,44.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L2,L2,26.528301886792452,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L2/L3,L2,17.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L2/L3,L3,17.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L2/L3/L9,L2,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L2/L3/L9,L3,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L2/L3/L9,L9,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L2/L9,L2,30.130434782608695,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L2/L9,L9,30.130434782608695,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L3,L3,25.88888888888889,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L3/L9,L3,18.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L3/L9,L9,18.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L4,L4,27.96385542168675,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L5,L5,165.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L8,L8,43.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,L9,L9,31.049261083743843,25,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1,T1,34.70967741935484,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T2,T1,41.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T2,T2,41.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T2/T5,T1,50.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T2/T5,T2,50.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T2/T5,T5,50.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T2/T6,T1,66.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T2/T6,T2,66.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T2/T6,T6,66.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T3/T6/T7,T1,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T3/T6/T7,T3,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T3/T6/T7,T6,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T3/T6/T7,T7,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T6,T1,47.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T1/T6,T6,47.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T2,T2,35.056603773584904,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T2/T3,T2,39.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T2/T3,T3,39.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T2/T6,T2,34.292682926829265,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T2/T6,T6,34.292682926829265,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T3,T3,37.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T4,T4,27.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T5,T5,28.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_southwestern,SW,T6,T6,36.13846153846154,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,A1,A1_L,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,A1,A1_T,49.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,A1/T1,A1_T,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,A1/T1,T1,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,A1/T2,A1_T,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,A1/T2,T2,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,A1/T2/T3,A1_T,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,A1/T2/T3,T2,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,A1/T2/T3,T3,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,A2,A2_L,30.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,A2,A2_T,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1,L1,28.536162582187686,25,0.1195457262402869,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L2,L1,28.088607594936708,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L2,L2,28.088607594936708,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L2/L3,L1,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L2/L3,L2,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L2/L3,L3,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L2/L9,L1,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L2/L9,L2,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L2/L9,L9,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L3,L1,26.444444444444443,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L3,L3,26.444444444444443,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L8,L1,21.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L1/L8,L8,21.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L2,L2,26.73394495412844,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L2/L3,L2,29.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L2/L3,L3,29.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L2/L3/L8,L2,14.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L2/L3/L8,L3,14.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L2/L3/L8,L8,14.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L2/L9,L2,27.75,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L2/L9,L9,27.75,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L3,L3,28.846153846153847,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L3/L9,L3,29.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L3/L9,L9,29.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L4,L4,28.37037037037037,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L5,L5,151.84615384615384,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L8/L9,L8,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L8/L9,L9,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,L9,L9,28.866666666666667,25,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T1,T1,37.904761904761905,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T1/T2,T1,32.111111111111114,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T1/T2,T2,32.111111111111114,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T1/T2/T6,T1,35.285714285714285,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T1/T2/T6,T2,35.285714285714285,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T1/T2/T6,T6,35.285714285714285,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T1/T6,T1,47.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T1/T6,T6,47.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T2,T2,34.271186440677965,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T2/T3,T2,31.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T2/T3,T3,31.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T2/T5/T6,T2,39.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T2/T5/T6,T5,39.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T2/T5/T6,T6,39.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T2/T6,T2,38.16981132075472,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T2/T6,T6,38.16981132075472,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T2/T7,T2,12.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T2/T7,T7,12.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T3,T3,20.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T5,T5,34.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T5/T6,T5,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T5/T6,T6,37.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoEast,TE,T6,T6,37.44897959183673,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A1,A1_L,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A1,A1_T,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A1/A2,A1_L,28.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A1/A2,A2_L,28.333333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A1/A2/L2,A1_L,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A1/A2/L2,A2_L,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A1/A2/L2,L2,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A2,A2_L,21.904761904761905,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A2,A2_T,25.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A2/L1,A2_L,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A2/L1,L1,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A2/L2,A2_L,27.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A2/L2,L2,27.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A2/T1/T2,A2_T,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A2/T1/T2,T1,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A2/T1/T2,T2,32.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,A4,A4_L,116.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L1,L1,24.47360248447205,25,0.05175983436853,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L1/L2,L1,25.21917808219178,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L1/L2,L2,25.21917808219178,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L1/L2/L3,L1,13.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L1/L2/L3,L2,13.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L1/L2/L3,L3,13.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L1/L3,L1,19.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L1/L3,L3,19.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L2,L2,23.25925925925926,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L2/L3,L2,23.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L2/L3,L3,23.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L2/L8,L2,12.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L2/L8,L8,12.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L2/L9,L2,27.95,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L2/L9,L9,27.95,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L3,L3,23.033333333333335,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L3/L9,L3,23.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L3/L9,L9,23.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L4,L4,28.017094017094017,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L5,L5,119.91666666666667,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L8,L8,18.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,L9,L9,23.333333333333332,25,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1,T1,31.541666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1/T2,T1,31.625,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1/T2,T2,31.625,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1/T2/T3/T6,T1,25.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1/T2/T3/T6,T2,25.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1/T2/T3/T6,T3,25.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1/T2/T3/T6,T6,25.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1/T2/T6,T1,30.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1/T2/T6,T2,30.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1/T2/T6,T6,30.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1/T6,T1,36.333333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T1/T6,T6,36.333333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T2,T2,26.275,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T2/T3,T2,13.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T2/T3,T3,13.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T2/T5,T2,36.333333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T2/T5,T5,36.333333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T2/T6,T2,29.741935483870968,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T2/T6,T6,29.741935483870968,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T3,T3,22.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T5,T5,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoNorth,TN,T6,T6,33.63265306122449,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A1,A1_L,32.166666666666664,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A1/A2,A1_T,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A1/A2,A2_T,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A1/T2/T6,A1_T,20.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A1/T2/T6,T2,20.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A1/T2/T6,T6,20.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A2,A2_L,34.6,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A2,A2_T,31.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A2/L1/L2/L8,A2_L,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A2/L1/L2/L8,L1,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A2/L1/L2/L8,L2,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A2/L1/L2/L8,L8,30.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A2/L2,A2_L,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A2/L2,L2,26.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A2/L3,A2_L,34.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,A2/L3,L3,34.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L1,L1,25.74221961244862,25,0.0587199060481503,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L1/L2,L1,32.310679611650485,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L1/L2,L2,32.310679611650485,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L1/L2/L3,L1,28.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L1/L2/L3,L2,28.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L1/L2/L3,L3,28.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L1/L3,L1,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L1/L3,L3,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L2,L2,32.47244094488189,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L2/L3,L2,29.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L2/L3,L3,29.666666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L2/L8,L2,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L2/L8,L8,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L2/L8/L9,L2,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L2/L8/L9,L8,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L2/L8/L9,L9,40.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L2/L9,L2,31.428571428571427,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L2/L9,L9,31.428571428571427,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L3,L3,33.81481481481482,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L3/L9,L3,31.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L3/L9,L9,31.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L4,L4,33.09615384615385,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L5,L5,136.6,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L8,L8,31.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,L9,L9,23.98076923076923,25,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1,T1,32.714285714285715,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2,T1,23.583333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2,T2,23.583333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2/T3/T6,T1,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2/T3/T6,T2,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2/T3/T6,T3,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2/T3/T6,T6,22.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2/T5,T1,24.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2/T5,T2,24.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2/T5,T5,24.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2/T6,T1,21.166666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2/T6,T2,21.166666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T2/T6,T6,21.166666666666668,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T3/T6,T1,19.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T3/T6,T3,19.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T3/T6,T6,19.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T5,T1,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T5,T5,33.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T6,T1,19.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T1/T6,T6,19.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T2,T2,19.833333333333332,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T2/T3/T6,T2,18.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T2/T3/T6,T3,18.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T2/T3/T6,T6,18.5,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T2/T5,T2,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T2/T5,T5,24.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T2/T6,T2,19.11111111111111,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T2/T6,T6,19.11111111111111,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T3,T3,29.0,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T5,T5,30.928571428571427,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T6,T6,20.369230769230768,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx
+2016_2017_Q2,region_torontoSouth,TS,T7,T7,36.333333333333336,30,0.0,22 4 2016-07-01_2016-9-30 LTBAvgDayFirstHearing July2016-Sept2016_Q2.xlsx

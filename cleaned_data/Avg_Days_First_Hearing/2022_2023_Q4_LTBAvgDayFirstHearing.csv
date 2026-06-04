@@ -1,0 +1,36 @@
+﻿report_id,region_id,office_code,app_combo,app_type,avg_days,performance_standard,percent_in_standard,source_file
+2022_2023_Q4,province_average,Prov / Avg.,A1,A1_L,36.333333333333336,30,0.3333333333333333,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,A1,A1_T,47.0,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,A1/L2,A1_L,29.0,30,1.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,A1/L2,L2,29.0,30,1.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,A2,A2_L,44.0,30,0.2,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L1,L1,95.0,25,0.001,22 40 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (L1 & L9) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L1/L2,L1,70.98214285714286,30,0.05357142857142857,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L1/L2,L2,70.98214285714286,30,0.05357142857142857,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L1/L2/L3,L1,47.0,30,0.3333333333333333,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L1/L2/L3,L2,47.0,30,0.3333333333333333,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L1/L2/L3,L3,47.0,30,0.3333333333333333,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L1/L3,L1,62.8,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L1/L3,L3,62.8,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L1/L9,L1,123.0,25,0.0,22 40 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (L1 & L9) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L1/L9,L9,123.0,25,0.0,22 40 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (L1 & L9) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L2,L2,84.26004728132388,30,0.02127659574468085,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L2/L10,L10,56.0,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L2/L10,L2,56.0,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L2/L3,L2,53.333333333333336,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L2/L3,L3,53.333333333333336,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L2/L3/L9,L2,67.0,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L2/L3/L9,L3,67.0,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L2/L3/L9,L9,67.0,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L3,L3,42.6,30,0.21,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L3/L9,L3,38.666666666666664,30,0.3333333333333333,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L3/L9,L9,38.666666666666664,30,0.3333333333333333,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L4,L4,60.414330218068535,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,L9,L9,74.0,25,0.0,22 40 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (L1 & L9) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,T1/T2,T1,37.5,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,T1/T2,T2,37.5,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,T2,T2,57.54471544715447,30,0.366,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,T2/T6,T2,64.66666666666667,30,0.041666666666666664,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,T2/T6,T6,64.66666666666667,30,0.041666666666666664,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,T5,T5,81.25,30,0.0,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx
+2022_2023_Q4,province_average,Prov / Avg.,T6,T6,77.07894736842105,30,0.07894736842105263,22 41 2023-01-01_2023-03-31 LTBAvgDayFirstHearing Q4 2022-2023 (Other applications) TOP.xlsx

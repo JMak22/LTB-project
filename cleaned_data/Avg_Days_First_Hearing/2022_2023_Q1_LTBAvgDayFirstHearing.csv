@@ -1,0 +1,124 @@
+﻿report_id,region_id,office_code,app_combo,app_type,avg_days,performance_standard,percent_in_standard,source_file
+2022_2023_Q1,province_average,Prov / Avg.,A1,A1_L,114.66666666666667,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,A1,A1_T,82.71428571428571,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,A1/T1,A1_T,75.5,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,A1/T1,T1,75.5,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,A1/T2,A1_T,52.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,A1/T2,T2,52.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,A2,A2_L,138.2,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,A2,A2_T,80.6,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,A2/T1,A2_T,75.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,A2/T1,T1,75.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,L1,L1,154.3256370978013,25,0.0006524859715516117,22 34 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (L1 & L9) - TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,L1/L2/L8,L1,180.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,L1/L2/L8,L2,180.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,L1/L2/L8,L8,180.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,L3,L3,55.46222222222222,30,2.2222222222222223,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,L4,L4,60.97695852534562,30,0.6912442396313364,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,L9,L9,128.1,25,0.0,22 34 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (L1 & L9) - TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T1,T1,88.60504201680672,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T1/T2,T1,81.71428571428571,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T1/T2,T2,81.71428571428571,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T1/T2/T6,T1,92.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T1/T2/T6,T2,92.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T1/T2/T6,T6,92.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T1/T4,T1,92.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T1/T4,T4,92.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T1/T5,T1,81.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T1/T5,T5,81.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T2,T2,80.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T2/T5,T2,167.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T2/T5,T5,167.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T2/T5/T6,T2,194.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T2/T5/T6,T5,194.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T2/T5/T6,T6,194.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T3,T3,97.125,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T4,T4,101.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T5,T5,151.55,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,province_average,Prov / Avg.,T7,T7,98.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_central,CE,A1,A1_L,107.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_central,CE,L3,L3,63.26315789473684,30,2.631578947368421,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_central,CE,L4,L4,59.39622641509434,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_central,CE,T1,T1,79.38888888888889,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_central,CE,T1/T2,T1,115.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_central,CE,T1/T2,T2,115.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_central,CE,T2/T5/T6,T2,194.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_central,CE,T2/T5/T6,T5,194.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_central,CE,T2/T5/T6,T6,194.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_central,CE,T3,T3,64.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_central,CE,T5,T5,83.5,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_eastern,EA,L3,L3,52.411764705882355,30,11.76470588235294,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_eastern,EA,L4,L4,65.32692307692308,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_eastern,EA,T1,T1,79.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_eastern,EA,T1/T2/T6,T1,96.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_eastern,EA,T1/T2/T6,T2,96.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_eastern,EA,T1/T2/T6,T6,96.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_eastern,EA,T1/T4,T1,92.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_eastern,EA,T1/T4,T4,92.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_eastern,EA,T4,T4,92.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_northern,NO,A1,A1_T,74.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_northern,NO,A2,A2_L,175.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_northern,NO,A2,A2_T,55.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_northern,NO,L3,L3,40.5,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_northern,NO,L4,L4,53.0,30,9.090909090909092,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_northern,NO,T1,T1,83.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,A1,A1_T,89.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,A1/T2,A1_T,52.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,A1/T2,T2,52.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,A2,A2_T,75.5,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,L1/L2/L8,L1,180.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,L1/L2/L8,L2,180.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,L1/L2/L8,L8,180.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,L3,L3,56.58064516129032,30,3.225806451612903,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,L4,L4,57.5,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,T1,T1,87.7,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,T1/T2,T1,76.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,T1/T2,T2,76.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,T1/T2/T6,T1,88.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,T1/T2/T6,T2,88.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,T1/T2/T6,T6,88.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,T3,T3,126.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,T5,T5,86.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southern,SO,T7,T7,98.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southwestern,SW,A1,A1_T,73.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southwestern,SW,A2,A2_L,219.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southwestern,SW,A2,A2_T,76.6,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southwestern,SW,L3,L3,52.30952380952381,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southwestern,SW,L4,L4,61.130434782608695,30,1.4492753623188406,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southwestern,SW,T1,T1,80.07142857142857,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southwestern,SW,T1/T5,T1,81.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southwestern,SW,T1/T5,T5,81.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southwestern,SW,T3,T3,101.75,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_southwestern,SW,T5,T5,201.44444444444446,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoEast,TE,A1,A1_T,90.75,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoEast,TE,A2,A2_T,85.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoEast,TE,L3,L3,55.1,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoEast,TE,L4,L4,60.640625,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoEast,TE,T1,T1,106.33333333333333,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoEast,TE,T1/T2,T1,42.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoEast,TE,T1/T2,T2,42.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoEast,TE,T5,T5,95.5,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,A1,A1_L,130.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,A1,A1_T,43.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,A2,A2_L,53.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,A2/T1,A2_T,75.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,A2/T1,T1,75.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,L3,L3,53.916666666666664,30,4.166666666666666,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,L4,L4,62.63492063492063,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,T1,T1,86.2,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,T1/T2,T1,103.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,T1/T2,T2,103.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,T2,T2,80.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoNorth,TN,T5,T5,226.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,A1,A1_T,93.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,A1/T1,A1_T,75.5,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,A1/T1,T1,75.5,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,A2,A2_L,122.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,A2,A2_T,89.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,L3,L3,52.92307692307692,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,L4,L4,61.274193548387096,30,1.6129032258064515,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,T1,T1,99.0909090909091,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,T2/T5,T2,167.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,T2/T5,T5,167.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,T3,T3,77.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
+2022_2023_Q1,region_torontoSouth,TS,T4,T4,110.0,30,0.0,22 35 2022-04-01_2022-06-30 LTBAvgDayFirstHearing Q1 2022-2023 (Other applications) - CMORE&TOP.xlsx
