@@ -13,4 +13,5 @@ Feel free to pitch in!
 - L1_L9_avg_days_chart.csv --> in Jupyter for interactive tooltips, publish to dashboard (index2.html, in the works)
 - *_single_type.csv --> interactive for ppl who want to filter in/out between the different app types
 - AvgHearingToOrder dataset, once it's polished up and in csv format
+- Find a decent map of the LTB regions that doesn't suck
 - (tall order): find a way to share the L5 and General App data -- drop down menu, map???
