@@ -10,7 +10,7 @@ OCR-processed versions of original reports.
 Markdown text extracted from OCR PDFs.
 
 ## cleaned_data/
-Structured datasets derived from report extraction and cleaning.
+Structured datasets derived from report extraction and cleaning as well as from Tribunals Ontario Open Data.
 
 ## code/
 Python scripts and processing utilities.
