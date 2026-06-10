@@ -1,5 +1,5 @@
 app_code,first_year,last_year,applicant_type,description,notes
-A1,1998,2009,combined_L_T,Determine Whether the Act Applies,
+A1,1998,2009,combined_L_T,Determine Whether the Act Applies,All of the application types official names start with “Application to..”
 A1L,2009,,landlord,Determine Whether the Act Applies,
 A1T,2009,,tenant,Determine Whether the Act Applies,
 A2,1998,2009,combined_L_T,Sublet or an Assignment,
