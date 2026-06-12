@@ -1,29 +1,47 @@
 report_id,metric_id,value,unit,notes
 1998_1999,staff,282,people,“Staff and members” pg. 8
-1998_1999,canonical_names_found,41,people,"Counted via scripts, check Methodology_notes"
-1998_1999,part_time_names_found,1,people,"Counted via scripts, check Methodology_notes"
-1999_2000,canonical_names_found,50,people,"Counted via scripts, check Methodology_notes"
-1999_2000,part_time_names_found,6,people,"Counted via scripts, check Methodology_notes"
-2000_2001,canonical_names_found,52,people,"Counted via scripts, check Methodology_notes"
-2000_2001,part_time_names_found,10,people,"Counted via scripts, check Methodology_notes"
-2001_2002,canonical_names_found,46,people,"Counted via scripts, check Methodology_notes"
-2001_2002,part_time_names_found,9,people,"Counted via scripts, check Methodology_notes"
-2002_2003,canonical_names_found,52,people,"Counted via scripts, check Methodology_notes"
-2002_2003,part_time_names_found,0,people,"Counted via scripts, check Methodology_notes"
-2003_2004,canonical_names_found,54,people,"Counted via scripts, check Methodology_notes"
-2003_2004,part_time_names_found,0,people,"Counted via scripts, check Methodology_notes"
-2004_2005,canonical_names_found,66,people,"Counted via scripts, check Methodology_notes"
-2004_2005,part_time_names_found,7,people,"Counted via scripts, check Methodology_notes"
-2005_2006,canonical_names_found,57,people,"Counted via scripts, check Methodology_notes"
-2005_2006,part_time_names_found,11,people,"Counted via scripts, check Methodology_notes"
-2006_2007,canonical_names_found,70,people,"Counted via scripts, check Methodology_notes"
-2006_2007,part_time_names_found,18,people,"Counted via scripts, check Methodology_notes"
-2007_2008,canonical_names_found,69,people,"Counted via scripts, check Methodology_notes"
-2007_2008,part_time_names_found,16,people,"Counted via scripts, check Methodology_notes"
-2008_2009,canonical_names_found,63,people,"Counted via scripts, check Methodology_notes"
-2008_2009,part_time_names_found,15,people,"Counted via scripts, check Methodology_notes"
-2009_2010,canonical_names_found,56,people,"Counted via scripts, check Methodology_notes"
-2009_2010,part_time_names_found,9,people,"Counted via scripts, check Methodology_notes"
+1998_1999,canonical_names_found,41,people,Counted via scripts; check Methodology_notes
+1998_1999,part_time_names_found,1,people,Counted via scripts; check Methodology_notes
+1999_2000,canonical_names_found,50,people,Counted via scripts; check Methodology_notes
+1999_2000,part_time_names_found,6,people,Counted via scripts; check Methodology_notes
+2000_2001,canonical_names_found,52,people,Counted via scripts; check Methodology_notes
+2000_2001,part_time_names_found,10,people,Counted via scripts; check Methodology_notes
+2001_2002,canonical_names_found,46,people,Counted via scripts; check Methodology_notes
+2001_2002,part_time_names_found,9,people,Counted via scripts; check Methodology_notes
+2002_2003,canonical_names_found,52,people,Counted via scripts; check Methodology_notes
+2002_2003,part_time_names_found,0,people,Counted via scripts; check Methodology_notes
+2003_2004,canonical_names_found,54,people,Counted via scripts; check Methodology_notes
+2003_2004,part_time_names_found,0,people,Counted via scripts; check Methodology_notes
+2004_2005,canonical_names_found,66,people,Counted via scripts; check Methodology_notes
+2004_2005,part_time_names_found,7,people,Counted via scripts; check Methodology_notes
+2005_2006,canonical_names_found,57,people,Counted via scripts; check Methodology_notes
+2005_2006,part_time_names_found,11,people,Counted via scripts; check Methodology_notes
+2006_2007,canonical_names_found,70,people,Counted via scripts; check Methodology_notes
+2006_2007,part_time_names_found,18,people,Counted via scripts; check Methodology_notes
+2007_2008,canonical_names_found,69,people,Counted via scripts; check Methodology_notes
+2007_2008,part_time_names_found,16,people,Counted via scripts; check Methodology_notes
+2008_2009,canonical_names_found,63,people,Counted via scripts; check Methodology_notes
+2008_2009,part_time_names_found,15,people,Counted via scripts; check Methodology_notes
+2009_2010,canonical_names_found,56,people,Counted via scripts; check Methodology_notes
+2009_2010,part_time_names_found,9,people,Counted via scripts; check Methodology_notes
+2010_2011,adjudicators_FT,45,people,SJTO – FT and PT members reported at end of Annual Report
+2010_2011,adjudicators_PT,10,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2011_2012,adjudicators_FT,46,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2011_2012,adjudicators_PT,2,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2012_2013,adjudicators_FT,43,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2012_2013,adjudicators_PT,11,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2013_2014,adjudicators_FT,39,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2013_2014,adjudicators_PT,10,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2014_2015,adjudicators_FT,43,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2014_2015,adjudicators_PT,12,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2015_2016,adjudicators_FT,38,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2015_2016,adjudicators_PT,14,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2016_2017,adjudicators_FT,45,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2016_2017,adjudicators_PT,8,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2017_2018,adjudicators_FT,51,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2017_2018,adjudicators_PT,11,people,SJTO – total adjudicators reported in Annual Report; names only; part time status indicated by participation in more than one Tribunal
+2018_2019,,,,Tribunals Ontario – first year
+2019_2020,,,,
 2020_2021,adjudicators_FT,37,people,reported
 2020_2021,adjudicators_PT,39,people,reported
 2021_2022,adjudicators_FT,39,people,reported
