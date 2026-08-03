@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Private working and research materials
+working_data/
+notes/
+methodology/Methodology_notes

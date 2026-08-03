@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this dataset and project using the information below."
+type: dataset
+title: "LTB Project: Ontario Landlord and Tenant Board Longitudinal Data"
+authors:
+  - family-names: "Maksimovic"
+    given-names: "Jasna"
+repository-code: "https://github.com/JMak22/LTB-project"
+url: "https://jmak22.github.io/LTB-project/"
