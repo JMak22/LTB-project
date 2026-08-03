@@ -1,21 +1,66 @@
-MIT License
+LTB PROJECT — LICENSING NOTICE
 
-Copyright (c) 2026 JasnaM
+Copyright © 2026 Jasna Maksimovic (JMak22)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository contains several different categories of material. They are not
+all offered under the same licence.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. SOFTWARE CODE
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Original software contained in the code/ directory is licensed under the MIT
+License found in LICENSE-MIT, unless an individual file states otherwise.
+
+2. CURATED AND TRANSFORMED DATA
+
+The original selection, arrangement, schema, normalization decisions,
+classifications, annotations, data dictionaries, and other original elements
+contained in cleaned_data/, docs/data/, and the project SQLite databases are
+copyright © 2026 Jasna Maksimovic. All rights reserved, to the extent these
+elements are protected by applicable law.
+
+No licence is granted to reproduce, redistribute, commercially republish, or
+create derivative databases from substantial portions of these original
+elements without prior written permission.
+
+This notice does not claim ownership over underlying facts, statistics, or
+third-party public-sector information.
+
+Any authorized reuse or derivative work must prominently identify the LTB
+Project and Jasna Maksimovic as the source, unless a separate written licence
+expressly states otherwise.
+
+3. DOCUMENTATION, METHODOLOGY, AND VISUALIZATIONS
+
+Original documentation, explanatory text, methodology, diagrams, charts, and
+visualizations contained in README.md, docs/, methodology/, vis/ and any other 
+directories are copyright © 2026 Jasna Maksimovic. All rights reserved unless 
+an individual file states otherwise.
+
+4. GOVERNMENT AND THIRD-PARTY SOURCE MATERIAL
+
+Files in raw_pdfs/, ocr_pdfs/, and md_reports/ contain or reproduce material
+originating from the Government of Ontario or other third parties.
+
+Those materials are not licensed by the repository owner. Their use remains
+subject to the terms imposed by their original sources.
+
+Where applicable:
+
+Contains information licensed under the Open Government Licence – Ontario.
+
+5. EARLIER REPOSITORY VERSIONS
+
+Repository versions published before August 3, 2026 were distributed under
+the MIT License. Anyone who obtained those versions may continue to exercise
+the permissions granted by that licence, subject to retaining the applicable
+copyright and permission notice.
+
+This licensing notice applies to repository versions published after
+August 3, 2026, including modified or republished versions of materials that
+appeared in earlier releases. It does not revoke permissions already granted
+for copies obtained under earlier terms.
+
+6. PERMISSION REQUESTS
+
+For permission to reuse protected project material beyond these terms, contact
+the repository owner through GitHub.
