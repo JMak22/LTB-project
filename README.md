@@ -4,6 +4,27 @@ This project aims to discover what can and cannot be known about LTB usage given
 
 To browse the database, go to [https://jmak22.github.io/LTB-project/](https://jmak22.github.io/LTB-project/)
 
+## Authorship and Citation
+
+This project was created and directed by **Jasna Maksimovic**. The work includes the collection, selection, normalization, validation, organization, and interpretation of longitudinal data from Ontario Landlord and Tenant Board and related tribunal reports.
+
+AI tools assisted with drafting code and data-processing workflows. The project owner determined the research questions, selected the source material, directed and tested the transformations, evaluated the outputs, resolved inconsistencies, and made the final publication decisions.
+
+When using or discussing this project, please cite:
+
+> Jasna Maksimovic. *LTB Project: Ontario Landlord and Tenant Board Longitudinal Data*. 2026. https://github.com/JMak22/LTB-project
+
+## Licensing and Source Attribution
+
+Different parts of this repository are subject to different terms. See [LICENSE](LICENSE) for the full licensing notice.
+
+Original software in `code/` is licensed under the MIT License. Original curated data structures, documentation, methodology, and visualizations are subject to the terms described in the repository licensing notice.
+
+Underlying government reports, statistics, and public-sector information are not owned by the project creator.
+
+Contains information licensed under the Open Government Licence – Ontario.
+
+
 ## Data Sources
 - tribunalsontario.ca and its predecessors (via archive.org) -- source of Annual Reports and Open Data
 - CanLII -- source of metadata on LTB cases (note that this is a portion of all cases submitted and heard at the LTB) -- nothing published yet, we may be limited in what we are allowed to share from this data set
@@ -30,7 +51,7 @@ This project uses publicly available information for research and civic analysis
 - Operational metrics -- contains number of applications filed, resolved and unresolved for each report year. Some data is not available but can be calculated.
 - Regional metrics -- contains number of applications filed, resolved and unresolved in each of the 8 regions for report years 1998-2014
 - Financial metrics -- contains the cost of filing for the years when it was reported in the Annual Reports; budget, expenditures, salaries, other expenses and revenue for report years 2006-07, 2007-08 and 2009-10. Operating budgets were not reported in other Annual Reports, the data may be available elsewhere.
-- Staffing metrics -- contains information about the number of adjudicators and, occasionally, other staff members. See [Methodology_notes](methodology/methodology_notes.md) for how staffing metrics were extracted and counted for the years where adjudicator biographies were included in the reports (1998-2010)
+- Staffing metrics -- contains information about the number of adjudicators and, occasionally, other staff members. A public methodology summary explaining how staffing metrics were extracted and counted will be added.
 - Reports -- list of report years -- this may need editing to include notes on relevant legislature changes over the years
 - Application type dictionary - applic_type_dict 
 - Application type metrics - applic_type_metrics 
