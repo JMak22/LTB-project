@@ -1,0 +1,547 @@
+report_id,application_family,description,party_type,filings,share_of_total
+1999_2000,A1,Determine Whether the Act Applies,mixed_other,87,0.0013409991214143686
+1999_2000,A2,Sublet or an Assignment,mixed_other,354,0.005456479183686052
+1999_2000,A3,Combined Application,mixed_other,3209,0.04946282966228401
+1999_2000,A4,Vary the Amount of a Rent Reduction,mixed_other,215,0.0033139633460240146
+1999_2000,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,47121,0.7263128689674306
+1999_2000,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+1999_2000,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,6347,0.09783128073122986
+1999_2000,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1461,0.022519536969958537
+1999_2000,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,1016,0.015660403532839064
+1999_2000,L5,Rent Increase Above the Guideline (AGI),landlord,399,0.0061500994189003805
+1999_2000,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,26,0.0004007583581238343
+1999_2000,L7,Transfer a Care Home Tenant,landlord,0,0.0
+1999_2000,L8,Tenant Changed the Locks,landlord,71,0.001094378593338163
+1999_2000,L9,Collect Rent the Tenant Owes,landlord,0,0.0
+1999_2000,T1,Application for a Rebate,tenant,601,0.009263683585862478
+1999_2000,T2,Tenant Rights,tenant,2627,0.04049200795351203
+1999_2000,T3,Rent Reduction,tenant,1258,0.019390539019991677
+1999_2000,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,0,0.0
+1999_2000,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,85,0.001310171555404843
+1999_2000,T6,Maintenance,tenant,0,0.0
+1999_2000,T7,Suite Meters,tenant,0,0.0
+2000_2001,A1,Determine Whether the Act Applies,mixed_other,61,0.000895294566589368
+2000_2001,A2,Sublet or an Assignment,mixed_other,369,0.005415798279860275
+2000_2001,A3,Combined Application,mixed_other,3646,0.05351219655384977
+2000_2001,A4,Vary the Amount of a Rent Reduction,mixed_other,148,0.0021721900959873193
+2000_2001,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,48646,0.7139754014148589
+2000_2001,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2000_2001,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,7052,0.10350192268177415
+2000_2001,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1447,0.02123756127630845
+2000_2001,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,1288,0.018903924619132886
+2000_2001,L5,Rent Increase Above the Guideline (AGI),landlord,608,0.008923591745677636
+2000_2001,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,30,0.0004403088032406728
+2000_2001,L7,Transfer a Care Home Tenant,landlord,0,0.0
+2000_2001,L8,Tenant Changed the Locks,landlord,87,0.0012768955293979512
+2000_2001,L9,Collect Rent the Tenant Owes,landlord,0,0.0
+2000_2001,T1,Application for a Rebate,tenant,616,0.009041007426541814
+2000_2001,T2,Tenant Rights,tenant,2788,0.04091936478116653
+2000_2001,T3,Rent Reduction,tenant,269,0.003948102269058033
+2000_2001,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,2,2.9353920216044852e-05
+2000_2001,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,101,0.001482372970910265
+2000_2001,T6,Maintenance,tenant,976,0.014324713065429888
+2000_2001,T7,Suite Meters,tenant,0,0.0
+2001_2002,A1,Determine Whether the Act Applies,mixed_other,78,0.0010847797062750334
+2001_2002,A2,Sublet or an Assignment,mixed_other,427,0.005938473520249221
+2001_2002,A3,Combined Application,mixed_other,3740,0.052013796172674674
+2001_2002,A4,Vary the Amount of a Rent Reduction,mixed_other,174,0.0024198931909212283
+2001_2002,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,49590,0.68966955941255
+2001_2002,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2001_2002,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,8006,0.11134290164663996
+2001_2002,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1447,0.020124054294615043
+2001_2002,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,1482,0.020610814419225635
+2001_2002,L5,Rent Increase Above the Guideline (AGI),landlord,1599,0.022237983978638184
+2001_2002,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,22,0.00030596350689808636
+2001_2002,L7,Transfer a Care Home Tenant,landlord,120,0.0016688918558077437
+2001_2002,L8,Tenant Changed the Locks,landlord,73,0.0010152425456163773
+2001_2002,L9,Collect Rent the Tenant Owes,landlord,0,0.0
+2001_2002,T1,Application for a Rebate,tenant,677,0.00941533155318202
+2001_2002,T2,Tenant Rights,tenant,3017,0.04195872274143302
+2001_2002,T3,Rent Reduction,tenant,152,0.002113929684023142
+2001_2002,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,0,0.0
+2001_2002,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,147,0.0020443925233644858
+2001_2002,T6,Maintenance,tenant,1153,0.01603526924788607
+2001_2002,T7,Suite Meters,tenant,0,0.0
+2002_2003,A1,Determine Whether the Act Applies,mixed_other,74,0.0010863501570803605
+2002_2003,A2,Sublet or an Assignment,mixed_other,465,0.006826389500572536
+2002_2003,A3,Combined Application,mixed_other,3558,0.05223288998502598
+2002_2003,A4,Vary the Amount of a Rent Reduction,mixed_other,279,0.004095833700343521
+2002_2003,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,48816,0.7166387738923633
+2002_2003,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2002_2003,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,6412,0.09413077307026044
+2002_2003,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1062,0.015590592794855985
+2002_2003,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,1775,0.02605772336240054
+2002_2003,L5,Rent Increase Above the Guideline (AGI),landlord,471,0.006914471945741214
+2002_2003,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,12,0.00017616489033735576
+2002_2003,L7,Transfer a Care Home Tenant,landlord,0,0.0
+2002_2003,L8,Tenant Changed the Locks,landlord,23,0.00033764937314659856
+2002_2003,L9,Collect Rent the Tenant Owes,landlord,0,0.0
+2002_2003,T1,Application for a Rebate,tenant,661,0.00970374937608268
+2002_2003,T2,Tenant Rights,tenant,3043,0.0446724801080478
+2002_2003,T3,Rent Reduction,tenant,110,0.0016148448280924278
+2002_2003,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,3,4.404122258433894e-05
+2002_2003,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,149,0.002187380721688834
+2002_2003,T6,Maintenance,tenant,1205,0.01768989107137614
+2002_2003,T7,Suite Meters,tenant,0,0.0
+2003_2004,A1,Determine Whether the Act Applies,mixed_other,79,0.001128506942460431
+2003_2004,A2,Sublet or an Assignment,mixed_other,244,0.00348551511342209
+2003_2004,A3,Combined Application,mixed_other,3801,0.05429689732015314
+2003_2004,A4,Vary the Amount of a Rent Reduction,mixed_other,213,0.0030426832752414147
+2003_2004,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,51207,0.7314867721844466
+2003_2004,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2003_2004,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,5495,0.07849551454202618
+2003_2004,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1054,0.015056282498142963
+2003_2004,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,2311,0.03301239929146906
+2003_2004,L5,Rent Increase Above the Guideline (AGI),landlord,292,0.004171190217701845
+2003_2004,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,13,0.0001857036740757671
+2003_2004,L7,Transfer a Care Home Tenant,landlord,2,2.8569796011656476e-05
+2003_2004,L8,Tenant Changed the Locks,landlord,15,0.00021427347008742356
+2003_2004,L9,Collect Rent the Tenant Owes,landlord,0,0.0
+2003_2004,T1,Application for a Rebate,tenant,589,0.008413804925432833
+2003_2004,T2,Tenant Rights,tenant,3168,0.04525455688246386
+2003_2004,T3,Rent Reduction,tenant,69,0.0009856579624021485
+2003_2004,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,2,2.8569796011656476e-05
+2003_2004,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,119,0.0016999028626935603
+2003_2004,T6,Maintenance,tenant,1331,0.019013199245757385
+2003_2004,T7,Suite Meters,tenant,0,0.0
+2004_2005,A1,Determine Whether the Act Applies,mixed_other,60,0.0008014211869047778
+2004_2005,A2,Sublet or an Assignment,mixed_other,237,0.003165613688273872
+2004_2005,A3,Combined Application,mixed_other,3801,0.050770032190417674
+2004_2005,A4,Vary the Amount of a Rent Reduction,mixed_other,144,0.0019234108485714667
+2004_2005,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,55877,0.7463501943446378
+2004_2005,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2004_2005,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,5671,0.07574765918228325
+2004_2005,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1059,0.014145083948869328
+2004_2005,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,2648,0.035369388382064194
+2004_2005,L5,Rent Increase Above the Guideline (AGI),landlord,274,0.0036598234201984854
+2004_2005,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,19,0.0002537833758531796
+2004_2005,L7,Transfer a Care Home Tenant,landlord,2,2.6714039563492594e-05
+2004_2005,L8,Tenant Changed the Locks,landlord,23,0.0003072114549801648
+2004_2005,L9,Collect Rent the Tenant Owes,landlord,0,0.0
+2004_2005,T1,Application for a Rebate,tenant,545,0.007279575781051732
+2004_2005,T2,Tenant Rights,tenant,3075,0.041072835828869864
+2004_2005,T3,Rent Reduction,tenant,71,0.0009483484045039871
+2004_2005,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,2,2.6714039563492594e-05
+2004_2005,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,114,0.0015227002551190779
+2004_2005,T6,Maintenance,tenant,1245,0.01662948962827414
+2004_2005,T7,Suite Meters,tenant,0,0.0
+2005_2006,A1,Determine Whether the Act Applies,mixed_other,67,0.0008271604938271604
+2005_2006,A2,Sublet or an Assignment,mixed_other,245,0.0030246913580246914
+2005_2006,A3,Combined Application,mixed_other,4094,0.05054320987654321
+2005_2006,A4,Vary the Amount of a Rent Reduction,mixed_other,9,0.00011111111111111112
+2005_2006,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,60446,0.7462469135802469
+2005_2006,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2005_2006,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,5969,0.07369135802469136
+2005_2006,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1077,0.013296296296296296
+2005_2006,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,3268,0.04034567901234568
+2005_2006,L5,Rent Increase Above the Guideline (AGI),landlord,209,0.002580246913580247
+2005_2006,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,3,3.7037037037037037e-05
+2005_2006,L7,Transfer a Care Home Tenant,landlord,0,0.0
+2005_2006,L8,Tenant Changed the Locks,landlord,38,0.0004691358024691358
+2005_2006,L9,Collect Rent the Tenant Owes,landlord,0,0.0
+2005_2006,T1,Application for a Rebate,tenant,620,0.007654320987654321
+2005_2006,T2,Tenant Rights,tenant,3391,0.0418641975308642
+2005_2006,T3,Rent Reduction,tenant,68,0.0008395061728395062
+2005_2006,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,0,0.0
+2005_2006,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,99,0.0012222222222222222
+2005_2006,T6,Maintenance,tenant,1397,0.017246913580246912
+2005_2006,T7,Suite Meters,tenant,0,0.0
+2006_2007,A1,Determine Whether the Act Applies,mixed_other,58,0.0008514011420518768
+2006_2007,A2,Sublet or an Assignment,mixed_other,216,0.003170735287641472
+2006_2007,A3,Combined Application,mixed_other,3268,0.04797205055561264
+2006_2007,A4,Vary the Amount of a Rent Reduction,mixed_other,125,0.001834916254422148
+2006_2007,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,50683,0.7439924841830219
+2006_2007,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2006_2007,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,5089,0.0747031105500345
+2006_2007,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,991,0.01454721606505879
+2006_2007,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,2683,0.039384642484916986
+2006_2007,L5,Rent Increase Above the Guideline (AGI),landlord,242,0.003552397868561279
+2006_2007,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,5,7.339665017688592e-05
+2006_2007,L7,Transfer a Care Home Tenant,landlord,0,0.0
+2006_2007,L8,Tenant Changed the Locks,landlord,16,0.00023486928056603497
+2006_2007,L9,Collect Rent the Tenant Owes,landlord,0,0.0
+2006_2007,T1,Application for a Rebate,tenant,498,0.007310306357617838
+2006_2007,T2,Tenant Rights,tenant,2887,0.042379225812133936
+2006_2007,T3,Rent Reduction,tenant,57,0.0008367218120164995
+2006_2007,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,0,0.0
+2006_2007,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,88,0.0012917810431131924
+2006_2007,T6,Maintenance,tenant,1217,0.017864744653054036
+2006_2007,T7,Suite Meters,tenant,0,0.0
+2007_2008,A1,Determine Whether the Act Applies,mixed_other,75,0.0009310755785082928
+2007_2008,A2,Sublet or an Assignment,mixed_other,285,0.0035380871983315128
+2007_2008,A3,Combined Application,mixed_other,4005,0.04971943589234284
+2007_2008,A4,Vary the Amount of a Rent Reduction,mixed_other,29,0.0003600158903565399
+2007_2008,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,55719,0.6917146687853809
+2007_2008,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2007_2008,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,6441,0.07996077068229218
+2007_2008,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1225,0.015207567782302115
+2007_2008,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,5374,0.06671466878538088
+2007_2008,L5,Rent Increase Above the Guideline (AGI),landlord,274,0.003401529446816963
+2007_2008,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,20,0.00024828682093554476
+2007_2008,L7,Transfer a Care Home Tenant,landlord,0,0.0
+2007_2008,L8,Tenant Changed the Locks,landlord,24,0.0002979441851226537
+2007_2008,L9,Collect Rent the Tenant Owes,landlord,1790,0.022221670473731255
+2007_2008,T1,Application for a Rebate,tenant,574,0.007125831760850134
+2007_2008,T2,Tenant Rights,tenant,3228,0.04007349289899692
+2007_2008,T3,Rent Reduction,tenant,54,0.0006703744165259708
+2007_2008,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,0,0.0
+2007_2008,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,133,0.0016511073592213724
+2007_2008,T6,Maintenance,tenant,1302,0.016163472042903963
+2007_2008,T7,Suite Meters,tenant,0,0.0
+2008_2009,A1,Determine Whether the Act Applies,mixed_other,89,0.0010368126747437093
+2008_2009,A2,Sublet or an Assignment,mixed_other,254,0.0029589934762348554
+2008_2009,A3,Combined Application,mixed_other,4255,0.04956896551724138
+2008_2009,A4,Vary the Amount of a Rent Reduction,mixed_other,5,5.824790307548928e-05
+2008_2009,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,59053,0.6879426840633737
+2008_2009,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2008_2009,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,6535,0.07613000931966449
+2008_2009,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1263,0.014713420316868593
+2008_2009,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,6510,0.07583876980428704
+2008_2009,L5,Rent Increase Above the Guideline (AGI),landlord,228,0.0026561043802423114
+2008_2009,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,10,0.00011649580615097856
+2008_2009,L7,Transfer a Care Home Tenant,landlord,1,1.1649580615097857e-05
+2008_2009,L8,Tenant Changed the Locks,landlord,20,0.00023299161230195712
+2008_2009,L9,Collect Rent the Tenant Owes,landlord,1692,0.019711090400745573
+2008_2009,T1,Application for a Rebate,tenant,654,0.0076188257222739985
+2008_2009,T2,Tenant Rights,tenant,3632,0.042311276794035416
+2008_2009,T3,Rent Reduction,tenant,47,0.0005475302889095992
+2008_2009,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,1,1.1649580615097857e-05
+2008_2009,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,129,0.0015027958993476234
+2008_2009,T6,Maintenance,tenant,1462,0.017031686859273067
+2008_2009,T7,Suite Meters,tenant,0,0.0
+2009_2010,A1,Determine Whether the Act Applies,mixed_other,82,0.0010503125320217236
+2009_2010,A2,Sublet or an Assignment,mixed_other,196,0.002510503125320217
+2009_2010,A3,Combined Application,mixed_other,3937,0.05042781022645763
+2009_2010,A4,Vary the Amount of a Rent Reduction,mixed_other,277,0.0035480069679270417
+2009_2010,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,54109,0.6930653755507736
+2009_2010,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2009_2010,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,5628,0.07208730402705195
+2009_2010,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,991,0.012693411210164976
+2009_2010,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,5301,0.06789886258837996
+2009_2010,L5,Rent Increase Above the Guideline (AGI),landlord,294,0.003765754687980326
+2009_2010,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,12,0.0001537042729787888
+2009_2010,L7,Transfer a Care Home Tenant,landlord,3,3.84260682446972e-05
+2009_2010,L8,Tenant Changed the Locks,landlord,22,0.0002817911671277795
+2009_2010,L9,Collect Rent the Tenant Owes,landlord,1754,0.022466441233732964
+2009_2010,T1,Application for a Rebate,tenant,574,0.007352187724152065
+2009_2010,T2,Tenant Rights,tenant,3517,0.04504816067220002
+2009_2010,T3,Rent Reduction,tenant,43,0.0005507736448406599
+2009_2010,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,2,2.5617378829798134e-05
+2009_2010,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,115,0.0014729992827133929
+2009_2010,T6,Maintenance,tenant,1215,0.015562557639102368
+2009_2010,T7,Suite Meters,tenant,0,0.0
+2010_2011,A1,Determine Whether the Act Applies,mixed_other,78,0.001007843086584058
+2010_2011,A2,Sublet or an Assignment,mixed_other,248,0.0032044241727287996
+2010_2011,A3,Combined Application,mixed_other,4290,0.05543136976212319
+2010_2011,A4,Vary the Amount of a Rent Reduction,mixed_other,182,0.002351633868696135
+2010_2011,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,53182,0.6871680901373509
+2010_2011,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2010_2011,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,6158,0.07956791957929012
+2010_2011,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1075,0.013890145103562337
+2010_2011,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,4805,0.062085718346620494
+2010_2011,L5,Rent Increase Above the Guideline (AGI),landlord,391,0.005052136498132906
+2010_2011,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,7,9.04474564883129e-05
+2010_2011,L7,Transfer a Care Home Tenant,landlord,1,1.2921065212616129e-05
+2010_2011,L8,Tenant Changed the Locks,landlord,26,0.0003359476955280193
+2010_2011,L9,Collect Rent the Tenant Owes,landlord,1499,0.019368676753711577
+2010_2011,T1,Application for a Rebate,tenant,520,0.006718953910560386
+2010_2011,T2,Tenant Rights,tenant,3587,0.046347860917654055
+2010_2011,T3,Rent Reduction,tenant,43,0.0005556058041424935
+2010_2011,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,1,1.2921065212616129e-05
+2010_2011,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,128,0.0016538963472148645
+2010_2011,T6,Maintenance,tenant,1171,0.015130567363973486
+2010_2011,T7,Suite Meters,tenant,1,1.2921065212616129e-05
+2011_2012,A1,Determine Whether the Act Applies,mixed_other,86,0.0010606284840412412
+2011_2012,A2,Sublet or an Assignment,mixed_other,291,0.0035888708006511765
+2011_2012,A3,Combined Application,mixed_other,5171,0.06377337082531695
+2011_2012,A4,Vary the Amount of a Rent Reduction,mixed_other,107,0.0013196191603768931
+2011_2012,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,54847,0.6764219821419762
+2011_2012,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2011_2012,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,6867,0.08468995116175818
+2011_2012,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1263,0.015576439248187066
+2011_2012,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,4905,0.0604928222583987
+2011_2012,L5,Rent Increase Above the Guideline (AGI),landlord,252,0.003107888116027823
+2011_2012,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,13,0.00016032756154111784
+2011_2012,L7,Transfer a Care Home Tenant,landlord,1,1.2332889349316758e-05
+2011_2012,L8,Tenant Changed the Locks,landlord,21,0.00025899067633565194
+2011_2012,L9,Collect Rent the Tenant Owes,landlord,1664,0.020521927877263084
+2011_2012,T1,Application for a Rebate,tenant,578,0.007128410043905086
+2011_2012,T2,Tenant Rights,tenant,3548,0.043757091411375855
+2011_2012,T3,Rent Reduction,tenant,65,0.0008016378077055893
+2011_2012,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,1,1.2332889349316758e-05
+2011_2012,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,139,0.0017142716195550293
+2011_2012,T6,Maintenance,tenant,1264,0.015588772137536382
+2011_2012,T7,Suite Meters,tenant,1,1.2332889349316758e-05
+2012_2013,A1,Determine Whether the Act Applies,mixed_other,92,0.001119330348452404
+2012_2013,A2,Sublet or an Assignment,mixed_other,282,0.003430990850691065
+2012_2013,A3,Combined Application,mixed_other,5278,0.06421549542534553
+2012_2013,A4,Vary the Amount of a Rent Reduction,mixed_other,210,0.0025549931866848353
+2012_2013,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,54777,0.6664517227954059
+2012_2013,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2012_2013,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,7102,0.08640743624683668
+2012_2013,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1225,0.014904126922328207
+2012_2013,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,5549,0.0675126532995912
+2012_2013,L5,Rent Increase Above the Guideline (AGI),landlord,296,0.003601323729803387
+2012_2013,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,11,0.00013383297644539615
+2012_2013,L7,Transfer a Care Home Tenant,landlord,0,0.0
+2012_2013,L8,Tenant Changed the Locks,landlord,45,0.0005474985400038934
+2012_2013,L9,Collect Rent the Tenant Owes,landlord,1620,0.01970994744014016
+2012_2013,T1,Application for a Rebate,tenant,618,0.007518979949386801
+2012_2013,T2,Tenant Rights,tenant,3676,0.04472454740120693
+2012_2013,T3,Rent Reduction,tenant,58,0.000705664784893907
+2012_2013,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,1,1.2166634222308741e-05
+2012_2013,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,152,0.0018493284017909286
+2012_2013,T6,Maintenance,tenant,1198,0.014575627798325871
+2012_2013,T7,Suite Meters,tenant,2,2.4333268444617483e-05
+2013_2014,A1,Determine Whether the Act Applies,mixed_other,92,0.001125409795958311
+2013_2014,A2,Sublet or an Assignment,mixed_other,287,0.0035107892547829914
+2013_2014,A3,Combined Application,mixed_other,5889,0.07203845965650536
+2013_2014,A4,Vary the Amount of a Rent Reduction,mixed_other,135,0.0016514165484170867
+2013_2014,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,52832,0.6462788080442335
+2013_2014,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2013_2014,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,7312,0.0894456133483388
+2013_2014,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1179,0.014422371189509224
+2013_2014,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,5955,0.07284581885795371
+2013_2014,L5,Rent Increase Above the Guideline (AGI),landlord,438,0.005357929245975437
+2013_2014,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,3,3.66981455203797e-05
+2013_2014,L7,Transfer a Care Home Tenant,landlord,4,4.8930860693839605e-05
+2013_2014,L8,Tenant Changed the Locks,landlord,21,0.0002568870186426579
+2013_2014,L9,Collect Rent the Tenant Owes,landlord,1800,0.02201888731222782
+2013_2014,T1,Application for a Rebate,tenant,663,0.008110290160003914
+2013_2014,T2,Tenant Rights,tenant,3600,0.04403777462445564
+2013_2014,T3,Rent Reduction,tenant,51,0.000623868473846455
+2013_2014,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,4,4.8930860693839605e-05
+2013_2014,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,156,0.0019083035670597445
+2013_2014,T6,Maintenance,tenant,1318,0.01612271859862015
+2013_2014,T7,Suite Meters,tenant,9,0.0001100944365611391
+2014_2015,A1,Determine Whether the Act Applies,mixed_other,114,0.0014333853040285672
+2014_2015,A2,Sublet or an Assignment,mixed_other,318,0.0039983905849217925
+2014_2015,A3,Combined Application,mixed_other,5907,0.07427199114821707
+2014_2015,A4,Vary the Amount of a Rent Reduction,mixed_other,135,0.0016974299652969874
+2014_2015,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,49991,0.6285646029271237
+2014_2015,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2014_2015,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,7983,0.10037469194789518
+2014_2015,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1208,0.015188854800583414
+2014_2015,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,5632,0.07081426344113062
+2014_2015,L5,Rent Increase Above the Guideline (AGI),landlord,548,0.006890308303575919
+2014_2015,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,8,0.00010058844238796962
+2014_2015,L7,Transfer a Care Home Tenant,landlord,0,0.0
+2014_2015,L8,Tenant Changed the Locks,landlord,31,0.0003897802142533823
+2014_2015,L9,Collect Rent the Tenant Owes,landlord,1735,0.021815118442890913
+2014_2015,T1,Application for a Rebate,tenant,716,0.00900266559372328
+2014_2015,T2,Tenant Rights,tenant,3441,0.043265603782125434
+2014_2015,T3,Rent Reduction,tenant,69,0.000867575315596238
+2014_2015,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,1,1.2573555298496203e-05
+2014_2015,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,170,0.0021375044007443545
+2014_2015,T6,Maintenance,tenant,1516,0.019061509832520245
+2014_2015,T7,Suite Meters,tenant,9,0.00011316199768646583
+2015_2016,A1,Determine Whether the Act Applies,mixed_other,131,0.0016427980236261945
+2015_2016,A2,Sublet or an Assignment,mixed_other,302,0.003787213764390158
+2015_2016,A3,Combined Application,mixed_other,5636,0.0706779363447117
+2015_2016,A4,Vary the Amount of a Rent Reduction,mixed_other,76,0.0009530736625617617
+2015_2016,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,48940,0.6137292769180608
+2015_2016,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2015_2016,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,8876,0.11130897143287101
+2015_2016,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1338,0.016779112638258382
+2015_2016,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,5559,0.06971232223922148
+2015_2016,L5,Rent Increase Above the Guideline (AGI),landlord,433,0.005430011788016353
+2015_2016,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,15,0.0001881066439266635
+2015_2016,L7,Transfer a Care Home Tenant,landlord,6,7.52426575706654e-05
+2015_2016,L8,Tenant Changed the Locks,landlord,28,0.0003511324019964385
+2015_2016,L9,Collect Rent the Tenant Owes,landlord,1892,0.02372651802061649
+2015_2016,T1,Application for a Rebate,tenant,663,0.008314313661558527
+2015_2016,T2,Tenant Rights,tenant,3922,0.04918361716535828
+2015_2016,T3,Rent Reduction,tenant,67,0.0008402096762057635
+2015_2016,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,0,0.0
+2015_2016,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,174,0.0021820370695492964
+2015_2016,T6,Maintenance,tenant,1661,0.02082967570414587
+2015_2016,T7,Suite Meters,tenant,23,0.0002884301873542174
+2016_2017,A1,Determine Whether the Act Applies,mixed_other,153,0.0018784530386740331
+2016_2017,A2,Sublet or an Assignment,mixed_other,319,0.0039165131982811545
+2016_2017,A3,Combined Application,mixed_other,5701,0.0699938612645795
+2016_2017,A4,Vary the Amount of a Rent Reduction,mixed_other,134,0.0016451810926949048
+2016_2017,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,49489,0.6075997544505832
+2016_2017,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2016_2017,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,9987,0.12261510128913444
+2016_2017,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1439,0.01766728054020872
+2016_2017,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,5478,0.067255985267035
+2016_2017,L5,Rent Increase Above the Guideline (AGI),landlord,575,0.007059545733578883
+2016_2017,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,3,3.6832412523020256e-05
+2016_2017,L7,Transfer a Care Home Tenant,landlord,1,1.2277470841006752e-05
+2016_2017,L8,Tenant Changed the Locks,landlord,37,0.00045426642111724984
+2016_2017,L9,Collect Rent the Tenant Owes,landlord,1628,0.019987722529158994
+2016_2017,T1,Application for a Rebate,tenant,732,0.008987108655616943
+2016_2017,T2,Tenant Rights,tenant,3807,0.04674033149171271
+2016_2017,T3,Rent Reduction,tenant,68,0.0008348680171884592
+2016_2017,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,6,7.366482504604051e-05
+2016_2017,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,211,0.002590546347452425
+2016_2017,T6,Maintenance,tenant,1675,0.02056476365868631
+2016_2017,T7,Suite Meters,tenant,7,8.594229588704727e-05
+2017_2018,A1,Determine Whether the Act Applies,mixed_other,187,0.0023302471058829393
+2017_2018,A2,Sublet or an Assignment,mixed_other,389,0.004847412428815312
+2017_2018,A3,Combined Application,mixed_other,5676,0.0707298533315057
+2017_2018,A4,Vary the Amount of a Rent Reduction,mixed_other,222,0.002766389612331618
+2017_2018,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,47595,0.5930915026978529
+2017_2018,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2017_2018,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,11404,0.1421076898154494
+2017_2018,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1622,0.020212089870278758
+2017_2018,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,5552,0.06918466273723037
+2017_2018,L5,Rent Increase Above the Guideline (AGI),landlord,559,0.006965818888708893
+2017_2018,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,5,6.230607234981121e-05
+2017_2018,L7,Transfer a Care Home Tenant,landlord,1,1.2461214469962243e-05
+2017_2018,L8,Tenant Changed the Locks,landlord,29,0.00036137521962890506
+2017_2018,L9,Collect Rent the Tenant Owes,landlord,1218,0.01517775922441401
+2017_2018,T1,Application for a Rebate,tenant,765,0.009532829069521116
+2017_2018,T2,Tenant Rights,tenant,2832,0.035290159378933074
+2017_2018,T3,Rent Reduction,tenant,71,0.0008847462273673193
+2017_2018,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,3,3.738364340988673e-05
+2017_2018,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,295,0.0036760582686388614
+2017_2018,T6,Maintenance,tenant,1818,0.022654487906391355
+2017_2018,T7,Suite Meters,tenant,6,7.476728681977346e-05
+2018_2019,A1,Determine Whether the Act Applies,mixed_other,242,0.0029575313168347084
+2018_2019,A2,Sublet or an Assignment,mixed_other,444,0.005426214482126489
+2018_2019,A3,Combined Application,mixed_other,5142,0.06284142988084326
+2018_2019,A4,Vary the Amount of a Rent Reduction,mixed_other,174,0.0021264894592117325
+2018_2019,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,46043,0.5627008860372746
+2018_2019,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2018_2019,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,13945,0.1704246868316529
+2018_2019,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1711,0.0209104796822487
+2018_2019,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,5571,0.06808432630614115
+2018_2019,L5,Rent Increase Above the Guideline (AGI),landlord,717,0.008762603116406966
+2018_2019,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,4,4.88848151542927e-05
+2018_2019,L7,Transfer a Care Home Tenant,landlord,5,6.110601894286588e-05
+2018_2019,L8,Tenant Changed the Locks,landlord,39,0.0004766269477543538
+2018_2019,L9,Collect Rent the Tenant Owes,landlord,1394,0.017036358081271005
+2018_2019,T1,Application for a Rebate,tenant,863,0.01054689886953865
+2018_2019,T2,Tenant Rights,tenant,3053,0.0373113351665139
+2018_2019,T3,Rent Reduction,tenant,148,0.0018087381607088298
+2018_2019,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,1,1.2221203788573175e-05
+2018_2019,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,355,0.004338527344943477
+2018_2019,T6,Maintenance,tenant,1970,0.024075771463489153
+2018_2019,T7,Suite Meters,tenant,4,4.88848151542927e-05
+2019_2020,A1,Determine Whether the Act Applies,mixed_other,187,0.0023122387912060736
+2019_2020,A2,Sublet or an Assignment,mixed_other,553,0.00683779706704256
+2019_2020,A3,Combined Application,mixed_other,4596,0.05682914162771719
+2019_2020,A4,Vary the Amount of a Rent Reduction,mixed_other,86,0.0010633825456883548
+2019_2020,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,44621,0.5517347973390706
+2019_2020,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2019_2020,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,15732,0.19452481638103716
+2019_2020,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1877,0.02320894230531444
+2019_2020,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,5156,0.06375349308801345
+2019_2020,L5,Rent Increase Above the Guideline (AGI),landlord,758,0.00937260429804387
+2019_2020,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,1,1.2364913321957613e-05
+2019_2020,L7,Transfer a Care Home Tenant,landlord,1,1.2364913321957613e-05
+2019_2020,L8,Tenant Changed the Locks,landlord,41,0.0005069614462002622
+2019_2020,L9,Collect Rent the Tenant Owes,landlord,900,0.011128421989761852
+2019_2020,T1,Application for a Rebate,tenant,884,0.01093058337661053
+2019_2020,T2,Tenant Rights,tenant,3072,0.037985013725053786
+2019_2020,T3,Rent Reduction,tenant,78,0.0009644632391126938
+2019_2020,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,4,4.945965328783045e-05
+2019_2020,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,408,0.005044884635358706
+2019_2020,T6,Maintenance,tenant,1914,0.023666444098226873
+2019_2020,T7,Suite Meters,tenant,5,6.182456660978807e-05
+2020_2021,A1,Determine Whether the Act Applies,mixed_other,160,0.003304283177068275
+2020_2021,A2,Sublet or an Assignment,mixed_other,457,0.00943785882450126
+2020_2021,A3,Combined Application,mixed_other,1648,0.03403411672380323
+2020_2021,A4,Vary the Amount of a Rent Reduction,mixed_other,110,0.002271694684234439
+2020_2021,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,24481,0.5055759778613027
+2020_2021,L10,Collect Money a Former Tenant Owes,landlord,0,0.0
+2020_2021,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,11031,0.22780967328900087
+2020_2021,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,1391,0.028726611870637315
+2020_2021,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,1551,0.032030895047705586
+2020_2021,L5,Rent Increase Above the Guideline (AGI),landlord,404,0.008343315022097394
+2020_2021,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,1,2.065176985667672e-05
+2020_2021,L7,Transfer a Care Home Tenant,landlord,6,0.0001239106191400603
+2020_2021,L8,Tenant Changed the Locks,landlord,25,0.0005162942464169179
+2020_2021,L9,Collect Rent the Tenant Owes,landlord,1104,0.022799553921771097
+2020_2021,T1,Application for a Rebate,tenant,718,0.014827970757093883
+2020_2021,T2,Tenant Rights,tenant,3145,0.06494981619924828
+2020_2021,T3,Rent Reduction,tenant,68,0.0014043203502540167
+2020_2021,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,4,8.260707942670687e-05
+2020_2021,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,316,0.006525959274709843
+2020_2021,T6,Maintenance,tenant,1795,0.03706992689273471
+2020_2021,T7,Suite Meters,tenant,7,0.00014456238899673702
+2021_2022,A1,Determine Whether the Act Applies,mixed_other,195,0.0031599928697596787
+2021_2022,A2,Sublet or an Assignment,mixed_other,435,0.007049214863310052
+2021_2022,A3,Combined Application,mixed_other,2181,0.03534330486638902
+2021_2022,A4,Vary the Amount of a Rent Reduction,mixed_other,56,0.0009074851318284204
+2021_2022,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,31240,0.5062470628271403
+2021_2022,L10,Collect Money a Former Tenant Owes,landlord,3,4.861527491937967e-05
+2021_2022,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,13937,0.22585036218379814
+2021_2022,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,2289,0.03709345476348669
+2021_2022,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,3545,0.05744704986306698
+2021_2022,L5,Rent Increase Above the Guideline (AGI),landlord,613,0.009933721175193245
+2021_2022,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,0,0.0
+2021_2022,L7,Transfer a Care Home Tenant,landlord,2,3.2410183279586443e-05
+2021_2022,L8,Tenant Changed the Locks,landlord,35,0.0005671782073927628
+2021_2022,L9,Collect Rent the Tenant Owes,landlord,931,0.015086940316647491
+2021_2022,T1,Application for a Rebate,tenant,843,0.013660892252345687
+2021_2022,T2,Tenant Rights,tenant,2991,0.04846942909462153
+2021_2022,T3,Rent Reduction,tenant,99,0.001604304072339529
+2021_2022,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,8,0.00012964073311834577
+2021_2022,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,550,0.008912800401886273
+2021_2022,T6,Maintenance,tenant,1752,0.028391320552917727
+2021_2022,T7,Suite Meters,tenant,4,6.482036655917289e-05
+2022_2023,A1,Determine Whether the Act Applies,mixed_other,252,0.003456553048487758
+2022_2023,A2,Sublet or an Assignment,mixed_other,604,0.008284754132089706
+2022_2023,A3,Combined Application,mixed_other,3819,0.0523832384610109
+2022_2023,A4,Vary the Amount of a Rent Reduction,mixed_other,7,9.601536245799327e-05
+2022_2023,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,37690,0.5169741444345382
+2022_2023,L10,Collect Money a Former Tenant Owes,landlord,992,0.013606748508332761
+2022_2023,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,15354,0.2106028393114327
+2022_2023,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,2656,0.03643097181263288
+2022_2023,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,3366,0.04616967286194362
+2022_2023,L5,Rent Increase Above the Guideline (AGI),landlord,605,0.008298470612440849
+2022_2023,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,0,0.0
+2022_2023,L7,Transfer a Care Home Tenant,landlord,2,2.7432960702283796e-05
+2022_2023,L8,Tenant Changed the Locks,landlord,46,0.0006309580961525273
+2022_2023,L9,Collect Rent the Tenant Owes,landlord,615,0.008435635415952266
+2022_2023,T1,Application for a Rebate,tenant,1105,0.015156710788011797
+2022_2023,T2,Tenant Rights,tenant,2874,0.03942116452918181
+2022_2023,T3,Rent Reduction,tenant,116,0.0015911117207324601
+2022_2023,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,25,0.0003429120087785474
+2022_2023,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,1067,0.014635484534668404
+2022_2023,T6,Maintenance,tenant,1697,0.0232768671558878
+2022_2023,T7,Suite Meters,tenant,13,0.00017831424456484467
+2023_2024,A1,Determine Whether the Act Applies,mixed_other,265,0.0032367598202071527
+2023_2024,A2,Sublet or an Assignment,mixed_other,747,0.009123998436583935
+2023_2024,A3,Combined Application,mixed_other,3638,0.04443521594684385
+2023_2024,A4,Vary the Amount of a Rent Reduction,mixed_other,15,0.00018321282001172563
+2023_2024,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,41386,0.5054963846003517
+2023_2024,L10,Collect Money a Former Tenant Owes,landlord,1261,0.015402091068985733
+2023_2024,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,16677,0.20369601328903655
+2023_2024,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,2936,0.0358608559702951
+2023_2024,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,5535,0.06760553058432675
+2023_2024,L5,Rent Increase Above the Guideline (AGI),landlord,912,0.011139339456712917
+2023_2024,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,0,0.0
+2023_2024,L7,Transfer a Care Home Tenant,landlord,3,3.6642564002345125e-05
+2023_2024,L8,Tenant Changed the Locks,landlord,52,0.0006351377760406489
+2023_2024,L9,Collect Rent the Tenant Owes,landlord,858,0.010479773304670705
+2023_2024,T1,Application for a Rebate,tenant,1359,0.016599081493062343
+2023_2024,T2,Tenant Rights,tenant,3184,0.03888997459448896
+2023_2024,T3,Rent Reduction,tenant,110,0.001343560680085988
+2023_2024,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,16,0.00019542700801250732
+2023_2024,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,1113,0.013594391244870042
+2023_2024,T6,Maintenance,tenant,1790,0.021863396521399257
+2023_2024,T7,Suite Meters,tenant,15,0.00018321282001172563
+2024_2025,A1,Determine Whether the Act Applies,mixed_other,256,0.002927855803101697
+2024_2025,A2,Sublet or an Assignment,mixed_other,840,0.009607026853927444
+2024_2025,A3,Combined Application,mixed_other,3727,0.0426254631959376
+2024_2025,A4,Vary the Amount of a Rent Reduction,mixed_other,14,0.00016011711423212407
+2024_2025,L1,Evict a Tenant for Non-Payment of Rent and to Collect Rent the Tenant Owes,landlord,45435,0.519637220366897
+2024_2025,L10,Collect Money a Former Tenant Owes,landlord,1757,0.020094697836131572
+2024_2025,L2,End a Tenancy and Evict a Tenant or Collect Money,landlord,15838,0.18113820394345578
+2024_2025,L3,End a Tenancy – Tenant Gave Notice or Agreed to Terminate,landlord,2648,0.03028500846333318
+2024_2025,L4,End a Tenancy and Evict a Tenant – Tenant Failed to Meet Conditions of a Settlement or Order,landlord,6613,0.0756324626012169
+2024_2025,L5,Rent Increase Above the Guideline (AGI),landlord,1028,0.011757170959330253
+2024_2025,L6,Review of a Work Order about Provincial Maintenance Standards,landlord,0,0.0
+2024_2025,L7,Transfer a Care Home Tenant,landlord,4,4.574774692346402e-05
+2024_2025,L8,Tenant Changed the Locks,landlord,43,0.0004917882794272382
+2024_2025,L9,Collect Rent the Tenant Owes,landlord,900,0.010293243057779405
+2024_2025,T1,Application for a Rebate,tenant,1618,0.018504963630541195
+2024_2025,T2,Tenant Rights,tenant,3480,0.039800539823413694
+2024_2025,T3,Rent Reduction,tenant,142,0.0016240450157829728
+2024_2025,T4,Landlord did not Comply with an Agreement to Increase Rent Above the Guideline,tenant,29,0.0003316711651951141
+2024_2025,T5,Landlord Gave a Notice of Termination in Bad Faith,tenant,941,0.01076215746374491
+2024_2025,T6,Maintenance,tenant,2110,0.02413193650212727
+2024_2025,T7,Suite Meters,tenant,13,0.00014868017750125807

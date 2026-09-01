@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Explore Tribunals Ontario data on average time to first hearing and average time from final hearing to order at the Ontario Landlord and Tenant Board.">
+    <meta name="color-scheme" content="light">
+    <title>LTB Wait Times · Ontario LTB Data Explorer</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./wait-times.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="wordmark" href="./index.html" aria-label="Ontario LTB Data Explorer home">
+          <span>LTB</span> Data Explorer
+        </a>
+        <nav aria-label="Primary navigation">
+          <a href="./index.html">Main explorer</a>
+          <a href="#first-hearing">First hearing</a>
+          <a href="#hearing-order">Hearing to order</a>
+          <a href="#methodology">Methodology</a>
+        </nav>
+        <span class="private-pill site-badge"><i aria-hidden="true"></i> Tribunals Ontario Open Data</span>
+      </div>
+    </header>
+
+    <p id="wait-status" class="status-banner" role="status" aria-live="polite">
+      Loading wait-time data…
+    </p>
+
+    <main id="top" class="page-shell wait-page">
+      <section class="hero wait-hero" aria-labelledby="wait-title">
+        <div>
+          <p class="eyebrow">Ontario · LTB service-time measures</p>
+          <h1 id="wait-title">LTB Wait Times</h1>
+        </div>
+        <p class="hero-copy">
+          Explore how long applications took at two different stages: from filing to the first hearing,
+          and from the final hearing to issuance of an order.
+        </p>
+      </section>
+
+      <aside class="coverage-note" aria-label="Interpretation note">
+        <strong>These measures are not interchangeable.</strong>
+        Each chart reports a distinct stage of the LTB process using the province-wide average. Values are shown for the application
+        groupings and reporting periods in the source data; unavailable periods remain gaps.
+      </aside>
+
+      <section id="first-hearing" class="section-block" aria-labelledby="first-hearing-title">
+        <div class="section-heading">
+          <div><p class="section-number">01</p><h2 id="first-hearing-title">First hearing</h2></div>
+          <p>Average days from filing to first hearing, reported by application type or combined application grouping.</p>
+        </div>
+
+        <article class="panel wait-panel" data-chart="first">
+          <div class="panel-heading">
+            <div><p class="panel-kicker">Filing → first hearing</p><h3>Average days to first hearing</h3></div>
+            <a class="data-link" href="./data/avg_days_first_hearing.csv" download>Download CSV</a>
+          </div>
+          <div class="wait-layout">
+            <div class="wait-selector">
+              <label for="first-search">Application grouping</label>
+              <input id="first-search" type="search" placeholder="Search code or description…" autocomplete="off">
+              <div class="selector-actions">
+                <button id="first-clear" class="text-button" type="button">Clear selection</button>
+              </div>
+              <fieldset class="wait-options">
+                <legend class="sr-only">First-hearing application groupings</legend>
+                <div id="first-options"></div>
+              </fieldset>
+              <p id="first-option-status" class="selector-status" aria-live="polite"></p>
+            </div>
+            <div class="wait-result">
+              <div id="first-chart"></div>
+              <p id="first-empty" class="empty-state" hidden>Select one or more application groupings to display the chart.</p>
+              <p class="chart-note">Up to five series may be compared at once. Hover over or focus a point to inspect its reporting period and exact value.</p>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <section id="hearing-order" class="section-block" aria-labelledby="hearing-order-title">
+        <div class="section-heading">
+          <div><p class="section-number">02</p><h2 id="hearing-order-title">Hearing to order</h2></div>
+          <p>Average days from the final hearing to issuance of an order, reported by application type or combined application grouping.</p>
+        </div>
+
+        <article class="panel wait-panel" data-chart="order">
+          <div class="panel-heading">
+            <div><p class="panel-kicker">Final hearing → order</p><h3>Average days from hearing to order</h3></div>
+            <a class="data-link" href="./data/avg_days_hearing_to_order.csv" download>Download CSV</a>
+          </div>
+          <div class="wait-layout">
+            <div class="wait-selector">
+              <label for="order-search">Application grouping</label>
+              <input id="order-search" type="search" placeholder="Search code or description…" autocomplete="off">
+              <div class="selector-actions">
+                <button id="order-clear" class="text-button" type="button">Clear selection</button>
+              </div>
+              <fieldset class="wait-options">
+                <legend class="sr-only">Hearing-to-order application groupings</legend>
+                <div id="order-options"></div>
+              </fieldset>
+              <p id="order-option-status" class="selector-status" aria-live="polite"></p>
+            </div>
+            <div class="wait-result">
+              <div id="order-chart"></div>
+              <p id="order-empty" class="empty-state" hidden>Select one or more application groupings to display the chart.</p>
+              <p class="chart-note">Up to five series may be compared at once. Missing observations are not converted to zero or joined across reporting gaps.</p>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <section id="methodology" class="section-block method-section" aria-labelledby="method-title">
+        <div class="section-heading">
+          <div><p class="section-number">03</p><h2 id="method-title">Reading the data</h2></div>
+          <p>What the charts include, and what they do not establish.</p>
+        </div>
+        <div class="method-grid">
+          <article class="panel">
+            <h3>Reporting periods and groupings</h3>
+            <p>Tribunals Ontario reports a mixture of fiscal-year and quarterly periods. Not every quarter is available. The charts use province-wide averages. A combined label such as L1/L2 refers to the grouping reported in the source data; it is not an average constructed by this dashboard.</p>
+          </article>
+          <article class="panel">
+            <h3>Interpretation</h3>
+            <p>The charts describe reported service times at different process stages. They do not, on their own, explain why a value rose or fell. No missing value is interpolated or replaced with zero.</p>
+          </article>
+          <article class="panel source-card">
+            <h3>Source and preparation</h3>
+            <p><strong>Source:</strong> Tribunals Ontario Open Data. Data downloaded and organized for presentation by the LTB Project.</p>
+            <p>The Hearing-to-Order publication file contains only the provincial “Final Hearing → Order” observations needed by this page. For 2019–20 Q1, the consolidated workbook is retained instead of overlapping split workbooks.</p>
+            <p>Contains information licensed under the Open Government Licence – Ontario.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p><a href="https://github.com/JMak22/LTB-project">LTB Project</a> · <a href="./index.html">Ontario LTB Data Explorer</a></p>
+      <span class="footer-attribution">Contains information licensed under the Open Government Licence – Ontario.</span>
+    </footer>
+  </body>
+</html>

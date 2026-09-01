@@ -1,236 +1,231 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LTB Wait Times Dashboard</title>
+<html lang="en-CA">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Explore 27 years of Ontario rental-housing tribunal annual reports, applications, staffing, finances and operational data.">
+    <meta name="color-scheme" content="light">
+    <title>Ontario LTB Data Explorer</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="wordmark" href="#top" aria-label="Ontario LTB Data Explorer home">
+          <span>LTB</span> Data Explorer
+        </a>
+        <nav aria-label="Primary navigation">
+          <a href="#overview">Overview</a>
+          <a href="#applications">Applications</a>
+          <a href="./wait-times.html">Wait times</a>
+          <a href="#data-table">Data table</a>
+        </nav>
+        <span class="private-pill site-badge"><i aria-hidden="true"></i> Annual reports · 1998–2025</span>
+      </div>
+    </header>
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 20px;
-            line-height: 1.6;
-        }
+    <p id="status-banner" class="status-banner" role="status" aria-live="polite">
+      Loading the cleaned LTB tables…
+    </p>
 
-        h1 {
-            margin-bottom: 0.2em;
-        }
+    <main id="top" class="page-shell">
+      <section class="hero" aria-labelledby="hero-title">
+        <div>
+          <p id="coverage-years" class="eyebrow">Ontario · 1998–2025</p>
+          <h1 id="hero-title">27 reporting years of tribunal activity, made explorable.</h1>
+        </div>
+        <p class="hero-copy">
+          Search cleaned data from annual reports beginning in 1998–99, compare landlord and
+          tenant filing patterns and trace how application types change over time.
+        </p>
+      </section>
 
-        .note {
-            background: #f4f4f4;
-            padding: 12px;
-            border-left: 4px solid #011638;
-            margin: 20px 0;
-        }
+      <aside class="coverage-note" aria-label="Reporting coverage note">
+        <strong>Reporting begins in 1998–99.</strong>
+        The first report covers June 1998 to March 1999. Detailed application-family
+        and party filing counts begin in <span class="first-detailed-year">1999–00</span>;
+        unavailable values are not treated as zero.
+      </aside>
 
-        a.button {
-            display: inline-block;
-            background: #011638;
-            color: white;
-            padding: 10px 16px;
-            text-decoration: none;
-            border-radius: 4px;
-            margin-top: 10px;
-        }
+      <a class="feature-card" href="./wait-times.html">
+        <span>
+          <small>Focused dashboard</small>
+          <strong>LTB Wait Times</strong>
+        </span>
+        <span class="feature-card-copy">Explore reported time to first hearing and time from hearing to order.</span>
+        <span class="feature-card-arrow" aria-hidden="true">&#8594;</span>
+      </a>
 
-        a.button:hover {
-            background: #0147b8;
-        }
+      <section class="filter-bar" aria-label="Global filters">
+        <div class="filter-heading">
+          <span>Viewing</span>
+          <strong id="reporting-year-count">27 reporting years</strong>
+        </div>
+        <label for="start-year">From
+          <select id="start-year" name="start-year" aria-label="First reporting year"></select>
+        </label>
+        <label for="end-year">To
+          <select id="end-year" name="end-year" aria-label="Last reporting year"></select>
+        </label>
+        <button id="reset-filters" class="text-button" type="button">Reset filters</button>
+      </section>
 
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
+      <section id="overview" class="section-block" aria-labelledby="overview-title">
+        <div class="section-heading">
+          <div><p class="section-number">01</p><h2 id="overview-title">Overview</h2></div>
+          <p>Annual filing volumes and the balance between landlord- and tenant-filed applications.</p>
+        </div>
 
-        th, td {
-            border: 1px solid #ccc;
-            padding: 6px 12px;
-            text-align: left;
-        }
+        <article class="panel chart-panel">
+          <div class="panel-heading">
+            <div><p class="panel-kicker">Filing volume</p><h3>Applications received by the LTB</h3></div>
+            <p>Hover over a point for its exact value.</p>
+          </div>
+          <div id="filing-chart"></div>
+          <p class="chart-note">
+            All filings uses the total applications received, reported in each annual
+            report. Landlord and tenant filing counts come from the detailed application
+            breakdown, available from <span class="first-detailed-year">1999–00</span>.
+          </p>
+        </article>
+      </section>
 
-        th {
-            background-color: #011638;
-            color: white;
-        }
+      <section id="applications" class="section-block" aria-labelledby="applications-title">
+        <div class="section-heading">
+          <div><p class="section-number">02</p><h2 id="applications-title">Application mix</h2></div>
+          <p>Explore how individual application types changed over time, and compare their total filing volumes across the reporting period.</p>
+        </div>
 
+        <div id="party-filter" class="party-filter" role="group" aria-label="Filter by party type">
+          <button type="button" data-party="all" class="active" aria-pressed="true">All parties</button>
+          <button type="button" data-party="landlord" aria-pressed="false">Landlord</button>
+          <button type="button" data-party="tenant" aria-pressed="false">Tenant</button>
+          <button type="button" data-party="mixed_other" aria-pressed="false">Mixed / Other</button>
+        </div>
 
-        .hearing-summary {
-            margin-top: 24px;
-        }
+        <div class="two-column">
+          <article class="panel family-panel">
+            <div class="panel-heading family-heading">
+              <div><p class="panel-kicker">Selected family</p><h3 id="family-title">L1 applications</h3></div>
+              <label for="application-family">Application
+                <select id="application-family" name="application-family"></select>
+              </label>
+            </div>
+            <div id="family-chart"></div>
+          </article>
 
-        .application-group {
-            margin: 14px 0;
-            padding: 10px 12px;
-            border: 1px solid #ccc;
-            border-radius: 6px;
-            background: #fafafa;
-        }
+          <article class="panel ranking-panel">
+            <div class="panel-heading">
+              <div><p class="panel-kicker">Full period</p><h3>Most frequently filed application types</h3></div>
+              <p id="ranking-party">All parties</p>
+            </div>
+            <div id="ranking-chart"></div>
+          </article>
+        </div>
 
-        .application-group summary {
-            cursor: pointer;
-            font-weight: bold;
-        }
+        <article class="panel comparison-panel" aria-labelledby="comparison-title">
+          <div class="panel-heading comparison-heading">
+            <div>
+              <p class="panel-kicker">Visitor-created grouping</p>
+              <h3 id="comparison-title">Build your own application comparison</h3>
+            </div>
+            <p>Choose one or more application types to compare their combined filings with all LTB applications.</p>
+          </div>
 
-        .summary-label {
-            display: inline-block;
-            min-width: 170px;
-        }
+          <div class="comparison-layout">
+            <div class="application-selector">
+              <label for="application-search">Find an application type</label>
+              <input id="application-search" type="search" placeholder="Search by code or description…" autocomplete="off">
+              <div class="selector-actions">
+                <button id="select-filtered-apps" class="text-button" type="button">Select all currently filtered</button>
+                <button id="clear-selected-apps" class="text-button" type="button">Clear all</button>
+              </div>
+              <fieldset class="application-options">
+                <legend class="sr-only">Application types</legend>
+                <div id="application-options"></div>
+              </fieldset>
+              <p id="application-option-status" class="selector-status" aria-live="polite"></p>
+            </div>
 
-        .ascii-bar {
-            display: inline-block;
-            font-family: "Courier New", monospace;
-            letter-spacing: 1px;
-            margin: 0 12px;
-            color: #011638;
-            white-space: nowrap;
-        }
+            <div class="comparison-result">
+              <div class="comparison-chart-heading">
+                <div>
+                  <h4>Selected applications vs. all LTB applications</h4>
+                  <p id="comparison-codes" class="comparison-codes">No application types selected</p>
+                </div>
+                <p>Uses the reporting-period controls above.</p>
+              </div>
 
-        .average-days {
-            white-space: nowrap;
-        }
+              <div id="comparison-empty" class="comparison-empty">
+                <strong>Choose at least one application type.</strong>
+                <span>The chart, annual percentages and period summary will appear here.</span>
+              </div>
 
-        .prototype-note {
-            font-size: 0.9em;
-            color: #555;
-        }
+              <div id="comparison-output" hidden>
+                <div id="comparison-chart"></div>
+                <p id="comparison-missing-note" class="chart-note" hidden></p>
+                <dl id="comparison-summary" class="comparison-summary"></dl>
+                <p class="comparison-caveat">
+                  This comparison combines application types selected by the visitor. The grouping is exploratory and does not represent an official Landlord and Tenant Board classification.
+                </p>
+              </div>
+            </div>
+          </div>
+        </article>
+      </section>
 
-    </style>
-</head>
-<body>
-<h1>LTB Wait Times</h1>
-<!-- Header -->
-<header style="background-color:#011638; color:white; padding:10px 20px; display:flex; align-items:center; justify-content:space-between; font-family:Arial, sans-serif;">
-    <div style="font-weight:bold; font-size:1.2em;"></div>
-    <nav>
-        <a href="annual-reports.html" style="color:white; text-decoration:none; margin:0 10px;">LTB Annual Reports (1998-2025)</a>
-        <a href="Mind_map.html" style="color:white; text-decoration:none; margin:0 10px;">Mind map</a>
-        <a href="glossary.html" style="color:white; text-decoration:none; margin:0 10px;">Glossary</a>
-    </nav>
-</header>
+      <section id="data-table" class="section-block" aria-labelledby="table-title">
+        <div class="section-heading">
+          <div><p class="section-number">03</p><h2 id="table-title">Data table</h2></div>
+          <p>
+            Browse every record in <span id="dataset-count">10</span> cleaned project tables,
+            including annual reports and operational metrics from 1998–99. The year and party filters above also apply here.
+          </p>
+        </div>
 
-<section class="hearing-summary" aria-labelledby="first-hearing-heading">
-    <h2 id="first-hearing-heading">How long until first hearing?</h2>
-    <p><strong>Performance standard - L1 & L9:</strong> 25 days</p>
-    <p><strong>Performance standard - all other applications:</strong> 30 days</p>
+        <article class="panel table-panel">
+          <div class="table-controls">
+            <label class="dataset-select" for="dataset-select">Dataset
+              <select id="dataset-select" name="dataset-select"></select>
+            </label>
+            <label class="search-field" for="table-search">
+              <span class="sr-only">Search current table</span>
+              <input id="table-search" type="search" placeholder="Search this table…" autocomplete="off">
+            </label>
+            <button id="download-csv" class="download-button" type="button">Download filtered data</button>
+          </div>
 
-    <details class="application-group">
-        <summary>
-            <span class="summary-label">Landlord applications</span>
-            <span id="landlord-bar" class="ascii-bar" aria-hidden="true"></span>
-            <span id="landlord-average" class="average-days"></span>
-        </summary>
+          <div class="dataset-note">
+            <p id="dataset-description">Annual landlord, tenant, mixed and L1 filing totals and shares.</p>
+            <strong id="matching-count">0 matching rows</strong>
+          </div>
 
-        <table style="table-layout: fixed; width: 100%;">
-            <col style="width:120px;">
-            <col style="width:550px;">
-            <col style="width:100px;">
-            <thead>
-                <tr>
-                    <th>Application Code</th>
-                    <th>Application Type</th>
-                    <th>Average Days</th>
-                    <th>% Within Standard</th>
-                </tr>
-            </thead>
-            <tbody id="landlord-table-body">
-                <tr>
-                    <td>L1</td>
-                    <td>Terminate &amp; Evict for Non-Payment of Rent</td>
-                    <td>51.6</td>
-                    <td>0.4%</td>
-                </tr>
-                <tr>
-                    <td>L9</td>
-                    <td>Collect Rent the Tenant Owes</td>
-                    <td>51</td>
-                    <td>0%</td>
-                </tr>
-                <tr>
-                   
-                </tr>
-            </tbody>
-        </table>
-    </details>
+          <div class="table-scroll">
+            <table>
+              <thead id="table-head"></thead>
+              <tbody id="table-body"></tbody>
+            </table>
+            <p id="table-empty" class="empty-state" hidden>No rows match these filters.</p>
+          </div>
 
-    <details class="application-group">
-        <summary>
-            <span class="summary-label">Tenant applications</span>
-            <span id="tenant-bar" class="ascii-bar" aria-hidden="true"></span>
-            <span id="tenant-average" class="average-days"></span>
-        </summary>
+          <div class="pagination">
+            <p id="page-description">Page 1 of 1</p>
+            <div>
+              <button id="previous-page" type="button" disabled>Previous</button>
+              <button id="next-page" type="button" disabled>Next</button>
+            </div>
+          </div>
+        </article>
+      </section>
+    </main>
 
-        <table style="table-layout: fixed; width: 100%;">
-            <col style="width:120px;">
-            <col style="width:550px;">
-            <col style="width:100px;">
-            <thead>
-                <tr>
-                    <th>Application Code</th>
-                    <th>Application Type</th>
-                    <th>Average Days</th>
-                    <th>% Within Standard</th>
-                </tr>
-            </thead>
-            <tbody id="tenant-table-body">
-                <tr>
-                    <td>T1</td>
-                    <td>Rent Rebate (e.g. illegal rent)</td>
-                    <td>132.5</td>
-                    <td>0.6%</td>
-                </tr>
-                <tr>
-                    <td>T6</td>
-                    <td>Maintenance</td>
-                    <td>169.3</td>
-                    <td>1.4%</td>
-                </tr>
-            </tbody>
-        </table>
-    </details>
-
-    <p class="prototype-note">Prototype note: the bars are currently hand-coded ASCII. Later, these can be generated from CSV values with JavaScript.</p>
-</section>
-
-<div class="note">
-    <strong>Data Source:</strong> LTB Open Data, Q4 2025-26 | <a href="https://tribunalsontario.ca/en/about/open-data/#panel8">Tribunals Ontario OD Portal</a>  
-    <p><strong>Data last updated:</strong> March 31, 2026. <strong>| Next data update due:</strong> June 30, 2026.</p>
-	<p><strong>Dashboard last updated:</strong> June 3rd, 2026.</p>
-</div>
-
-<!-- Footer -->
-<footer style="background-color:#f4f4f4; color:#333; text-align:center; padding:15px 20px; font-family:Arial, sans-serif; margin-top:30px; border-top:1px solid #ccc;">
-    &copy; 2026 Jasna Maksimovic | Landlord and Tenant Board - Open Data Dashboard | All rights reserved
-    <br><a href="https://civictech.ca/projects/LTB%20Project/" style="color:#011638; text-decoration:none;">Part of Civic Tech Toronto Projects</a>
-</footer>
-
-<script>
-    <!-- Fetch data from CSV once it's updated -->
-const latestWaitTimes = {
-    landlordAverageDays: 90,
-    tenantAverageDays: 163
-};
-
-const BAR_SCALE = 5; // 1 | = 5 days
-
-function makeBar(days) {
-    return "█".repeat(Math.round(days / BAR_SCALE));
-}
-
-document.getElementById("landlord-bar").textContent =
-    makeBar(latestWaitTimes.landlordAverageDays);
-
-document.getElementById("landlord-average").textContent =
-    `average ${latestWaitTimes.landlordAverageDays} days`;
-
-document.getElementById("tenant-bar").textContent =
-    makeBar(latestWaitTimes.tenantAverageDays);
-
-document.getElementById("tenant-average").textContent =
-    `average ${latestWaitTimes.tenantAverageDays} days`;
-</script>
-
-</body>
+    <footer>
+      <p><a href="https://github.com/JMak22/LTB-project">LTB Project</a> · Ontario LTB Data Explorer</p>
+      <span class="footer-attribution">
+        Contains information licensed under the Open Government Licence – Ontario.
+      </span>
+    </footer>
+  </body>
 </html>
