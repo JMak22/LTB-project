@@ -1,0 +1,134 @@
+---
+title: "charts"
+author: "Michiel Duvekot"
+format: html
+date: "2026-06-28 16:06:05 EDT"
+editor: visual
+---
+
+```{r, setup, include=FALSE}
+knitr::opts_chunk$set(
+  comment = '', 
+  fig.width = 16, 
+  fig.height = 9,
+  dev = "png"
+)
+here::i_am("R/charts.qmd")
+```
+
+## Visualizations
+
+These are visualizations of the datasets in the cleaned_data_folder.
+
+```{r}
+#| label: app_type_metrics
+#| message: false
+#| warning: false
+#| paged-print: true
+source(here::here("R/app_type_metrics.R"))
+app_type_metrics()
+```
+
+```{r}
+#| label: combo_application_summary
+#| message: false
+#| warning: false
+#| paged-print: true
+source(here::here("R/combo_application_summary.R"))
+combo_application_summary()
+```
+
+```{r}
+#| label: financial_metrics
+#| message: false
+#| warning: false
+#| paged-print: true
+source(here::here("R/financial_metrics.R"))
+financial_metrics()
+```
+
+```{r}
+#| label: l_single_type_avg_days_chart
+#| message: false
+#| warning: false
+#| paged-print: true
+source(here::here("R/l_single_type_avg_days_chart.R"))
+l_single_type_avg_days_chart()
+```
+
+```{r}
+#| label: L1_L9_avg_days_chart
+#| message: false
+#| warning: false
+#| paged-print: true
+source(here::here("R/L1_L9_avg_days_chart.R"))
+L1_L9_avg_days_chart()
+```
+
+```{r}
+#| label: landlord_vs_tenant_receipts
+#| message: false
+#| warning: false
+#| paged-print: true
+source(here::here("R/landlord_vs_tenant_receipts.R"))
+landlord_vs_tenant_receipts()
+```
+
+```{r}
+#| label: member_counts_by_file
+#| message: false
+#| warning: false
+#| paged-print: true
+
+source(here::here("R/member_counts_by_file.R"))
+member_counts_by_file()
+```
+
+operational_metrics.R
+
+```{r}
+#| label: operational_metrics
+#| message: false
+#| warning: false
+#| paged-print: true
+source(here::here("R/operational_metrics.R"))
+operational_metrics()
+```
+
+regional_metrics.R
+
+```{r}
+#| label: regional_metrics
+#| message: false
+#| warning: false
+#| paged-print: true
+source(here::here("R/regional_metrics.R"))
+regional_metrics()
+```
+
+```{r}
+#| label: resolution_metrics
+#| message: false
+#| warning: false
+#| paged-print: true
+source(here::here("R/resolution_metrics.R"))
+resolution_metrics()
+```
+
+```{r}
+#| label: staffing_metrics
+#| message: false
+#| warning: false
+#| paged-print: true
+source(here::here("R/staffing_metrics.R"))
+staffing_metrics()
+```
+
+```{r}
+#| label: t_single_type_avg_days_chart
+#| message: false
+#| warning: false
+#| paged-print: true
+source(here::here("R/t_single_type_avg_days_chart.R"))
+t_single_type_avg_days_chart()
+```
