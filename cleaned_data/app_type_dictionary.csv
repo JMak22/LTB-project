@@ -28,3 +28,8 @@ T4,2000,,tenant,Landlord did not Comply with an Agreement to Increase Rent Above
 T5,1998,,tenant,Landlord Gave a Notice of Termination in Bad Faith,
 T6,2000,,tenant,Maintenance,
 T7,2010,,tenant,Suite Meters,
+C1,2014,,co-op,End the Occupancy and Evict the Member for Non-payment of Regular Monthly Housing Charges and Collect Housing Charges Owed,"LTB began receiving co-op eviction applications in June 2014; 2014-15 is a partial fiscal year for this series."
+C1/2,2014,,co-op,Combined C1 and C2 Applications,"Preserved as a distinct reported category; do not add these cases to C1 and C2 separately when aggregating. 2014-15 is a partial fiscal year."
+C2,2014,,co-op,End the Occupancy of the Member Unit and Evict the Member,"2014-15 is a partial fiscal year for this series."
+C3,2014,,co-op,End the Occupancy and Evict the Member – Member's Consent or Notice,"2014-15 is a partial fiscal year for this series."
+C4,2014,,co-op,End the Occupancy and Evict the Member – Member Failed to Meet Conditions of a Settlement or Order,"2014-15 is a partial fiscal year for this series."
