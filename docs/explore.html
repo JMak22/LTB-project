@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore LTB application volumes, application families and cleaned longitudinal datasets.">
+  <meta name="color-scheme" content="dark light">
+  <title>Explore — LTB Project</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./assets/site.css">
+  <link rel="stylesheet" href="./assets/mvp.css">
+  <script src="./assets/site.js" defer></script>
+  <script src="./assets/explorer.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="./" aria-label="LTB Project home"><span>LTB</span> Project</a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav"><span aria-hidden="true">☰</span><span class="sr-only">Open navigation</span></button>
+      <nav id="primary-nav" class="primary-nav" aria-label="Primary navigation">
+        <a href="./">Home</a><a href="./explore.html" aria-current="page">Explore</a><a href="./analysis.html">Analysis</a><a href="./data.html">Data</a><a href="./about.html">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <p id="status-banner" class="status-banner" role="status" aria-live="polite">Loading the cleaned LTB tables…</p>
+
+  <main id="main">
+    <section class="hero interior-hero page-shell" aria-labelledby="hero-title">
+      <div>
+        <p id="coverage-years" class="eyebrow">ORHT/LTB 1998–2025</p>
+        <h1 id="hero-title">Explore the evidence</h1>
+        <p class="hero-copy">Compare application volumes, follow individual application families and inspect the records behind each view. <br>Missing values ≠ zero.</p>
+      </div>
+    </section>
+
+    <nav class="section-nav page-shell" aria-label="On this page" data-section-nav>
+      <!-- removing this for now <span class="section-nav-label">On this page</span> -->
+      <div class="section-nav-links"><a href="#overview">01 / Overview</a><a href="#applications">02 / Application mix</a><a href="#data-table">03 / Inspect the data</a></div><label class="section-nav-select"><span class="sr-only">Jump to a section</span><select data-section-select><option value="">Choose a section</option><option value="#overview">01 Overview</option><option value="#applications">02 Application mix</option><option value="#data-table">03 Inspect data</option></select></label></nav>
+
+    <aside class="coverage-note dark-note page-shell" aria-label="Reporting coverage note">
+      <strong>Reporting begins in 1998–99.</strong> The first report covers June 1998 to March 1999. Detailed application-family counts begin in <span class="first-detailed-year">1999–00</span>.
+    </aside>
+
+    <section class="suggested-grid page-shell" aria-labelledby="suggested-title">
+      <div><p class="panel-kicker">Suggested questions</p><h2 id="suggested-title">Start with a comparison</h2></div>
+      <a href="./#applications-received"><strong>How do filing patterns change over time?</strong><span>View total, landlord and tenant applications together.</span></a>
+      <a href="./#application-volume"><strong>How much volume is eviction-related?</strong><span>View the derived L1 + L2 + L4 comparison.</span></a>
+    </section>
+
+    <section class="filter-bar page-shell" aria-label="Global filters">
+      <div class="filter-heading"><span>Reporting controls</span><strong id="reporting-year-count">27 reporting years</strong></div>
+      <label for="start-year">From <select id="start-year" name="start-year" aria-label="First reporting year"></select></label>
+      <label for="end-year">To <select id="end-year" name="end-year" aria-label="Last reporting year"></select></label>
+      <button id="reset-filters" class="text-button" type="button">Reset filters</button>
+    </section>
+
+    <section id="overview" class="section-block section-band section-band--soft" aria-labelledby="overview-title">
+      <div class="page-shell section-band-inner">
+      <div class="section-heading"><div><p class="section-number">01 / Overview</p><h2 id="overview-title">Applications received</h2></div><p>Annual filing volumes and the balance among total, landlord- and tenant-filed applications.</p></div>
+      <article class="panel chart-panel">
+        <div class="panel-heading"><div><p class="panel-kicker">Filing volume</p><h3>Applications received by the LTB</h3></div><p>Focus a point for its exact value.</p></div>
+        <div id="filing-chart"></div>
+        <p class="chart-note">All filings uses the total applications received reported in each annual report. Detailed landlord and tenant counts begin in <span class="first-detailed-year">1999–00</span>.</p>
+      </article>
+      </div>
+    </section>
+
+    <section id="applications" class="section-block section-band" aria-labelledby="applications-title">
+      <div class="page-shell section-band-inner">
+      <div class="section-heading"><div><p class="section-number">02 / Application mix</p><h2 id="applications-title">Compare application types</h2></div><p>Follow one application family and see which types account for the largest volume across the period.</p></div>
+
+      <div id="party-filter" class="party-filter" role="group" aria-label="Filter by party type">
+        <button type="button" data-party="all" class="active" aria-pressed="true">All parties</button>
+        <button type="button" data-party="landlord" aria-pressed="false">Landlord</button>
+        <button type="button" data-party="tenant" aria-pressed="false">Tenant</button>
+        <!-- removed for now, data displayed in other two families <button type="button" data-party="mixed_other" aria-pressed="false">Mixed</button> -->
+      </div>
+
+      <div class="two-column">
+        <article class="panel family-panel">
+          <div class="panel-heading family-heading"><div><p class="panel-kicker">Application to</p><h3 id="family-title">L1 applications</h3></div><label for="application-family">Application<select id="application-family" name="application-family"></select></label></div>
+          <div id="family-chart"></div>
+          <p id="family-introduction-note" class="chart-note" hidden>Points are shown only for years after this application type was introduced.</p>
+        </article>
+        <article class="panel ranking-panel">
+          <div class="panel-heading"><div><p class="panel-kicker">Full period</p><h3>Most frequently filed application types</h3></div><p id="ranking-party">All parties</p></div>
+          <div id="ranking-chart"></div>
+        </article>
+      </div>
+
+      <article id="build-comparison" class="panel comparison-panel" aria-labelledby="comparison-title">
+        <div class="panel-heading comparison-heading"><div><p class="panel-kicker">Visitor-created grouping</p><h3 id="comparison-title">Build your own application comparison</h3></div><p>Choose one or more application types to compare their combined filings with all LTB applications.</p></div>
+        <div class="comparison-layout">
+          <div class="application-selector">
+            <label for="application-search">1. Find application types</label>
+            <input id="application-search" type="search" placeholder="Search by code or description…" autocomplete="off">
+            <div class="selector-actions"><button id="select-filtered-apps" class="text-button" type="button">Select all filtered</button><button id="clear-selected-apps" class="text-button" type="button">Clear all</button></div>
+            <fieldset class="application-options"><legend class="sr-only">Application types</legend><div id="application-options"></div></fieldset>
+            <p id="application-option-status" class="selector-status" aria-live="polite"></p>
+          </div>
+          <div class="comparison-result">
+            <div class="comparison-chart-heading"><div><h4>Selected applications vs. all LTB applications</h4><p id="comparison-codes" class="comparison-codes">No application types selected</p></div><p>Uses the reporting-period controls at the top of the page.</p></div>
+            <div id="comparison-empty" class="comparison-empty"><strong>Choose at least one application type.</strong><span>The chart, annual percentages and period summary will appear here.</span></div>
+            <div id="comparison-output" hidden>
+              <div id="comparison-chart"></div>
+              <p id="comparison-missing-note" class="chart-note" hidden></p>
+              <dl id="comparison-summary" class="comparison-summary"></dl>
+              <p class="comparison-caveat">This visitor-created grouping is exploratory and does not represent an official LTB classification. Review each application definition and underlying CSV files before interpreting the result.</p>
+            </div>
+          </div>
+        </div>
+      </article>
+      </div>
+    </section>
+
+    <section id="data-table" class="section-block section-band section-band--soft" aria-labelledby="table-title">
+      <div class="page-shell section-band-inner">
+      <div class="section-heading"><div><p class="section-number">03 / Inspect data</p><h2 id="table-title">Records behind the views</h2></div><p>Browse and download filtered records from <span id="dataset-count">10</span> project tables. Year and party filters also apply here.</p></div>
+      <article class="panel table-panel">
+        <div class="table-controls">
+          <label class="dataset-select" for="dataset-select">Dataset<select id="dataset-select" name="dataset-select"></select></label>
+          <label class="search-field" for="table-search"><span>Search current table</span><input id="table-search" type="search" placeholder="Search this table…" autocomplete="off"></label>
+          <button id="download-csv" class="download-button" type="button">Download filtered CSV</button>
+        </div>
+        <div class="dataset-note"><p id="dataset-description">Annual filing totals and shares.</p><strong id="matching-count">0 matching rows</strong></div>
+        <div class="table-scroll"><table><thead id="table-head"></thead><tbody id="table-body"></tbody></table><p id="table-empty" class="empty-state" hidden>No rows match these filters.</p></div>
+        <div class="pagination"><p id="page-description">Page 1 of 1</p><div><button id="previous-page" type="button" disabled>Previous</button><button id="next-page" type="button" disabled>Next</button></div></div>
+      </article>
+      </div>
+    </section>
+  </main>
+
+  <footer><p>© 2026 Jasna Maksimovic | This is a Civic Tech Toronto project</p><span class="footer-attribution">Contains information licensed under the Open Government Licence – Ontario</span></footer>
+</body>
+</html>

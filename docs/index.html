@@ -1,231 +1,138 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-CA">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Explore 27 years of Ontario rental-housing tribunal annual reports, applications, staffing, finances and operational data.">
-    <meta name="color-scheme" content="light">
-    <title>Ontario LTB Data Explorer</title>
-    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
-    <link rel="stylesheet" href="./styles.css">
-    <script src="./app.js" defer></script>
-  </head>
-  <body>
-    <header class="site-header">
-      <div class="header-inner">
-        <a class="wordmark" href="#top" aria-label="Ontario LTB Data Explorer home">
-          <span>LTB</span> Data Explorer
-        </a>
-        <nav aria-label="Primary navigation">
-          <a href="#overview">Overview</a>
-          <a href="#applications">Applications</a>
-          <a href="./wait-times.html">Wait times</a>
-          <a href="#data-table">Data table</a>
-        </nav>
-        <span class="private-pill site-badge"><i aria-hidden="true"></i> Annual reports · 1998–2025</span>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A longitudinal view of Ontario Landlord and Tenant Board annual reports, data, measurement and institutional change.">
+  <meta name="color-scheme" content="dark light">
+  <title>LTB Project — 27 reporting years made explorable</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./assets/site.css">
+  <link rel="stylesheet" href="./assets/mvp.css">
+  <script src="./assets/site.js" defer></script>
+  <script src="./assets/home.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="./" aria-label="LTB Project home"><span>LTB</span> Project</a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav"><span aria-hidden="true">☰</span><span class="sr-only">Open navigation</span></button>
+      <nav id="primary-nav" class="primary-nav" aria-label="Primary navigation">
+        <a href="./" aria-current="page">Home</a>
+        <a href="./explore.html">Explore</a>
+        <a href="./analysis.html">Analysis</a>
+        <a href="./data.html">Data</a>
+        <a href="./about.html">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="home-hero page-shell" aria-labelledby="home-title">
+      <div class="home-hero-copy">
+        <p class="eyebrow">ORHT / LTB · 1998–2025</p>
+        <h1 id="home-title">27 years of tribunal activity, made explorable</h1>
+        <p class="verbatim-intro">Institutions change, sometimes in ways that are difficult to see from year to year. Looking back at what the Landlord and Tenant Board has said about itself, what it measured over the years and how its operations have evolved helps us understand where it has been, where it may be heading and gives us a basis for asking whether that is where we want it to go.</p>
+        <div class="hero-actions">
+          <a class="button-link" href="./explore.html">Explore the evidence</a>
+          <a class="text-link" href="./analysis.html">Read the analysis <span aria-hidden="true">→</span></a>
+        </div>
       </div>
-    </header>
+      <figure class="hero-artifact">
+        <img src="./assets/all-reports-in-one-v2.2-2048x1079.png" alt="Annual report pages arranged in rows from 1998–99 through 2024–25, showing changes in report length and institutional reporting eras. Ontario Rental Housing Tribunal era 1998-2008, Social Justice Tribunal Ontario era 2009-2016, Tribunals Ontario era 2017 to present. Report lengths (in pages): 1998-99 35, 1999-2000 42, 2000-01 49, 2001-02 45, 2002-03 42, 2003-04 44, 2004-05 45, 2005-06 44, 2006-07 61, 2007-08 80, 2008-09 49, 2009-10 42, 2010-11 10, 2011-12 8, 2012-13 5, 2013-14 5, 2014-15 8, 2015-16 8, 2016-17 9, 2017-18 9, 2018-19 7, 2019-20 4, 2020-21 4, 2021-22 5, 2022-23 7, 2023-24 7, 2024-25 8" width="2048" height="1079">
+        <figcaption>The annual-report corpus as an object. Right click to enlarge. <br>Later implementation will allow users to click on a report filmstrip and see it in full. <br>To view reports immediately, please <a href="https://github.com/JMak22/LTB-project/tree/main/raw_pdfs">visit the GitHub repo.</a></figcaption>
+      </figure>
+    </section>
 
-    <p id="status-banner" class="status-banner" role="status" aria-live="polite">
-      Loading the cleaned LTB tables…
-    </p>
+    <nav class="section-nav page-shell" aria-label="On this page" data-section-nav>
+      <!-- removing this for now <span class="section-nav-label">On this page</span> -->
+      <div class="section-nav-links">
+        <a href="#applications-received">01 / Applications received</a>
+        <a href="#application-volume">02 / Application volume</a>
+        <a href="#institutional-visibility">03 / Institutional visibility</a>
+        <a href="#enter-corpus">Enter the corpus</a>
+      </div>
+      <label class="section-nav-select"><span class="sr-only">Jump to a section</span><select data-section-select><option value="">Choose a section</option><option value="#applications-received">01 Applications received</option><option value="#application-volume">02 Application volume</option><option value="#institutional-visibility">03 Institutional visibility</option><option value="#enter-corpus">Enter the corpus</option></select></label>
+    </nav>
 
-    <main id="top" class="page-shell">
-      <section class="hero" aria-labelledby="hero-title">
-        <div>
-          <p id="coverage-years" class="eyebrow">Ontario · 1998–2025</p>
-          <h1 id="hero-title">27 reporting years of tribunal activity, made explorable.</h1>
-        </div>
-        <p class="hero-copy">
-          Search cleaned data from annual reports beginning in 1998–99, compare landlord and
-          tenant filing patterns and trace how application types change over time.
-        </p>
-      </section>
-
-      <aside class="coverage-note" aria-label="Reporting coverage note">
-        <strong>Reporting begins in 1998–99.</strong>
-        The first report covers June 1998 to March 1999. Detailed application-family
-        and party filing counts begin in <span class="first-detailed-year">1999–00</span>;
-        unavailable values are not treated as zero.
-      </aside>
-
-      <a class="feature-card" href="./wait-times.html">
-        <span>
-          <small>Focused dashboard</small>
-          <strong>LTB Wait Times</strong>
-        </span>
-        <span class="feature-card-copy">Explore reported time to first hearing and time from hearing to order.</span>
-        <span class="feature-card-arrow" aria-hidden="true">&#8594;</span>
-      </a>
-
-      <section class="filter-bar" aria-label="Global filters">
-        <div class="filter-heading">
-          <span>Viewing</span>
-          <strong id="reporting-year-count">27 reporting years</strong>
-        </div>
-        <label for="start-year">From
-          <select id="start-year" name="start-year" aria-label="First reporting year"></select>
-        </label>
-        <label for="end-year">To
-          <select id="end-year" name="end-year" aria-label="Last reporting year"></select>
-        </label>
-        <button id="reset-filters" class="text-button" type="button">Reset filters</button>
-      </section>
-
-      <section id="overview" class="section-block" aria-labelledby="overview-title">
-        <div class="section-heading">
-          <div><p class="section-number">01</p><h2 id="overview-title">Overview</h2></div>
-          <p>Annual filing volumes and the balance between landlord- and tenant-filed applications.</p>
-        </div>
-
-        <article class="panel chart-panel">
-          <div class="panel-heading">
-            <div><p class="panel-kicker">Filing volume</p><h3>Applications received by the LTB</h3></div>
-            <p>Hover over a point for its exact value.</p>
+    <section id="applications-received" class="story-section section-band section-band--soft" aria-labelledby="story-one-title">
+      <div class="page-shell section-band-inner">
+      <div class="story-heading">
+        <p class="story-index">01 / Applications received</p>
+        <h2 id="story-one-title">Applications received over time</h2>
+        <p>The long view makes the scale and persistence of the pattern visible. Landlord-filed applications remain the dominant stream as the tribunal’s total workload rises and falls; tenant-filed applications remain much smaller. More research is needed to investigate the reasons behind this.</p>
+      </div>
+      <article class="artifact-card chart-artifact" aria-labelledby="party-chart-heading">
+        <div class="artifact-heading">
+          <div>
+            <p class="panel-kicker">Annual application volume</p>
+            <h3 id="party-chart-heading">Total, landlord and tenant applications</h3>
           </div>
-          <div id="filing-chart"></div>
-          <p class="chart-note">
-            All filings uses the total applications received, reported in each annual
-            report. Landlord and tenant filing counts come from the detailed application
-            breakdown, available from <span class="first-detailed-year">1999–00</span>.
-          </p>
-        </article>
-      </section>
-
-      <section id="applications" class="section-block" aria-labelledby="applications-title">
-        <div class="section-heading">
-          <div><p class="section-number">02</p><h2 id="applications-title">Application mix</h2></div>
-          <p>Explore how individual application types changed over time, and compare their total filing volumes across the reporting period.</p>
+          <p>1998 to 2025</p>
         </div>
-
-        <div id="party-filter" class="party-filter" role="group" aria-label="Filter by party type">
-          <button type="button" data-party="all" class="active" aria-pressed="true">All parties</button>
-          <button type="button" data-party="landlord" aria-pressed="false">Landlord</button>
-          <button type="button" data-party="tenant" aria-pressed="false">Tenant</button>
-          <button type="button" data-party="mixed_other" aria-pressed="false">Mixed / Other</button>
-        </div>
-
-        <div class="two-column">
-          <article class="panel family-panel">
-            <div class="panel-heading family-heading">
-              <div><p class="panel-kicker">Selected family</p><h3 id="family-title">L1 applications</h3></div>
-              <label for="application-family">Application
-                <select id="application-family" name="application-family"></select>
-              </label>
-            </div>
-            <div id="family-chart"></div>
-          </article>
-
-          <article class="panel ranking-panel">
-            <div class="panel-heading">
-              <div><p class="panel-kicker">Full period</p><h3>Most frequently filed application types</h3></div>
-              <p id="ranking-party">All parties</p>
-            </div>
-            <div id="ranking-chart"></div>
-          </article>
-        </div>
-
-        <article class="panel comparison-panel" aria-labelledby="comparison-title">
-          <div class="panel-heading comparison-heading">
-            <div>
-              <p class="panel-kicker">Visitor-created grouping</p>
-              <h3 id="comparison-title">Build your own application comparison</h3>
-            </div>
-            <p>Choose one or more application types to compare their combined filings with all LTB applications.</p>
-          </div>
-
-          <div class="comparison-layout">
-            <div class="application-selector">
-              <label for="application-search">Find an application type</label>
-              <input id="application-search" type="search" placeholder="Search by code or description…" autocomplete="off">
-              <div class="selector-actions">
-                <button id="select-filtered-apps" class="text-button" type="button">Select all currently filtered</button>
-                <button id="clear-selected-apps" class="text-button" type="button">Clear all</button>
-              </div>
-              <fieldset class="application-options">
-                <legend class="sr-only">Application types</legend>
-                <div id="application-options"></div>
-              </fieldset>
-              <p id="application-option-status" class="selector-status" aria-live="polite"></p>
-            </div>
-
-            <div class="comparison-result">
-              <div class="comparison-chart-heading">
-                <div>
-                  <h4>Selected applications vs. all LTB applications</h4>
-                  <p id="comparison-codes" class="comparison-codes">No application types selected</p>
-                </div>
-                <p>Uses the reporting-period controls above.</p>
-              </div>
-
-              <div id="comparison-empty" class="comparison-empty">
-                <strong>Choose at least one application type.</strong>
-                <span>The chart, annual percentages and period summary will appear here.</span>
-              </div>
-
-              <div id="comparison-output" hidden>
-                <div id="comparison-chart"></div>
-                <p id="comparison-missing-note" class="chart-note" hidden></p>
-                <dl id="comparison-summary" class="comparison-summary"></dl>
-                <p class="comparison-caveat">
-                  This comparison combines application types selected by the visitor. The grouping is exploratory and does not represent an official Landlord and Tenant Board classification.
-                </p>
-              </div>
-            </div>
-          </div>
-        </article>
-      </section>
-
-      <section id="data-table" class="section-block" aria-labelledby="table-title">
-        <div class="section-heading">
-          <div><p class="section-number">03</p><h2 id="table-title">Data table</h2></div>
-          <p>
-            Browse every record in <span id="dataset-count">10</span> cleaned project tables,
-            including annual reports and operational metrics from 1998–99. The year and party filters above also apply here.
-          </p>
-        </div>
-
-        <article class="panel table-panel">
-          <div class="table-controls">
-            <label class="dataset-select" for="dataset-select">Dataset
-              <select id="dataset-select" name="dataset-select"></select>
-            </label>
-            <label class="search-field" for="table-search">
-              <span class="sr-only">Search current table</span>
-              <input id="table-search" type="search" placeholder="Search this table…" autocomplete="off">
-            </label>
-            <button id="download-csv" class="download-button" type="button">Download filtered data</button>
-          </div>
-
-          <div class="dataset-note">
-            <p id="dataset-description">Annual landlord, tenant, mixed and L1 filing totals and shares.</p>
-            <strong id="matching-count">0 matching rows</strong>
-          </div>
-
+        <div id="applications-volume-chart" class="home-line-chart" aria-live="polite"><p class="chart-loading">Loading chart…</p></div>
+        <p class="required-annotation">totals were reported in some years, calculated in others; refer to the table below for details</p>
+        <details class="evidence-details">
+          <summary>Inspect the data</summary>
           <div class="table-scroll">
             <table>
-              <thead id="table-head"></thead>
-              <tbody id="table-body"></tbody>
+              <thead><tr><th scope="col">Report year</th><th scope="col">Total applications</th><th scope="col">Landlord applications</th><th scope="col">Tenant applications</th><th scope="col">Status</th></tr></thead>
+              <tbody id="applications-volume-table-body"></tbody>
             </table>
-            <p id="table-empty" class="empty-state" hidden>No rows match these filters.</p>
           </div>
+          <p class="source-line">Sources: <a href="./datasets/operational_metrics.csv">operational_metrics.csv</a>, <a href="./datasets/derived_application_family_share_by_year.csv">derived_application_family_share_by_year.csv</a> and <a href="./datasets/landlord_vs_tenant_receipts.csv">landlord_vs_tenant_receipts.csv</a>. Detailed landlord and tenant counts begin in 1999–00.</p>
+        </details>
+      </article>
+      </div>
+    </section>
 
-          <div class="pagination">
-            <p id="page-description">Page 1 of 1</p>
-            <div>
-              <button id="previous-page" type="button" disabled>Previous</button>
-              <button id="next-page" type="button" disabled>Next</button>
-            </div>
-          </div>
-        </article>
-      </section>
-    </main>
+    <section id="application-volume" class="story-section section-band" aria-labelledby="story-two-title">
+      <div class="page-shell section-band-inner">
+      <div class="story-heading compact-heading">
+        <p class="story-index">02 / Application volume</p>
+        <h2 id="story-two-title">How much volume is eviction-related?</h2>
+        <p>This chart adds L1, L2 and L4 applications and compares that sum with all applications received. It shows how closely these three eviction-related application types move with the tribunal’s overall workload.</p>
+      </div>
+      <article class="artifact-card chart-artifact" aria-labelledby="eviction-chart-heading">
+        <div class="artifact-heading"><div><p class="panel-kicker">Derived comparison</p><h3 id="eviction-chart-heading">L1 + L2 + L4 applications and all applications received</h3></div><p>1999 to 2025</p></div>
+        <div id="eviction-volume-chart" class="home-line-chart" aria-live="polite"><p class="chart-loading">Loading chart…</p></div>
+        <p class="required-annotation">Derived by summing reported L1, L2 and L4 case counts for each reporting year. The grouping is a project definition, not an official LTB category.</p>
+        <details class="evidence-details"><summary>Inspect the data and calculation</summary><div class="table-scroll"><table><thead><tr><th scope="col">Report year</th><th scope="col">L1</th><th scope="col">L2</th><th scope="col">L4</th><th scope="col">L1 + L2 + L4</th><th scope="col">All applications</th><th scope="col">Share of total</th></tr></thead><tbody id="eviction-volume-table-body"></tbody></table></div><p class="source-line">Source: <a href="./datasets/eviction_related_l1_l2_l4.csv">eviction_related_l1_l2_l4.csv</a>, calculated from reported case counts in <a href="./datasets/app_type_metrics.csv">app_type_metrics.csv</a> and annual totals in <a href="./datasets/operational_metrics.csv">operational_metrics.csv</a>.</p></details>
+      </article>
+      </div>
+    </section>
 
-    <footer>
-      <p><a href="https://github.com/JMak22/LTB-project">LTB Project</a> · Ontario LTB Data Explorer</p>
-      <span class="footer-attribution">
-        Contains information licensed under the Open Government Licence – Ontario.
-      </span>
-    </footer>
-  </body>
+    <section id="institutional-visibility" class="story-section section-band section-band--soft" aria-labelledby="story-three-title">
+      <div class="page-shell section-band-inner">
+      <div class="story-heading compact-heading">
+        <p class="story-index">03 / Institutional visibility</p>
+        <h2 id="story-three-title">What the LTB makes visible though public reports changes over time</h2>
+        <p>Measures are introduced, revised, grouped differently, left out of reports or replaced. A disappearance from annual reporting is evidence of change in public visibility only.</p>
+      </div>
+      <div class="evidence-strip" aria-label="Examples of reporting change">
+        <article><span>Performance</span><strong>Thresholds and groupings change</strong><p>Business-day standards later give way to calendar-day KPIs and a case-lifecycle measure.</p></article>
+        <article><span>Mediation</span><strong>Denominators and detail change</strong><p>The activity remains visible while long-run outcomes become harder to compare consistently.</p></article>
+        <article><span>Service &amp; access</span><strong>Different dimensions appear</strong><p>Physical locations, filing channels, hearing modes, language and accommodation appear with different levels of detail.</p></article>
+      </div>
+      <p class="section-action"><a class="button-link" href="./analysis.html">Read more</a></p>
+      </div>
+    </section>
+
+    <section id="enter-corpus" class="routes-section" aria-labelledby="routes-title">
+      <div class="page-shell">
+        <p class="eyebrow">Enter the corpus</p>
+        <h2 id="routes-title">Follow the record across the years, measures and sources</h2>
+        <div class="route-grid">
+          <a href="./explore.html"><strong>Explore</strong><span>Compare application types and inspect exact records.</span></a>
+          <a href="./analysis.html"><strong>Analysis</strong><span>Read what the longitudinal record suggests, where it stops and offer your own insights.</span></a>
+          <a href="./data.html"><strong>Data</strong><span>Download datasets and review definitions, gaps and transformations.</span></a>
+          <a href="./about.html"><strong>About</strong><span>Assess sources, methods, provenance and limitations.</span></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer><p>© 2026 Jasna Maksimovic | This is a Civic Tech Toronto project</p><span class="footer-attribution">Contains information licensed under the Open Government Licence – Ontario</span></footer>
+</body>
 </html>

@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Download LTB Project datasets and learn how to interpret longitudinal measures, gaps, definitions and derived values.">
+  <meta name="color-scheme" content="dark light">
+  <title>Data — LTB Project</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./assets/site.css">
+  <link rel="stylesheet" href="./assets/mvp.css">
+  <script src="./assets/site.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header"><div class="header-inner">
+    <a class="wordmark" href="./" aria-label="LTB Project home"><span>LTB</span> Project</a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav"><span aria-hidden="true">☰</span><span class="sr-only">Open navigation</span></button>
+    <nav id="primary-nav" class="primary-nav" aria-label="Primary navigation"><a href="./">Home</a><a href="./explore.html">Explore</a><a href="./analysis.html">Analysis</a><a href="./data.html" aria-current="page">Data</a><a href="./about.html">About</a></nav>
+  </div></header>
+
+  <main id="main">
+    <header class="article-hero page-shell prose-shell">
+      <p class="eyebrow">Inspect and reuse</p>
+      <h1>Data</h1>
+      <p class="lede">The datasets on this page were used in the charts and interactive features on this site. Download them here, or visit the GitHub repository for the full project data. <br>If you build your own visualizations or analyses using this or the GH data, please reach out and share your work with me, I would love to see it!</p>
+    </header>
+
+    <nav class="section-nav page-shell prose-shell" aria-label="On this page" data-section-nav>
+      <!-- <span class="section-nav-label">On this page</span> -->
+      <div class="section-nav-links"><a href="#inventory-title">01 / Inventory + repo link</a><a href="#reading-title">02 / Reading the data</a><a href="#provenance-title">03 / Source and provenance</a></div><label class="section-nav-select"><span class="sr-only">Jump to a section</span><select data-section-select><option value="">Choose a section</option><option value="#inventory-title">01 Inventory</option><option value="#reading-title">02 Reading the data</option><option value="#provenance-title">03 Source and provenance</option></select></label></nav>
+
+    <section class="data-section section-band section-band--soft" aria-labelledby="inventory-title">
+      <div class="page-shell prose-shell section-band-inner">
+      <div class="section-heading"><div><p class="section-number">01 / Data inventory</p><h2 id="inventory-title">Available datasets</h2></div><p>Download the datasets used in the charts and interactive features on this site.</p></div>
+      <div class="dataset-list">
+        <article><div><h3>Application-type metrics</h3><p>1999 to 2025 · report year × application code × metric</p></div><a href="./datasets/app_type_metrics.csv" download>Download CSV</a></article>
+        <article><div><h3>Application-type dictionary</h3><p>Definitions and active periods for application codes</p></div><a href="./datasets/app_type_dictionary.csv" download>Download CSV</a></article>
+        <article><div><h3>Landlord and tenant receipt share</h3><p>1998 to 2025 · reported/calculated status</p></div><a href="./datasets/landlord_vs_tenant_receipts.csv" download>Download CSV</a></article>
+        <article><div><h3>Eviction-related L1 + L2 + L4 comparison</h3><p>1999 to 2025 · project-calculated from reported case counts and annual totals</p></div><a href="./datasets/derived_eviction_related_l1_l2_l4.csv" download>Download CSV</a></article>
+        <article><div><h3>Application-family share by year</h3><p>1999 to 2025 · one row per year × family</p></div><a href="./datasets/derived_application_family_share_by_year.csv" download>Download CSV</a></article>
+        <article><div><h3>Operational metrics</h3><p>1998 to 2025 · reported operational measures</p></div><a href="./datasets/operational_metrics.csv" download>Download CSV</a></article>
+      </div>
+      <br>
+      <p class="limit-line"><strong>Looking for more?</strong>The <a href="https://github.com/JMak22/LTB-project">project repository</a> contains additional datasets, source material and working files collected during the research.</p>
+      </div>
+    </section>
+
+    <section class="data-section section-band" aria-labelledby="reading-title">
+      <div class="page-shell prose-shell section-band-inner">
+      <div class="section-heading"><div><p class="section-number">02 / Reading the data</p><h2 id="reading-title">A few things to know about the data..</h2></div><p>The LTB has not reported the same information in the same way every year. Here are a few things to keep in mind when comparing years.</p></div>
+      <div class="reading-grid">
+        <article><h3>Missing ≠ zero</h3><p>If the LTB reported zero, the dataset says zero. A blank usually means the information wasn't reported or couldn't be reconstructed. <br>Ex. when application defaults were no longer tracked.</p></article>
+        <article><h3>Definitions can change</h3><p>A measure or application category may not mean exactly the same thing throughout the entire 27-year period. <br>Ex. when time-to-hearing was tracked in days, then in business days.</p></article>
+        <article><h3>Not everything uses the same time period</h3><p>Most annual-report data use fiscal years. Other LTB data may use calendar years, quarters or other reporting periods.</p></article>
+        <article><h3>Numbers sometimes get corrected later</h3><p>If a later official report corrects an earlier number, this project uses the corrected value and notes the change where it matters.<br>(At least I hope I noted the change.)</p></article>
+        <article><h3>Totals don't tell the whole story</h3><p>Two years with similar application totals can have a different mix of application types.</p></article>
+        <article><h3>Application counts measure volume, not difficulty</h3><p>The number of applications tells us how much work entered the system. It doesn't tell us how difficult those cases were, how much staff time they required, or what they meant for the people involved.</p></article>
+      </div>
+      </div>
+    </section>
+
+    <section class="data-section section-band section-band--soft" aria-labelledby="provenance-title">
+      <div class="page-shell prose-shell section-band-inner">
+      <div class="section-heading"><div><p class="section-number">03 / Provenance</p><h2 id="provenance-title">Where did these numbers come from?</h2></div></div>
+        <p>Most of the data in this project were transcribed or extracted from annual reports published by the Ontario Rental Housing Tribunal, Landlord and Tenant Board and Tribunals Ontario. More recent datasets also use information published through Ontario's Open Data catalogue.<br>Some files on this site are calculated from those reported values — for example, the L1 + L2 + L4 comparison. When the project calculates or combines values rather than reproducing a number directly from a source, that is identified in the accompanying notes.<br>For more about how the data were collected, checked and interpreted, see <a href="./about.html">About & Methodology</a>.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer><p>© 2026 Jasna Maksimovic | This is a Civic Tech Toronto project</p><span class="footer-attribution">Contains information licensed under the Open Government Licence – Ontario</span></footer>
+</body>
+</html>
