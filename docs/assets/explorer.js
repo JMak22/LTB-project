@@ -796,16 +796,14 @@
                 fullNumber(number(row[item.key]));
 
             return '<circle cx="' + x(index) +
-              '" cy="' +
-              y(number(row[item.key])) +
-              '" r="2.5" fill="' +
-              escapeHTML(item.colour) +
-              '" class="chart-point" ' +
-              'tabindex="0" role="img" aria-label="' +
-              escapeHTML(tooltip) +
-              '"><title>' +
-              escapeHTML(tooltip) +
-              "</title></circle>";
+                    '" cy="' +
+                    y(number(row[item.key])) +
+                    '" r="2.5" fill="' +
+                    escapeHTML(item.colour) +
+                    '" class="chart-point" aria-hidden="true">' +
+                    '<title>' +
+                    escapeHTML(tooltip) +
+                    '</title></circle>';
           })
           .join("");
 

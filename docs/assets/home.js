@@ -91,7 +91,16 @@
       const points = rows.map(function (row, index) {
         if (!hasNumber(row[item.key])) return "";
         const label = item.label + ", " + yearLabel(row.report_id) + ": " + fullNumber(row[item.key]);
-        return '<circle class="home-chart-point" cx="' + x(index) + '" cy="' + y(row[item.key]) + '" r="2.5" fill="' + item.colour + '" tabindex="0" role="img" aria-label="' + escapeHTML(label) + '"><title>' + escapeHTML(label) + '</title></circle>';
+        return '<circle class="home-chart-point" cx="' +
+                x(index) +
+                '" cy="' +
+                y(row[item.key]) +
+                '" r="2.5" fill="' +
+                item.colour +
+                '" aria-hidden="true">' +
+                '<title>' +
+                escapeHTML(label) +
+                '</title></circle>';
       }).join("");
       return "<g>" + lines + points + "</g>";
     }).join("");

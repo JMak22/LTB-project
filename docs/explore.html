@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="./assets/mvp.css">
   <script src="./assets/site.js" defer></script>
   <script src="./assets/explorer.js" defer></script>
+  <script src="./assets/analytics-consent.js" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to main content</a>
@@ -125,7 +126,7 @@
           <button id="download-csv" class="download-button" type="button">Download filtered CSV</button>
         </div>
         <div class="dataset-note"><p id="dataset-description">Annual filing totals and shares.</p><strong id="matching-count">0 matching rows</strong></div>
-        <div class="table-scroll"><table><thead id="table-head"></thead><tbody id="table-body"></tbody></table><p id="table-empty" class="empty-state" hidden>No rows match these filters.</p></div>
+        <div class="table-scroll"><table aria-labelledby="table-title"><thead id="table-head"></thead><tbody id="table-body"></tbody></table><p id="table-empty" class="empty-state" hidden>No rows match these filters.</p></div>
         <div class="pagination"><p id="page-description">Page 1 of 1</p><div><button id="previous-page" type="button" disabled>Previous</button><button id="next-page" type="button" disabled>Next</button></div></div>
       </article>
       </div>
