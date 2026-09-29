@@ -86,13 +86,28 @@
 
     <section class="invitation-section section-band section-band--soft" aria-labelledby="invitation-title">
       <div class="page-shell prose-shell section-band-inner">
-      <p class="eyebrow">An invitation</p><h2 id="invitation-title">What do you notice? What would you want to know next?</h2>
+      <p class="eyebrow">An invitation</p><h2 id="invitation-title">What do you notice? <br>What would you want to know next?</h2>
       <br>
       <p>If you work with the LTB, study housing, support landlords or tenants, work in government - or simply notice something in the record that deserves a closer look - I’d like to hear what you see.</p>
+      <p class="section-action">
+        <a class="button-link" href="#" id="project-email">Get in touch</a>
+      </p>
       </div>
     </section>
   </main>
 
   <footer><p>© 2026 Jasna Maksimovic | This is a Civic Tech Toronto project</p><span class="footer-attribution">Contains information licensed under the Open Government Licence – Ontario</span></footer>
+  <script>
+    const emailLink = document.getElementById("project-email");
+
+    emailLink.addEventListener("click", function (event) {
+      event.preventDefault();
+
+      const user = "ltb-project";
+      const domain = "jmak.pro";
+
+      window.location.href = `mailto:${user}@${domain}`;
+    });
+</script>
 </body>
 </html>
