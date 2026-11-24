@@ -43,7 +43,7 @@ This project uses publicly available information for research and civic analysis
 - integrating LTB Open Data into existing dashboard
 
 ## Tasks/cleanup finished:
-- Average Days to First Hearing dashboard done, based on Tribunals Ontario Open Data reports, with thanks to @VinayNarne for sticking with it and helping to surface some clarity from the chaos
+- Average Days to First Hearing dashboard done, based on Tribunals Ontario Open Data reports, with thanks to [@VinayNarne](https://github.com/VinayNarne) for sticking with it and helping to surface some clarity from the chaos
 - Operational metrics -- contains number of applications filed, resolved and unresolved for each report year. Some data is not available but can be calculated.
 - Regional metrics -- contains number of applications filed, resolved and unresolved in each of the 8 regions for report years 1998-2014
 - Financial metrics -- contains the cost of filing for the years when it was reported in the Annual Reports; budget, expenditures, salaries, other expenses and revenue for report years 2006-07, 2007-08 and 2009-10. Operating budgets were not reported in other Annual Reports, the data may be available elsewhere.
