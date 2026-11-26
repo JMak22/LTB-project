@@ -19,9 +19,15 @@ Python scripts and processing utilities.
 Methodological notes and extraction decisions.
 
 ## docs/
-Project documentation and explanations.
+Project website docs and HTML pages
 
-## working_data/
+## documentation/
+List of canonical datasets, how which species of file was obtained (starting with raw_pdfs/ and going from there), metric dictionary and a list of scripts used and their purposes
+
+## md_reports/
+Markdown version of the annual reports
+
+## ~~working_data/~~
 These spreadsheets are intermediate working and normalization documents used during manual extraction of annual report metrics.
 
 They contain:
@@ -33,8 +39,8 @@ They contain:
 
 They should not be treated as canonical final datasets.
 
-### annual_report_biography_extracts.zip
+### ~~annual_report_biography_extracts.zip
 This archive contains portions of reports that contained adjudicator biographies. It was OCR generated, so it may contain transcription errors, gaps between characters etc. It was used to derive adjudicator counts via creating a list of canonical names and counting those names.
 
-## notes/
+## ~~notes/
 Working notes and exploratory material.
